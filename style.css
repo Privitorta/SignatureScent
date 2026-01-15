@@ -1,0 +1,44 @@
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.2;
+    margin: 0;
+    padding: 20px;
+    background-color: #ffffff;
+    color: #333;
+    font-size: 14px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #222;
+}
+
+img {
+    width: 5rem;
+    height: auto;
+    padding: 5px;
+}
+
+strong {
+    font-weight: 600;
+}
+
+em {
+    font-style: italic;
+}
+
+u {
+    text-decoration: underline;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #b9b9b9;
+    margin: 20px 0;
+}
