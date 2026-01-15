@@ -42,3 +42,26 @@ hr {
     background-color: #b9b9b9;
     margin: 20px 0;
 }
+
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    .container {
+        padding: 10px;
+    }
+
+    img {
+        width: 3rem;
+    }
+
+    .katex {
+        font-size: 0.9em;
+    }
+
+    .katex-display {
+        overflow-x: auto;
+        overflow-y: hidden;
+    }
+}
