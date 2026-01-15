@@ -59,7 +59,7 @@ Diamo il via alle danze.
 Normalmente direi “prima le signore”, ma stavolta, voglio primi i maschietti.
 
 **DIOR Sauvage**  
-![image1](images/image60.png)  
+![](images/image60.png)  
 *9/10*  
 Il cavallo di battaglia. L’assoluto, l’invincibile, insostituibile, insopportabile Sauvage. Il paziente zero della tossicità. Invasivo, molesto, insofferente, profondamente e splendidamente *irritante*. Non sai leggere i contesti sociali. Non ti sai vestire. Sei un un manipolatore da quattro soldi patetico e radioattivo, usi tecniche da rookie, non sai bene quello che fai, hai molta esperienza alle spalle perchè hai iniziato presto ma punti bene o male sempre alle stesse vittime; molto probabilmente ti è davvero piaciuta una donna e poi non ti sei mai più ripreso (spoiler: avevi 13 anni, vedi di svegliarti). Se lo metti e non dici bugie dalla mattina alla sera, sei un coglione che ruba il profumo al papà per andare al Polaris. Sei molto probabilmente moro e alto. Ah e, I hate to break it to you but, te l’hanno mai detto che i denti si lavano almeno 3 volte al giorno?
 
@@ -80,7 +80,7 @@ Classico ragazzo con lo spray all’acqua di mare che si tocca il ciuffo ogni 4 
 Narcisismo patologico legato al conto in banca. Il ragazzo che non accetta un "no".  Uno che non ama nessuno se non lo specchio. La tua vita è una continua gara a “chi ce l'ha più lungo”. Sei il tipo che parla di investimenti, startup e mindset mentre cerca di convincere una ragazza a fare 50/50 alla prima cena. Spoiler, spenderesti soldi che non hai guadagnato lo stesso. Manipoli le persone facendole sentire inferiori alla tua presunta ascesa sociale. Sei noioso, ripetitivo e puzzi di ananas bruciato e disperazione per uno status che non avrai mai veramente. La tua boccetta costa 400€ ma la tua dignità non arriva a 5 centesimi. Un vuoto a perdere in giacca e cravatta.
 
 **JEAN PAUL GAULTIER Le Beau Le Parfum**  
-![image5](images/image13.png)  
+![](images/image13.png)  
 *7/10*  
 Narcisismo estetico estremo. Passi più tempo davanti allo specchio che a interagire con la realtà. Vuoi essere guardato, ammirato, desiderato, ma non hai assolutamente nulla da offrire oltre alla superficie. Un manichino di plastica con l’ego ipertrofico.
 
@@ -244,7 +244,7 @@ Fai di me ciò che vuoi\!
 Raffinato. Sembra un uomo sensibile e intelligente, quasi uno che piange guardando i film. Cazzate. Ti fa abbassare le difese poi ti distrugge con una precisione chirurgica. È il tipo che ti fa sentire l'unica che lo capisce veramente per poi dirti che sei pazza quando chiedi coerenza. Elegante, parla bene, veste bene… ma *sotto l’odore di rossetto costoso* c'è amianto puro che non esiterà a sacrificarti per il suo ego. Uomo nero vestito da principe azzurro, fr. Scappare. E lo dico consapevole che è uno dei miei profumi preferiti.
 
 **PARFUMS DE MARLY Layton**  
-![image35](images/image25.png)  
+![](images/image25.png)  
 *10/10*  
 *“ E ritorni così, nel mio mondo così, imprevedibile*  
 *Mi riavvolgi di te, ti riappropri di me*  
@@ -265,25 +265,25 @@ Raffinato. Sembra un uomo sensibile e intelligente, quasi uno che piange guardan
 Di nuovo, le mie parole, per questo profumo, non sarebbero bastate.
 
 **LALIQUE Encre Noire**  
-![image36](images/image101.png)  
+![](images/image101.png)  
 *6/10*  
 L’edgy dei poveri. Il "finto depresso" che ha fatto della tristezza la sua intera personalità perché non ha nient'altro da offrire. Vuoi disperatamente sembrare un "artista tormentato". Sei un manipolatore affettivo che usa la sua presunta malinconia come esca per attirare donne con la sindrome della crocerossina.   
 Sei quello che “Scusa se non ti ho risposto, mi ero perso guardando il cielo”, poi si scopre che stavi rankando su LOL. Sei pesante, lugubre. Un trauma noioso e evitabile, non sei da curriculum.
 
 **YSL Y**  
-![image37](images/image52.png)  
+![](images/image52.png)  
 *7/10*  
 Sei il tipo che pensa che la mascolinità si misuri in base a quante volte riesci a interrompere una donna mentre parla. Usi la forza, il rumore e l'intimidazione per ottenere quello che vuoi. Hai problemi a gestire la rabbia se qualcuno ti sorpassa in autostrada.
 
 **AMOUAGE Interlude Man**  
-![image38](images/image120.png)  
+![](images/image120.png)  
 *6/10*  
 Il dittatore. Chi indossa questo profumo non cerca consensi, cerca sudditi.   
 Egocentrico di proporzioni bibliche che vuole letteralmente asfissiare chiunque si trovi nel raggio di 10 metri.   
 Vuoi che tutto ruoti intorno a te, alle tue regole e ai tuoi ritmi. Non accetti critiche, non accetti compromessi. Delirio di onnipotenza fatto a profumo.
 
 **YSL MYSLF**  
-![image39](images/image117.png)  
+![](images/image117.png)  
 *9/10*  
 A me questo profumo tristemente piace da matti. So che è per i manipolatori nabbi ma mi piace. E sono confident nel dire che se lo usi sei anche un solid 8/10 ALMENO\!
 
@@ -293,39 +293,39 @@ A me questo profumo tristemente piace da matti. So che è per i manipolatori nab
 Whatever you say, handsome.
 
 **TOM FORD Oud Wood**  
-![image41](images/image109.png)  
+![](images/image109.png)  
 *5/10*  
 L’aspirante magnate che vive di apparenze. Pensi davvero che questo profumo basti a darti un’aura di potere e autorità?   
 Usi il gergo aziendale anche a letto e che valuti le persone in base al loro potenziale di utilità. Sei ossessionato dallo status e dal controllo, ma sotto quella coltre di sintetico sei un uomo terrorizzato dal fallimento e dal giudizio altrui. Sei quello che compra i libri di crescita personale per lasciarli sul comodino e farsi vedere acculturato. Sei freddo, calcolatore. Sei un mobile di design scomodo, bello da vedere (forse… ho dubbi anche lì), incubo da avere in casa. Capitalismo olfattivo.
 
 **GIORGIO ARMANI Acqua di Giò**  
-![image42](images/image58.png)  
+![](images/image58.png)  
 *6/10*  
 Il profumo di tuo (e mio) padre, o di un uomo che ha smesso di evolversi quando è caduto il Muro di Berlino. Sei l'uomo sicuro, quello noioso. Manipoli per le circostanze, ti piace fare il trattamento del silenzio, ma spesso e volentieri ti limiti a esistere, sperando che qualche crocerossina ti scelga per la tua "stabilità" che, spoiler, non ESISTE. Sei l’antisesso.
 
 **TOM FORD Ombré Leather**  
-![image43](images/image139.png)  
+![](images/image139.png)  
 *7/10*  
 Bombo.  
 Peccato che lo indossano solo ragazzetti che sono terrorizzati all’idea di sporcarsi le mani con le uova e la farina insieme. Un uomo rude, tutto cuoio e mistero??? Cazzata, sei un insicuro che ha bisogno di un odore da duro per nascondere che piangi se ripensi alla friendzone delle medie. Forse sei pure fregno, ma dopo dieci minuti di conversazione si capisce che il cuoio è l'unica cosa profonda che hai.
 
 **MAISON MARGIELA Jazz Club**  
-![image44](images/image99.png)  
+![](images/image99.png)  
 *9/10*  
 Profumo buono da togliere il fiato, ma tu sei una testa di cazzo, sei un rompipalle, edgy performativo, bastaaaaa, hai rotto i coglioni a tutti e nessuna ti vorrà mai davvero dopo averti visto i repost.
 
 **LE LABO Gaiac 10 Tokyo**  
-![image45](images/image55.png)  
+![](images/image55.png)  
 *9/10*  
 Mai avuto una relazione. Innamorato della stessa tipa da 5 anni. Lei intanto vive tranquillissima. Tu hai cambiato capelli 10 volte e ti fai comunque cagare. Cultore dei profumi, però; bravo. Sei autistico by any chance?
 
 **PENHALIGON Fortuitous Finley**  
-![image46](images/image47.png)  
+![](images/image47.png)  
 *10/10*  
 Cosa devo fare per conquistarti? I’ll go the long way, no joke.
 
 **PHLUR Father Figure**  
-![image47](images/image83.png)  
+![](images/image83.png)  
 *9/10*  
 Sarebbe unisex, ma lo metto qui. Comunque, chiunque lo indossi, ha diritto a un posto vicino a me in un letto. E non per il nome.
 
@@ -350,22 +350,22 @@ Mi piace perchè non urla ed è elegante, ha un che di raffinato. Moooolto woman
 Mi vergogno a dire che mi piace, però si, mi piace. Quanto a te sei problematico, devi trovare una cura ai tuoi complessi, e smettila di riversare la tua rabbia sulle minorenni (spoiler: uniche che riesci a rimorchiare con le tue tattiche). Fingi una maturità che non possiedi assolutamente. Sei quello che ammazza e poi dice “Perchè sei così sensibile?”.
 
 **ORTO PARISI Megamare**  
-![image52](images/image18.png)  
+![](images/image18.png)  
 *6/10*  
 Non siamo nemmeno più di fronte a un profumo, ci stiamo proprio sedendo davanti ad un disturbo antisociale di personalità liquido. Direi uno che gode nel dominare lo spazio fisico degli altri senza permesso, la versione olfattiva di un predatore che marca il territorio col piscio, ma lo fai con una molecola che non va via neanche con l'acido solforico. Hai bisogno di urlare per esistere. Hai pochi modi di entrare nelle vite degli altri e questo profumo è una di quelle. Sei tossico nel midollo, hai bisogno di una perizia psichiatrica prima di una signature scent.
 
 **M. MICALLEF Notorious XO**  
-![image53](images/image34.png)  
+![](images/image34.png)  
 *10/10*  
 SOOOO FUCKING SEXY. Se solo non fossi così cazzo pieno di te, mamma mia.
 
 **HUGO BOSS Bottled Absolu**  
-![image54](images/image116.png)  
+![](images/image116.png)  
 *8/10*  
 Buonissimo. Riguardo a te invece, sei un aspirante sociopatico. L'evoluzione del "Boss" originale, il che significa che sei ancora più arrogante (e interessante, però). Cerchi un'aria di autorità e spiritualità oscura, hai manie di grandezza. Tratti le relazioni come contratti da ottimizzare e le persone come asset da sfruttare. Sei freddo, cinico e sogni una collezione di orologi, che sicuramente varrebbe più della tua onestà intellettuale. Se una donna ti frequenta è solo perché spera che tu sia ricco quanto cerchi di apparire; spoiler: finirai indebitato fino al collo per mantenere un'immagine che non ti appartiene.
 
 **ISSEY MIYAKE Le Sel d’Issey**  
-![image55](images/image38.png)  
+![](images/image38.png)  
 *8/10*   
 Egoista travestito da monaco. Il manipolatore "Zen" (o presunto tale). Vuoi proiettare l'immagine dell'uomo equilibrato, minimalista, connesso con la natura e privo di vizi. Sei un blocco di ghiaccio emotivo. Quello che sparisce appena si stanca di dover gestire le emozioni di un altro essere umano. Passivo-aggressivo ai massimi livelli.
 
@@ -395,7 +395,7 @@ Finalmente, le donne. Iniziamo.
 Hai 14 anni? Immagino di no. Allora spiegami, senza iniziare la frase con “c’è”, perchè odori come lo spogliatoio di una palestra femminile delle medie. Amore, sapere di "*pera e zucchero*" e avere le mutandine VS glitterate che fanno capolino dai light wash mom jeans di PULL&BEAR è un grido d'aiuto a cui nessuno (se non disperati) risponderà.
 
 **PRADA Paradoxe**  
-![image59](images/image125.png)  
+![](images/image125.png)  
 *8/10*  
 Insicura come la merda, hai tanti, ma TANTI amici falsi. Ovviamente anche tu lo sei. Una semi-diva though, non ti vesti male, ti prendi molto cura dell’estetica e in generale ci tieni molto ad apparire, che ti fa onore, visto che dentro sei una merda. Brutalmente direi anche che sei piuttosto stupida, ma chi usa questo profumo si posiziona su un pendolo che va dal tossicismo puro, meschino e fottutamente geniale alla più blanda distesa di pallida stupidità mai vista. Hai una cartella in evidenza sul profilo dove metti le tue foto e si chiama “ego” e spoiler: non sai che cazzo significa quella parola. Ascolti musica di merda (ma son gusti!). Probabilmente hai un cane piccolo, l’hai avuto, o lo vorresti.
 
@@ -486,58 +486,58 @@ Lo uso anche io. È un profumo molto buono che si addice a una persona dolce, di
 Premesso che non credo esistano profumi più auto-esplicativi di quelli che hanno la rosa dominante nelle note olfattive, di questo oltre lo scontato posso anche dire che vuoi proiettare l’immagine della ragazza educata, della figlia perfetta che ogni domenica va a pranzo dai nonni e non ha mai detto una parolaccia in vita sua. Sei quella che ai matrimoni piange "perché è tutto così bello" e poi passa il resto della serata a sparlare del vestito della sposa con le altre amiche lobotomizzate.
 
 **CHLOÉ Chloé Eau de Parfum Intense**  
-![image77](images/image114.png)  
+![](images/image114.png)  
 *5/10*  
 *public class ChloéIntense extends Chloé*, e l’attributo in più è *private boolean thinksShesDark \= true;* sei quella sopra ma con un ego leggermente più ingombrante e una scia che fa venire il mal di testa a chiunque ti stia vicino. Sei la prova che si può essere pesanti anche cercando di sembrare pulite. Sei una che posta citazioni di libri che non ha mai letto e che si finge tormentata perché fa figo. Mettiti il maglioncino di cashmere sintetico e torna a scrollare reel di gattini, “l’intensità” non sai manco dove sta di casa. L'unica cosa intensa nella tua vita è l'ansia che provi quando non ricevi abbastanza validazione esterna.
 
 **CHRISTIAN LOUBOUTIN Loubirouge**  
-![image78](images/image32.png)  
+![](images/image32.png)  
 *10/10*  
 Diva indiscussa. Regina. THIS\! The shit I like. My *humble* type in women.
 
 **VALENTINO Born In Roma Donna**  
-![image79](images/image31.png)  
+![](images/image31.png)  
 *10/10*  
 *My baby*. Amo questo profumo. Ma rimane la average ragazza che va in discoteca e si fa i selfie nel bagno per 3/4 del tempo, esce solo quando sente “Mi Gente” o “Ginza” in cassa. Ti ubriachi con 1 Sex on the Beach scarico. Basic baddie che crede di aver scoperto l'America. Adori i complimenti, ma non ne fai mai, e se li fai, lo fai solo per riaverli indietro; molto probabilmente neanche pensi davvero quello che dici. Compri i completini di Gymshark coordinati, fai i video mentre "ti alleni" (ovvero ti aggiusti il culo davanti allo specchio per 45 minuti) e poi torni a casa a mangiare pizza surgelata perché il tipo della palestra, che chiaramente metteva Eros o Sauvage, non ti ha degnata di uno sguardo.
 
 **VALENTINO Born In Roma Donna Extradose**  
-![image80](images/image67.png)  
+![](images/image67.png)  
 *10/10*  
 Spaziale lui. Tu in senso negativo, invece. Sei eccessiva, rumorosa e occupi troppo spazio vitale.   
 Ricorda che l’unica cosa di "extra" che hai è il tempo che passi a editarti le foto.
 
 **VALENTINO Born In Roma Donna Intense**  
-![image81](images/image87.png)  
+![](images/image87.png)  
 *9/10*  
 STALKING MASTER. E hai capito che per farti notare devi alzare il volume. Resti una che segue i trend come fossero la Bibbia, e non ritenerti salva, *public class valentinoBornInRomaIntense extends valentinoBornInRoma*.
 
 **VALENTINO Born In Roma Donna Yellow Dream**  
-![image82](images/image135.png)  
+![](images/image135.png)  
 *6/10*   
 La limonaia a Capri, peccato che tu sai di detersivo per i piatti. Sei quella che fa le storie "Morning Routine" alle 6:00 del mattino con la luce naturale, dopo il video torni a dormire fino a mezzogiorno con la bava sul cuscino.
 
 **VALENTINO Born In Roma Donna Coral Fantasy**  
-![image83](images/image69.png)  
+![](images/image69.png)  
 *8/10*   
 l tuo intero feed Instagram è un tramonto arancione sovrasaturo con la scritta "Golden Hour". Sei quella che ordina uno Spritz solo perché si abbina al vestito, lo fotografa da diciotto angolazioni diverse e poi lo lascia sgasare perché eri troppo impegnata a controllare le views delle storie. Pensi di avere "Main Character Energy" ma sei la comparsa con la gonnellina fru fru di Bershka che si vede mezzo secondo in un film osceno girato tipo a Riccione.
 
 **VALENTINO Born In Roma Donna Green Stravaganza**  
-![image84](images/image78.png)  
+![](images/image78.png)  
 *8/10*   
 Quella che "io sono diversa, io bevo Matcha". Fai la fila di due ore pur di entrare da Starbucks. Dici a tutti che ami la natura e ma l'unica cosa verde che vedi regolarmente è il filtro "Indie" che usi per sembrare profonda ed enigmatica mentre fissi il vuoto fuori dal finestrino del treno.
 
 **MAISON MARGIELA Lazy Sunday Morning**  
-![image85](images/image22.png)  
+![](images/image22.png)  
 *1/10*  
 Ma come fai a scegliere come signature un profumo che sa di cane bagnato? Non dà la minima idea di pulito che pensi di trasmettere, non ricordi le lenzuola pulite, sai di lavanderia a gettoni. Hai un ego gonfiatissimo. Lo slick back in teoria andrebbe fatto una volta ogni tanto, lo fai talmente spesso (perchè spoiler: non ti lavi) che ora hai la stessa stempia del tuo fidanzato.
 
 **MUGLER Alien**  
-![image86](images/image21.png)  
+![](images/image21.png)  
 *0/10*  
 Osceno è un complimento. Aberrante. Abissale. Sei rimasta bloccata nel 2010\. O hai un disperato bisogno di attenzioni, anche se negative... questo profumo non lascia la scia come ti ostini a dire, commette un crimine di guerra biologico. Hai una personalità così invadente che Alien è l'unico modo per avvisare la gente di scappare prima ancora che tu apra bocca.
 
 **DIOR J’Adore**  
-![image87](images/image82.png)  
+![](images/image82.png)  
 *0/10*  
 Stammi lontana 10km. Ah e palesemente conosci solo questo e hai in casa un 100ml che tuo padre usa giustamente per rinfrescare il bagno dopo aver cagato.
 
@@ -549,53 +549,53 @@ Ti credi una principessa di un film Disney. Piangi in bagno dopo due spritz perc
 Provaci\! Ah no… il paparino è andato via tanto tempo fa…
 
 **DIOR Hypnotic Poison**  
-![image90](images/image94.png)  
+![](images/image94.png)  
 *6/10*  
 Tu e questa cazzo di mandorla. Ti senti una seduttrice letale, una ragazza che lascia il segno, sei rimasta bloccata all'idea di seduzione che avevi a 16 anni. Pensi di essere Monica Bellucci e l’unica gente che stordisci è quella che poverina ti trova in ascensore. Se lo usi in estate meriti un girone personale. Posso dire quasi con certezza che fumi, quindi il misto di tabacco, sigaretta, rossetto di Yves Rocher e Hypnotic Poison… devo davvero commentare? Che *schifo*
 
 **DIOR Poison Girl**  
-![image91](images/image6.png)  
+![](images/image6.png)  
 *6/10*  
 Lo usavo alle medie. Non so. Devo dire altro? Il profumo è bait pura, si chiama Poison Girl e l’unica roba che dà idea di essere stridente è l’arancia amarissima in apertura, poi si spegne tutto e diventa una bomba zuccherata diabetica che ti fa pentire di essere nata.
 
 **LANCOME La Vie Est Belle**  
-![image92](images/image23.png)  
+![](images/image23.png)  
 *1/10*  
 Il vuoto pneumatico fatto a persona. Letteralmente il "Live, Laugh, Love" dei profumi. Wannabe sweet girl ma sei un serpente e neanche sei capace a fare la stronza. È  talmente dolce e onnipresente che manda diabete istantaneo a chiunque si trovi nel raggio di 5 km. Se lo usi e ti piace DAVVERO, la tua massima aspirazione è una giornata all'outlet. E poi comunque ordinerai a casa su TEMU i corrispettivi. Acquisti ancora su Shein. Ti sei rasata la faccia almeno una volta per la glass skin.
 
 **KILIAN Love Don’t Be Shy**  
-![image93](images/image105.png)  
+![](images/image105.png)  
 *9/10*  
 Qui le opzioni sono due: sei ninfomane e bella da far venire i brividi, o sei ninfomane e rompi gli specchi quando rivolgi lo sguardo verso di loro. Sinceramente adoro questo profumo, il che implica che ho cose terribili da dirgli; comunque, tu ti sai *gestire* relativamente bene. Anche se sei spesso giudicante, non lo dai a vedere e nascondi bene quanto in realtà detesti metà delle persone che ti ronzano attorno. Il profumo lo conosco e so che è persistente, quindi se è la tua signature, vuoi dare nell’occhio, e se vuoi dare nell’occhio in QUESTO modo, il papà deve averci dato dentro in infanzia. You know how they say? Loved with *every inch*.
 
 **GIARDINI DI TOSCANA Bianco Latte**  
-![image94](images/image33.png)  
+![](images/image33.png)  
 *8/10*  
 Wowww siii\! Che bello\! Odori di un frappè alla vaniglia lasciato a 40 gradi al sole\! Provi a fare la clean girl. Non hai preso mezza decisione buona nella vita. Ossessionata dall'approvazione altrui, compri tutto quello che vedi su tiktok/instagram. Mi dai idea di lavarti poco.
 
 **LATTAFA Eclaire**  
-![image95](images/image39.png)  
+![](images/image39.png)  
 *7/10*  
 La versione disperata di quella che mette Bianco Latte. Almeno lei ha speso i soldi per fare la sua parte. Tu non solo vuoi odorare di pasticceria industriale ma vuoi pure farlo risparmiando perché hai speso tutto il budget in skincare inutile (e sbagli anche gli step). Sei un incubo per le narici, le orecchie e i neuroni altrui. Molto probabilmente ti sei rasata la faccia con quelle lamette di plastica e ora sei rovinata a vita.
 
 **MAISON ASRAR Vanilla Voyage**  
-![image96](images/image35.png)  
+![](images/image35.png)  
 *7/10*  
 Bancarella di dolci. Troppo, troppo invadente. Fai venire male al naso e alle orecchie anche tu. Mi spiace che ti abbiano presa di mira da piccola ma non è con un profumo al caramello, miele e burro che risolverai i traumi.
 
 **ENRICO COVERI Contemporary Girl Vanilla Lover**  
-![image97](images/image81.png)  
+![](images/image81.png)  
 *7/10*  
 Questo è il mio profumino pre-nanna. Costa stra poco e sa di latte, zucchero e vaniglia. Talmente dolce che dopo 4 spruzzate entra nel naso, pizzica e fa venire un prurito alle narici che rende una tortura piacevole. La crema corpo è 1000x. Anyway, anche tu, Bianco Latte wannabe, vuoi troppe attenzioni, ti fai centoduemila foto al giorno (poi se ne salvano 2 ma quello è un altro discorso), egoista, meschina, grande bugiarda.
 
 **CAROLINA HERRERA Good Girl**  
-![image98](images/image24.png)  
+![](images/image24.png)  
 *9/10*  
 My baby. Love him so much. Rimangono molte, molte, molte critiche da fare però.    
 Ti senti una femme fatale ma non sai manco camminare sui tacchi (con la t volutamente minuscola, visto che molto probabilmente non sai cosa significa infilare il tuo tiktokiano 37 smalto bianco in un Tacco vero e degno) e finisci la serata con le Air Force di 3 anni fa coi buchi. Ti impegni e cerchi di essere trasgressiva ma inevitabilmente fallisci. La mossa che fai quando spruzzi dalla bottiglia di profumo è forse la cosa più femminile che riesci a fare insieme alle seghe troppo veloci. Il tuo papà (se è ancora raggiungibile) piange quando ti vede i vestiti per uscire il sabato sera.
 
 **CAROLINA HERRERA Good Girl Blush**  
-![image99](images/image132.png)  
+![](images/image132.png)  
 *7/10*  
 *public class GoodGirlBlush extends GoodGirl*, ma con meno coraggio e più figlia della propaganda del colore rosa. Sei la versione soft di una che vorrebbe essere cattiva e poi chiede scusa anche ai mobili quando ci sbatte contro. Total people pleaser. ti piaceva il trend “okokok lalalala” perchè hai bisogno di essere babied nelle braccia di qualche bastardo che ti mette le corna 2 volte al giorno. Continua pure a spendere 60 euro di babyboomer dall’estetista e ricorda che con gli stessi soldi ti fai una seduta dallo psicologo (almeno una) (e non scopartelo).
 
@@ -615,23 +615,23 @@ Mi piaci. Sai come divertirti, però ti rispetti, e prendi in giro i manipolator
 Ossessionata dal layering. Non ti basta un profumo, ne devi mettere sette perché "vuoi creare la tua firma". In realtà odori solo di vanillina chimica di merda. Sei innocua ma noiosissima. Chubby vibes. Te ne spruzzi a quintali sperando di avvicinare la gente ma ha l’effetto opposto. Ti crei una nube che repelle qualsiasi essere. Meglio? Ofc not, attention keeps you alive…
 
 **KAYALI Yum Boujee Marshmallow | 81**  
-![image103](images/image5.png)  
+![](images/image5.png)  
 *10/10*  
 L’ho avuto. Lo mettevo quando volevo sembrare una tenerina. Non funzionava. Anche perchè lo indossavo tutta vestita di nero con due occhiaie che mi arrivavano ai piedi, non è proprio il mio vibe. Ma funziona su una ragazzetta 150cm che si veste come una Winx. Quindi o sei così, o sembri una cretina che vuole odorare di bancarella di dolci festiva. Non ti sta bene. Hai mai chiesto tipo… boh… a un parrucchiere per quei capelli?
 
 **KAYALI Vanilla Candy Rock Sugar | 42**  
-![image104](images/image17.png)  
+![](images/image17.png)  
 *10/10*  
 L’ho avuto. Molto simile a quello sopra. Anzi, farei copia incolla, ma poi fa brutto.  
 Di sicuro hai il culone. Poi che sia bello o brutto non lo so, però hai il culo grosso.
 
 **KAYALI Yum Pistachio Gelato | 33**  
-![image105](images/image74.png)  
+![](images/image74.png)  
 *8/10*  
 Oddio vorrei dire qualcosa di carino perchè la fragranza in sè è buona e molto dolce nello stile delle due sopra, classico Kayali gourmand, ma sei l’equivalente degli influencer ossessionati col pistacchio che se lo mettono pure nel culo quindi non lo so… stai nel tuo…
 
 **KAYALI Eden Juicy Apple | 01**  
-![image106](images/image127.png)  
+![](images/image127.png)  
 *9/10*  
 Sei una persona tanto sensibile. Permalosissima. Ti cibi di relazioni effimere e vai avanti da anni con le stesse persone perchè hai il terrore dei cambiamenti. Non accetti che qualcuno ti dia una critica costruttiva. Però, sei molto bella.
 
@@ -656,12 +656,12 @@ Devi andare in palestra. E sei troppo kitsch, non ti si addice, l’attenzione c
 Baddie. Anche io vorrei i tacchi YSL, tranquilla, non sei l’unica che sta risparmiando per averli. Comunque sei sempre cattiva, troppo. Devi imparare anche a tenerti vicino qualcuno. Volevi sangue, eccoti il massacro…
 
 **PACO RABANNE Olympéa**  
-![image111](images/image118.png)  
+![](images/image118.png)  
 *6/10*  
 Sinceramente mi spaventi. Sia per i gusti pessimi che per come *sei*. La tua vita è un caos primordiale che cerchi di tenere insieme con le unghie finte e Instagram. Sei quella che si definisce "un uragano", "difficile da gestire", "una guerriera", in realtà sei una ragazza con una soglia dell'attenzione di tre secondi e una lista di ex che hanno dovuto fare terapia di gruppo per riprendersi dal tuo lovebombing. Sei stucchevole, invadente e il problema è che sei fottutamente convinta di essere un premio.
 
 **YSL Mon Paris**  
-![image112](images/image119.png)  
+![](images/image119.png)  
 *6/10*  
 La almond mom deve proprio averti rovinato la vita. Body dysmorphia at its PEAK\! Comunque sei insopportabile, noiosa, ma bellissima.
 
