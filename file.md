@@ -522,7 +522,7 @@ La limonaia a Capri, peccato che tu sai di detersivo per i piatti. Sei quella ch
 l tuo intero feed Instagram è un tramonto arancione sovrasaturo con la scritta "Golden Hour". Sei quella che ordina uno Spritz solo perché si abbina al vestito, lo fotografa da diciotto angolazioni diverse e poi lo lascia sgasare perché eri troppo impegnata a controllare le views delle storie. Pensi di avere "Main Character Energy" ma sei la comparsa con la gonnellina fru fru di Bershka che si vede mezzo secondo in un film osceno girato tipo a Riccione.
 
 **VALENTINO Born In Roma Donna Green Stravaganza**  
-![image84](images/image84.png)  
+![image84](images/image78.png)  
 *8/10*   
 Quella che "io sono diversa, io bevo Matcha". Fai la fila di due ore pur di entrare da Starbucks. Dici a tutti che ami la natura e ma l'unica cosa verde che vedi regolarmente è il filtro "Indie" che usi per sembrare profonda ed enigmatica mentre fissi il vuoto fuori dal finestrino del treno.
 
