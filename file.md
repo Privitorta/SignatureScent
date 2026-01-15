@@ -288,8 +288,8 @@ Vuoi che tutto ruoti intorno a te, alle tue regole e ai tuoi ritmi. Non accetti 
 A me questo profumo tristemente piace da matti. So che è per i manipolatori nabbi ma mi piace. E sono confident nel dire che se lo usi sei anche un solid 8/10 ALMENO\!
 
 **DIPTYQUE L’Eau Papier**  
-![](images/image130.png) 
-*10/10*  
+![](images/image130.png)
+<br>*10/10*  
 Whatever you say, handsome.
 
 **TOM FORD Oud Wood**  
