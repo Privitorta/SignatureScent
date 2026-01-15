@@ -757,7 +757,7 @@ Hai problemi a gestire la rabbia. Sei molto intelligente, non riesci a fingere i
 YESSSSS GIRLLLLLL\! Mi piaci. Ma tanto. Sei bella, ma bella fr, giving VS model body \+ face card.
 
 **BURBERRY Burberry Her**  
-![Burberry Her](images/image53.png)  
+![Burberry Her](images/image54.png)  
 *7/10*  
 Sei una ROMPICOGLIONI di *ULTIMA* categoria. Veramente rompi le palle a chiunque. Hai sempre da ridire, lamentarti, guardare male. Non ti sai fare le foto. Nauseabonda come il profumo. Molto molto stupida. Quando cazzo le togli le foto con l’ex dal telefono? Cosa aspetti? Di fargli la videocassetta come in 13 reasons why?
 
