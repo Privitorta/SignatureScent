@@ -2,7 +2,7 @@ body {
     font-family: 'Inter', sans-serif;
     line-height: 1.2;
     margin: 0;
-    padding: 20px;
+    padding: 10px;
     background-color: #ffffff;
     color: #333;
     font-size: 14px;
@@ -45,19 +45,16 @@ hr {
 
 @media (max-width: 768px) {
     body {
-        padding: 10px;
-    }
-
-    .container {
-        padding: 10px;
+        font-size: 12px;
+        padding: 4px;
     }
 
     img {
-        width: 3rem;
+        width: 4rem;
     }
 
     .katex {
-        font-size: 0.9em;
+        font-size: 0.8rem;
     }
 
     .katex-display {

@@ -404,7 +404,7 @@ Insicura come la merda, hai tanti, ma TANTI amici falsi. Ovviamente anche tu lo 
 *4/10*  
 Regina della dissonanza cognitiva. Vuoi disperatamente proiettare un’immagine di te che non ti appartiene e non ti apparterrà MAI. Vuoi che la gente ti veda come una bambolina innocua, una soft girl un po’ svampita che ha bisogno di essere protetta. Brava a mentire. *Da piccolina ti è successo qualcosa di brutto brutto, eh?* 
 $$
-\{X \in Angel \iff BodyCount(X) \in \mathbb{N} : 50 < BodyCount(X) \leq 100\}
+\{X \in Angel \iff 50 < BodyCount(X) \leq 100\}
 $$  
 
 **YSL Libre**  
