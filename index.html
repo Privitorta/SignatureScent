@@ -9,29 +9,19 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container" id="content"></div>
+    <div class="container">
+        <div id="intro-content"></div>
+        <div id="gender-selection" style="display: none;">
+            <div class="gender-buttons">
+                <button id="btn-donne" class="gender-btn" onclick="loadGenderContent('donne')">DONNE</button>
+                <button id="btn-uomini" class="gender-btn" onclick="loadGenderContent('uomini')">UOMINI</button>
+            </div>
+        </div>
+        <div id="perfume-content"></div>
+    </div>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
-    <script>
-        fetch('file.md')
-            .then(response => response.text())
-            .then(markdown => {
-                const html = marked.parse(markdown);
-                document.getElementById('content').innerHTML = html;
-                renderMathInElement(document.getElementById('content'), {
-                    delimiters: [
-                        {left: '$$', right: '$$', display: true},
-                        {left: '$', right: '$', display: false},
-                        {left: '\\(', right: '\\)', display: false},
-                        {left: '\\[', right: '\\]', display: true}
-                    ]
-                });
-            })
-            .catch(error => {
-                // console.error(error);
-                document.getElementById('content').innerHTML = '<p>Niente, non si è caricato, riprova più tardi o vai a farti una vita.</p>';
-            });
-    </script>
+    <script src ="script.js"></script>
 </body>
 </html>
