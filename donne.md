@@ -68,7 +68,7 @@ Minimalista? Tesoro, no, sei *terrorizzata* dall'idea di dare fastidio a qualcun
 
 **BYREDO Gypsy Water**  
 ![](images/image19.png)  
-*3/10*  
+*8/10*  
 Hai un tappeto di cristalli in camera e fai yoga tre volte a settimana, poi la notte ti spari 20 gocce di ansiolitico.   
 Spendere 200€ per un profumo che dura quanto un 13enne porn addict è una delle tue red flag principali.
 
