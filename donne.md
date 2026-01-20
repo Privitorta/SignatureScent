@@ -28,11 +28,7 @@ Se avessi SOLO l'olfatto come senso funzionante, riconoscerei i daddy issues di 
 ![](images/image9.png)  
 *10/10*  
 Visto che sono le mie signature, non commenterò molto, anche se ovviamente avrei da parlarne a lungo.   
-In ogni caso, sei me. Il che mi dispiace *molto*.  
-Li metto insieme per comodità e perchè, bene o male, condividono un pubblico di simile fama. Profumi migliori della storia btw a mani basse.  
-Entrambi prediletti per ragazze con dei daddy issues fuori di testa. *Spero tu sia bionda. Non ce la vedo una mora a usarli.*   
-Fanno un po' da scudo a tutto quello che potrebbe far "saltare la copertura" di quello che in realtà sei. Funziona per chi non ti vede davvero.  
-Chi invece, per tua sventura, ti vede, e ti vede fino alle ossa, vede anche il cantiere di costruzione personalità, e non è un bel panorama.
+In ogni caso, sei me. Il che mi dispiace *molto*. Li metto insieme per comodità e perchè, bene o male, condividono un pubblico di simile fama. Tra i profumi designer meglio riusciti della storia btw, a mani basse. Entrambi prediletti per ragazze con dei daddy issues fuori di testa. *Spero tu sia bionda. Non ce la vedo una mora a usarli.* Fanno un po' da scudo a tutto quello che potrebbe far "saltare la copertura" di quello che in realtà sei. Funziona per chi non ti vede davvero. Chi invece, per tua sventura, ti vede, e ti vede fino alle ossa, vede anche il cantiere di costruzione personalità, e non è un bel panorama.
 
 **YSL Libre Le Parfum**  
 ![](images/image71.png)  
@@ -69,8 +65,7 @@ Minimalista? Tesoro, no, sei *terrorizzata* dall'idea di dare fastidio a qualcun
 **BYREDO Gypsy Water**  
 ![](images/image19.png)  
 *8/10*  
-Hai un tappeto di cristalli in camera e fai yoga tre volte a settimana, poi la notte ti spari 20 gocce di ansiolitico.   
-Spendere 200€ per un profumo che dura quanto un 13enne porn addict è una delle tue red flag principali.
+Hai un tappeto di cristalli in camera e fai yoga tre volte a settimana, poi la notte ti spari 20 gocce di ansiolitico. Spendere 200€ per un profumo che dura quanto un 13enne porn addict è una delle tue red flag principali.
 
 **CHANEL Chance / Chance Eau Fraiche / Chance Eau Vive**  
 ![](images/image126.png)
