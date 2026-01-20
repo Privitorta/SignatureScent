@@ -97,6 +97,19 @@ hr {
     margin: 20px 0;
 }
 
+*::selection {
+  background: #ffc852;
+  color: #333333;
+}
+*::-moz-selection {
+  background: #ffc852;
+  color: #333333;
+}
+*::-webkit-selection {
+  background: #ffc852;
+  color: #333333;
+}
+
 @media (max-width: 768px) {
     body {
         font-size: 13px;
