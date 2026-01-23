@@ -238,7 +238,7 @@ Whatever you say, handsome.
 ![](images/image109.png)  
 *5/10*  
 L'aspirante magnate che vive di apparenze. Pensi davvero che questo profumo basti a darti un'aura di potere e autorità?   
-Usi il gergo aziendale anche a letto e che valuti le persone in base al loro potenziale di utilità. Sei ossessionato dallo status e dal controllo, ma sotto quella coltre di sintetico sei un uomo terrorizzato dal fallimento e dal giudizio altrui. Sei quello che compra i libri di crescita personale per lasciarli sul comodino e farsi vedere acculturato. Sei freddo, calcolatore. Sei un mobile di design scomodo, bello da vedere (forse… ho dubbi anche lì), incubo da avere in casa. Capitalismo olfattivo.
+Usi il gergo aziendale anche a letto e valuti le persone in base al loro potenziale di utilità. Sei ossessionato dallo status e dal controllo, ma sotto quella coltre di sintetico sei un uomo terrorizzato dal fallimento e dal giudizio altrui. Sei quello che compra i libri di crescita personale per lasciarli sul comodino e farsi vedere acculturato. Sei freddo, calcolatore. Sei un mobile di design scomodo, bello da vedere (forse… ho dubbi anche lì), incubo da avere in casa. Capitalismo olfattivo.
 
 **GIORGIO ARMANI Acqua di Giò**  
 ![](images/image58.png)  
