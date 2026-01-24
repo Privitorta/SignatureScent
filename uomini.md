@@ -1,3 +1,4 @@
+
 # UOMINI
 
 **DIOR Sauvage**  
@@ -335,3 +336,28 @@ Questo profumo fa vomitare e tu anche. Innanzitutto, non sai neanche cosa signif
 ![](images/image153.png)  
 *2/10*  
 Il classico profumo che ti regalano a Natale quando non sanno cosa darti e sanno solo che nelle mutande hai il pacco. Se indossi CK One con consapevolezza, però, io non sarei così sicura nemmeno di quello. Forse qualche tempo fa eri anche tentato di cliccare sugli annunci che vendono le pillole per ingrandirlo. Prendi qualche kg, vai in palestra, e capisci che non PUOI fisicamente fare il figo se nel mentre odori di pozzanghera acida.
+
+**GIORGIO ARMANI Acqua di Giò Profondo**  
+![](images/image188.png)  
+*8/10*  
+Di questo profumo ti ci vanti molto. Troppo. Infatti appena lo metti, l'ego che hai già alle stelle si alza a livelli che farebbero tremare qualsiasi psicanalista. Sei un figo, però, su questo non ci piove. Dovresti lavorare di più sul fatto che, a un bel viso e a un buon profumo, per far funzionare la manipolazione dovresti abbinare un po' di cervello. Fai girare gli ingranaggi ogni tanto.
+
+**GIORGIO ARMANI Acqua di Giò Profumo**  
+![](images/image189.png)  
+*9/10*  
+Quello normale era troppo da ragazzino, vuoi sembrare un uomo che ha visto tempeste e segreti inconfessabili, l'unica tempesta che hai vissuto è stata la scelta tra il leasing di una Serie 1 o di una Classe A. Sei il tipo che finge di essere impegnato e non risponde per ore, tempo in cui, in realtà, doomscrolli sperando che la dopamina dei reel/TikTok ti dia quello che ti manca e non sai chiedere. Emotivamente arido come gli scogli su cui ti fai fare le foto in camicetta e khaki per Instagram, peccato che lo scoglio abbia più carisma. Stai ancora piangendo perchè la ex storica non ti ha mandato gli auguri di Buon Anno. Il profumo è buonissimo, un capolavoro; il problema siete voi utenti, che è come mettere una corona a un impiegato del catasto.
+
+**VALENTINO Born In Roma Uomo**  
+![](images/image198.png)  
+*8/10*  
+Il pretty-boy per eccellenza, passi tre ore a capire come metterti in posa nelle foto per sembrare sia ricco che misterioso e nel contempo fare anche vedere la jawline, non ti sai allenare, vuoi sembrare trasgressivo. La tua autostima dipende quasi interamente da quanti soldi riesci a rubare ai tuoi o da quante tipe ti guardano. Spesso e volentieri sei scontato o una noia mortale. Però sei un figo! Ah e soffri di un ENORME complesso di inferiorità.
+
+**VALENTINO Born In Roma Uomo Intense**  
+![](images/image199.png)  
+*10/10*  
+Vorrei dire delle orribili cose sul tuo conto perchè te le meriti tutte, sei un pazzo maniaco malato manipolatore, però sfortunatamente mi piaci e questo profumo me lo inietterei nelle vene. La tua manipolazione è raffinata, non nel senso che sai davvero quello che stai facendo, ma nel senso che ti studi la vittima in maniera precisa. Sei bravo a nascondere la tua tossicità dietro un velo di dolcezza asfissiante, narcisista covert.
+
+**VALENTINO Born In Roma Uomo Extradose**  
+![](images/image200.png)  
+*9/10*  
+Siamo all'incirca sulla stessa linea dei fratellini, con l'aggiunta che tu sei un pochino più tamarro. Di quelli che alzano il volume della radio a 70 con 4 passeggeri a bordo e una P sul lunotto.

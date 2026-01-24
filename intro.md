@@ -31,7 +31,8 @@ Ovvio che il fatto che non sia ideale non implichi necessariamente che sia tutto
 Se invece **hai** una signature scent e non la trovi in questo documento, molto probabilmente non l’ho inserita perchè:
 * non ho ancora avuto modo di testare il profumo dal vivo.
 * eccezionalmente, un profumo è assente per ridondanza del giudizio che gli spetterebbe (questi vengono omessi o, al limite, affiancati).
-* alcuni profumi sono talmente di nicchia che eviterei di piazzarli in un documento del genere, che mira comunque a un taste abbastanza mainstream (*mainstream* non lo uso come termine negativo).
+* alcuni profumi sono talmente poco famosi o conosciuti che eviterei di piazzarli in un documento del genere, che mira comunque a un taste abbastanza mainstream (*mainstream* non lo uso come termine negativo).
+* non inserisco le Eau de Toilette.
 
 Logicamente non prendo in considerazione richieste o suggerimenti, quindi chiunque mi scriva per recensire un profumo mancante non si aspetti che io lo faccia.
 

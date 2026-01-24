@@ -1,3 +1,4 @@
+
 # DONNE
 
 **VICTORIA'S SECRET (Qualsiasi, anche le acque profumate)**  
@@ -561,17 +562,72 @@ So che è impossibile che sia la signature di qualcuna qui, ma è anche impossib
 **MICHAEL KORS Wonderlust**  
 ![](/images/image179.png)  
 *4/10*  
-Versione low cost di una che vorrebbe essere una Goddess. Hai tantissima ansia da prestazione sociale. Al liceo fingevi gli attacchi di panico per saltare le interrogazioni. Era credibile perchè tanto sembravi già malata di testa (wait, sembravi...?).
+Versione low cost di una che vorrebbe essere una Goddess (BURBERRY) girl. Hai tantissima ansia da prestazione sociale. Al liceo fingevi gli attacchi di panico per saltare le interrogazioni. Era credibile perchè tanto sembravi già malata di testa (wait, sembravi...?).
 
-**LATTAFA Yara (qualsiasi)**  
+**LATTAFA Yara Candy / Yara Tous / Yara Moi**  
 ![](/images/image180.png)
-![](/images/image181.png)
 ![](/images/image182.png)
 ![](/images/image183.png)  
-*4/10*  
-Innanzitutto, questa linea è uno scherzo della natura. Dozzinali, plasticosi, acidi, alcolici, vergognosamente mediocri, per fortuna costano 3 lire. Un intruglio pacchiano e zuccherino che sa di bagnoschiuma Tesori d'Oriente style. Volgare, come te. Cheap. Praticamente la average Yara user me la immagino che layera l'odore del soffritto di peperoni e cipolle al profumo sul maglione e sulla sciarpa.
+*1/10*  
+Innanzitutto, questa linea è uno scherzo della natura. Dozzinali, plasticosi, acidi, alcolici, vergognosamente mediocri, per fortuna costano 3 lire. Se annuso l'aria e sento un profumo di questi quattro devo coprirmi il naso con un fazzoletto (lo stesso che uso per pulire le lacrime delle Miss Dior). Se indossi Yara, siamo ufficialmente nel regno del degrado olfattivo digitalizzato. Un intruglio pacchiano e zuccherino che sa di bagnoschiuma Tesori d'Oriente style. Volgare, come te. Cheap. Praticamente la average Yara user me la immagino che layera l'odore del soffritto di peperoni e cipolle al profumo sul maglione e sulla sciarpa. Vittima dell'effetto Dunning-Kruger della profumeria, talmente ignorante in materia che credi di aver trovato un segreto custodito, compri ancora su Shein, hai le borse contraffatte, le ciglia finte magnetiche... ci siamo capite, no?
+
+**LATTAFA Yara**  
+![](/images/image181.png)  
+*0/10*  
+Con te nello specifico, voglio andare oltre. Ti dedico un teorema della singolarità cheap, che chiameremo il *Modello Matematico della Superficialità Olfattiva*. Spero ti piaccia. Anche perchè per scriverlo mi sono dovuta scaricare 12 PDF di calculus e analisi vettoriale in inglese.
+<p>
+$$ 
+\mathcal{S}_{yara}(x) = \underbrace{ \frac{\displaystyle \sum_{i=1}^{n} \left( \mathcal{H}_{v} \cdot \mathcal{P}_{\text{synth}} \right)^i }{ \sqrt[\text{IQ}(x)]{ \text{Costo}_{\text{real}} \cdot \mathcal{I}_{\text{real}}(x) } } }_{\text{Componente di Delusione}} + \underbrace{ \oint_{\partial \text{TikTok}(x)} \vec{F}_{\text{hype}} \cdot d\vec{s} }_{\text{Circolazione del Gregge}} + \iint_{\mathcal{R}(x)} \Gamma_{\text{soffritto}} \, dA 
+$$
+</p>
+Te lo traduco io, così non devi darlo in pasto a qualche LLM.<br><br>$\sum_{i=1}^{n} \left( \mathcal{H}_{v} \cdot \mathcal{P}_{\text{synth}} \right)^i$ è l'accumulo esponenziale dell'Hype Visivo ($\mathcal{H}_{v}$) moltiplicato per i Polimeri di Plastica ($\mathcal{P}_{\text{synth}}$), aka più vedi TikTok di gente che agita la boccetta rosa con le unghie finte, più la percezione della realtà ti si plastifica.<br><br>${ \sqrt[\text{IQ}]{ \text{Costo}_{\text{real}} \cdot \mathcal{I}_{\text{real}} } }$ è una radice calcolata in base al Quoziente Intellettivo; più è basso, più il valore della frazione esplode verso infinito (a breve vediamo grazie a chi); il profumo funziona sulle menti non schermate, sai com'è. Al denominatore ho messo il costo reale (una miseria) e l'identità reale ($\mathcal{I}_{\text{real}}$); poichè la tua tende asintoticamente a 0 (visto che sei il ricalco di un algoritmo) il valore totale della superficialità tende all'infinito. Quindi non venite a farmi storie voi del Politecnico per l'indice della radice, che vi smonto.<br><br>${ \oint_{\partial \text{TikTok}} \vec{F}_{\text{hype}} \cdot d\vec{s} }$ è l'integrale di linea del vettore Hype lungo il bordo della tua For You page! Non è meraviglioso? Dimostrare matematicamente che il tuo gusto non ha un'origine, ma è una circolazione chiusa di informazioni spazzatura?<br><br>$\iint_{\mathcal{R}} \Gamma_{\text{soffritto}} \, dA$ è l'integrale doppio sulla superficie del tuo maglioncino Bershka sintetico ($\mathcal{R}$) e calcola la densità del famoso Soffritto ($\Gamma$) di cui parlavamo prima, che persiste nonostante le tue 35 spruzzate di alcol zuccherato. Costante cosmica perchè non ci scappi dalle tue origini cheap.
+
+Il mio odio per questo profumo nasce da un fastidio che, ahimè, va ben oltre la sua piramide olfattiva, non si parla per forza solo e sempre di crimini alle narici, è un disagio che va elevato, mi permette di tracciare una linea bella netta, rosso fuoco, tra chi sceglie e chi subisce. Perchè ci sono, sfortunatamente, tanti prodotti di input algoritmici. Statistiche di vendita. Ho usato la matematica perchè con lei mi posso ribellare un po' meglio a un mondo che vuole farci puzzare tutti dello stesso discount di Dubai. E poi c'è un piacere quasi divino nel rendere un insulto talmente complesso che la vittima non ha neanche in mente gli strumenti per sentirsi offesa. Se dobbiamo essere cattivi, facciamolo con una precisione tale da rendere almeno l'offesa matematicamente inconfutabile, da rendere la persona il cadavere sul tavolo autoptico... you know? Creiamo teoremi mentre gli altri creano scarti chimici.
 
 **FRAGONARD Fragonard**  
 ![](/images/image184.png)  
 *9/10*  
-Che posso dire?! Diva?! Sarai una milfona pazzesca! Donnona con le PALLE! Ti adoro!
+Che posso dire?! Diva! Sarai una milfona pazzesca! Donnona con le PALLE! Sei una "Diva" nel senso più arcaico e nobile del termine. Probabilmente hai una collezione di gioielli che hanno una storia, un guardaroba fatto di tessuti che la gente comune non sa nemmeno pronunciare e uno sguardo che può incenerire un uomo o farlo rinascere in tre secondi netti. Hai superato la fase delle insicurezze adolescenziali. Non cerchi un "paparino" perché sei tu che decidi chi merita di portarti la borsa. Ti adoro perché sei autentica. Però hai seri problemi di rabbia. Va be, ci sta amore. Non si può essere perfetti, o sbaglio?
+
+**ZADIG & VOLTAIRE Zadig Eau de Parfum**  
+![](/images/image185.png)  
+*6/10*  
+Questo è un profumo bypassabile ai miei occhi. Nel senso, non fa male ma neanche bene. Molto molto persistente, aka ti piace avere gli occhi addosso. Formulazione cheap, per quanto interessante, deludente; in ultima analisi, ti somiglia. Infatti per un breve periodo iniziale, l'idea che dai di te è quasi intrigante. In testa hai una versione di te irraggiungibile in tutto e per tutto che ti prende a pugni, il problema è che i lividi che ti lascia ci sono anche fuori.
+
+**ZADIG & VOLTAIRE Girls Can Do Anything**  
+![](/images/image186.png)  
+*5/10*  
+Hai bisogno di una mano a tirarti su dal letto? I digiuni NON ti faranno perdere peso, non diventerai Candice Swanepoel con 400 kcal al giorno, finirai per somigliare di più ad uno zombie di CODMW3.
+
+**GIORGIO ARMANI Acqua di Gioia**  
+![](/images/image187.png)  
+*2/10*  
+Ti sei arresa anni fa dal voler raggiungere i tuoi obiettivi e speri profondamente di trovare un omone ricco che soddisfi ogni tipo di sogno che hai. Sei molto viziata. Fatichi a stare al passo con i tuoi pensieri. Curi molto l'estetica. Tanto insicura, ti impegni per non fare brutta figura ma sei un po' goffa e, sotto sotto, vorresti tanto che qualcuno ti apprezzasse oltre il mascherone Maybelline x KIKO che ti tiri su ogni mattina.
+
+**GIVENCHY Irresistible / Irresistible Nude Velvet / Irresistible Rose Velvet**  
+![](/images/image190.png)
+![](/images/image191.png) 
+![](/images/image192.png)  
+*4/10*  
+Non so come facciano questi profumi ad avere riscosso tutto questo successo, ma proprio per questo motivo, oltre al fatto che mi facilitano il lavoro, li dobbiamo inserire nella lista nera. Comunque, già il nome è una menzogna patologica. Hai l'autostima talmente ai minimi termini che hai bisogno di un'etichetta esterna, sempre, per ricordarti di esistere. Forti tendenze ad una sindrome del main character (fallito), entri in una stanza convinta di sembrare spontanea e frizzante o piena di vita, monitori le reazioni di tutti intorno a te, e se nessuno ti guarda per 30 secondi scatta il protocollo di emergenza. Sotto un profilo clinico direi che hai una paura viscerale del rifiuto e cerchi dunque di seguire un gusto universale, quindi appari dolce, innocua e piacevole. Nascondi sotto a una apparente leggerezza una rigidità ossessiva verso la tua immagine pubblica. Questo profumo è un placebo per l'insicurezza. Talmente Irresistible che la gente ti dimentica appena giri l'angolo. Chiudo il referto.
+
+**DOLCE & GABBANA Light Blue / Light Blue Eau Intense**  
+![](/images/image193.png)
+![](/images/image194.png)  
+*6/10*  
+Non amo gli agrumati ma questo è un buon agrumato, molto iconico. Rimane il profumo-divisa perfetto di chi ha smesso di cercare una personalità nel 2004. Sei una che ama il mare e "odia le persone", hai presente, no? Quell'odio performativo per gli umani che ti spinge a repostare le frasi coatte nelle storie tipo "Keep Calm & Don't Talk to Me" o che ne so, "Preferisco i gatti alle persone"? Eccoti, figlia di una misantropia estetica, perchè non odi davvero le persone, ANZI, hai una necessità disperata di approvazione, quella che odi è la fatica che si fa a relazionarsi con chi è più intelligente di te. Vivi molto in una tua zona di comfort che non richiede carattere; fingi di accettare critiche costruttive ma quando te le fanno ti risuonano nel sangue per anni. Ti dichiari uno spirito libero, un'amante della solitudine e quant'altro, ma lo fai per non ammettere che la tua vita sociale è piatta come l'acqua di una piscina comunale. Dici che ami la natura poi vedi una cimice e urli. Regina del "non ho tempo per queste cose" ma passi 4 ore al giorno a stalkerare le tue amichette (di cui sei gelosa marcia, imho). Sei prevedibile, smetti di fingere che il mondo ti faccia schifo, il mondo ti piace, sei TU che non piaci abbastanza al mondo per sentirti al centro dell'attenzione, quindi fai finta di snobbarlo. Classico.
+
+**LA FONTANA Eve**  
+![](/images/image195.png)    
+*7/10*  
+Profumo sottovalutato as fuck. Piuttosto sconosciuto, tralaltro. Tu sei un po' la tipa che cerca di essere seducente e magnetica, però il tuo sguardo non ha quell'effetto, pari un pesce lesso... per il taste nulla da dire, è una perla nascosta. Metafora perfetta, perchè tu sei proprio l'ostrica che la porta.
+
+**SALVATORE FERRAGAMO Signorina**  
+![](/images/image196.png)    
+*2/10*  
+Il nome già è una condanna, ma anyway, l'idea di diventare una donna adulta? L'abbiamo abbandonata completamente assieme al voler avere un briciolo di carisma e responsabilità? E un carboidrato complesso magari? La passività è il tuo tratto distintivo. Hai bisogno sempre di essere guidata in tutto, rassicurata, coccolata, la bambina di 30 anni, praticamente. Faresti di tutto per non scontentare le persone, la realtà del mondo esterno è troppo dura per la tua pelle sottile. Vuoi attenzioni ma non sai come gestirle. Bloccata in un loop di cortesia falsa e asettica.
+
+**SALVATORE FERRAGAMO Fiamma**  
+![](/images/image197.png)    
+*3/10*  
+Sei una di quelle che rompe il cazzo perchè dice di essere nata nell'epoca sbagliata. Bambola, come te lo spiego che nel passato non avresti potuto neanche aprire bocca? Nostalgica patologica con tratti istrionici, ti senti una vamp d'altri tempi, una creatura misteriosa e ardente, pensi veramente che la gente ti ascolti quando ti lamenti del fatto che non ci sono più gli "uomini di una volta"? Pensi d'essere tragica e tormentata, sei solo pesante, e poi come te lo spiego, hai lo stesso odore che si sente quando vai in vacanza a casa della nonna e si è dimenticata di aprire le ante dell'armadio e ti sbanfa in faccia un misto di chiuso, capelli e naftalina, all'incirca.
