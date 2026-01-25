@@ -423,27 +423,27 @@ Studi moda. E di moda non sai un cazzo. Profumo vecchio secoli, devi averlo trov
 Vetiver mischiato a una qualunque nota di cacao, cioccolato e affini nel mio naso fanno a pugni e assieme li trovo osceni nonostante da soli li apprezzi. Hai una vena vintage che ti spinge a thriftare spesso i vestiti da nonna. Non hai molto stile e credi di averlo, sei come quella sopra che studia moda e poi abbina le Louboutin fluo a dei collant rosso vermiglio e si sente Miranda Priestly. Anyway, il profumo per fortuna è fuori produzione; lo metto per correttezza, i Mugler vanno insultati tutti e bene.
 
 **VERSACE Pour Femme Dylan Purple**  
-![](/images/image152.png)  
+![](images/image152.png)  
 *2/10*  
 Di questo ho proprio a casa, qui, di fianco a me la miniatura. Un odore insopportabile. Aspro e immaturo, una presa in giro. Mi dà l'idea di essere un profumo per una tamarra. O non so, una dei Quartieri Spagnoli che ha il marito nella Camorra? Non saprei. Comunque sei scema in culo, inutile spruzzarsi il profumo quando non fai la doccia per 8 giorni.
 
 **PRADA Paradoxe Intense**  
-![](/images/image154.png)  
+![](images/image154.png)  
 *9/10*  
 Un profumo che trovo buonissimo. Non posso negare nemmeno il fatto che per un periodo medio-lungo ne ho usato un campioncino e mi piace proprio tanto. Se sei una ragazza che lo compra, lo usa abitualmente e lo rende la sua signature NON puoi essere mentalmente presente del tutto. O meglio, sei molto intelligente, ma piena, piena, piena zeppa di problemi. Probabilmente borderline. Sicuro attaccamento evitante. Ti isoli e vuoi che la gente ti rincorra disperatamente (alcuni lo fanno, il problema è che non ti basta). Non vivrai mai la tua favola d'amore che sogni, Principessa, finchè dentro hai un inferno ambulante camuffato con la vaniglia e il gelsomino.
 
 **HUGO BOSS Femme**  
-![](/images/image156.png)  
+![](images/image156.png)  
 *2/10*  
 Terrorizzata da qualsiasi forma di conflitto o affermazione di sè. Low profile, ci si dimentica di te anche se stai parlando in quel preciso istante, non hai coraggio di esplorare le tue stesse ombre, un fantasma che cerca approvazione che non arriverà mai.
 
 **L'ERBOLARIO Pistacchio**  
-![](/images/image165.png)  
+![](images/image165.png)  
 *8/10*  
 Anonima ma gentile. Una donna sopportabile. Splendidamente mediocre. L'infanzia ti ha colpito duro. Ti è successo qualcosa di orribile che proprio non riesci a ricordare. A volte ti parte il binge eating, altre volte il digiuno, altre volte ancora la dieta. In ogni caso, seri problemi col cibo.
 
 **LANCÔME Hypnose**  
-![](/images/image157.png)  
+![](images/image157.png)  
 *4/10*  
 Tesoro, rimasta bloccata nell'era in cui bastava un flacone a spirale per sentirsi speciali; oggi soffri di una marcata inclinazione istrionica e hai un bisogno patologico di essere al centro dell'attenzione di chiunque. Peccato che tu non abbia minimamente gli strumenti intellettuali per sostenerla. Rimugini costantemente sui periodi in cui eri, forse, rilevante; manipolatrice emotiva di basso livello, basta grattare un po' la superficie, neanche troppo a lungo, per vedere la tua collezione di insicurezze. Attaccamento ansioso ambivalente direi. Let me code it rq.
 
@@ -460,44 +460,44 @@ while (male_close) {
 ```
 
 **LANCÔME Miracle**  
-![](/images/image158.png)  
+![](images/image158.png)  
 *2/10*  
 Qui l'unico vero "miracolo" è che qualcuno ancora ti rivolge la parola. Forse per pietà. Sei vittima della difesa maniacale, nascondi un vuoto interiore profondo quanto la fossa delle Marianne, sorridi sempre in modo forzato e la tua vita va a rotoli. Fissazioni nostalgiche regressive, sei rimasta nel passato, a quando ti sentivi vista da qualcuno; passi da euforia a rabbia repressa. Non sei credibile ormai da tanto tempo.
 
 **LANCÔME Idole**  
-![](/images/image159.png)  
+![](images/image159.png)  
 *1/10*  
 Girlboss di cartone pressato. Caso da manuale di narcisismo vulnerabile. Ti senti speciale e destinata a grandi cose ma vai in frantumi se non ricevi almeno 10 like ai tuoi post sulla salute mentale. Manipolabile da chiunque usi le parole chiave giuste tipo "empowerment" o "personal growth", non hai una struttura interna che ti appartiene. Vuoi comandare il mondo e hai paura di sporcarti le mani, sindrome del Superuomo discount edition... sei schiava del capitalismo fem-washed. La tua sottigliezza non è eleganza, è mancanza di spessore. Ti consiglio di andare nell'angolino con una tua amica che usa My Way, fatevi compagnia.
 
 **GUCCI Flora Gorgeous Orchid**  
-![](/images/image160.png)  
+![](images/image160.png)  
 *2/10*  
 Banana chimica + ozono + vaniglia scaduta? Nice choice babygirl. Magari invece di sceglierti la signature scent andiamo a risolvere i problemi della tua anima? E questo profumo, amore, va cambiato; sa di vape alla frutta esotica fumato in un bagno delle medie senza finestre.
 
 **GUCCI Flora Gorgeous Magnolia**  
-![](/images/image161.png)  
+![](images/image161.png)  
 *6/10*  
 ADHD maxxing misto ad attaccamento disorganizzato, we love to see a girl like you! Sei simpatica, ma estenuante. Non sai cosa vuoi, un momento sei bianco e quello dopo sei nero. Hai Pinterest e tipo 4000 pin salvati. Chi ti sta accanto ha l'impressione che tu stia per scoppiare a piangere o a ridere senza preavviso o motivo.
 
 **GUCCI Flora Gorgeous Jasmine**  
-![](/images/image162.png)  
+![](images/image162.png)  
 *5/10*  
 Zen-poser, fai finta di aver raggiunto l'illuminazione, lo stile di vita mindful, bevi i frullati e il tè coi chiodi di garofano e poi sei una scaricatrice di porto (smash). Ti mostri pulita eterea e distante per non farti coinvolgere davvero. La tua barriera di purezza impedisce a chiunque di vedere quanto in realtà sei annoiata dalla tua stessa vita.
 
 **GUCCI Flora Gorgeous Gardenia**  
-![](/images/image163.png)  
+![](images/image163.png)  
 *7/10*  
 Eccola! Tu si che fai paura! Bisogno COSTANTE di validazione; il punto è che vuoi riceverla senza fare NIENTE. Praticamente, sei convinta ti sia dovuta, perchè hai una duplice voce in te che alterna dal farti sentire la Madonna scesa in terra alla merda calpestata sotto le foglie d'autunno. Hai paura di non essere abbastanza, ma non lo fai vedere. Cerchi davvero tanto di costruire una personalità forte che faccia pensare agli altri che non te la prendi per nulla, che nella vita hai sofferto ma hai superato tutto... Bambola, io lo vedo il groviglio di nervi che sei e che hai dentro, non avere paura. Non ti accontentare della superficialità, non fa per te.
 
 **GUCCI Flora Gorgeous Gardenia Intense**  
-![](/images/image164.png)  
+![](images/image164.png)  
 *7/10*  
 Se la versione classica è un grido d'aiuto questo è una sirena spiegata. Sei una prova vivente del meccanismo di compensazione; sei consapevole di impersonare un foglio di carta velina (soprattutto a livello di spessore emotivo) e cerchi di alzare il volume con una fragranza... fallimentare quanto ridicolo. Nonostante ciò, un lato positivo è che non ti fai mettere i piedi in testa facilmente. Però hai problemi di rabbia. Quindi in ogni caso verrai sempre, sempre surclassata nelle discussioni.
 
 **GUCCI Fiori di Neroli / Rosa Incandescente / Tears From The Moon...** - *in realtà, qualsiasi profumo dalla Alchemist's Garden*  
-![](/images/image166.png)
-![](/images/image167.png)
-![](/images/image168.png)  
+![](images/image166.png)
+![](images/image167.png)
+![](images/image168.png)  
 *9/10*  
 Che ti devo dire, diva, diva and you KNOW it... ma poi qualsiasi fragranza da questa collezione è un capolavoro reso liquido, quei bastardi di Gucci si sono impegnati troppo. Ne dovrei non ironicamente aggiungere molti, ma dubito che facciano parte della collezione di qualcuno tra i miei seguaci. In ogni caso... sei fin troppo consapevole. Hai tanti pensieri. Non riesci ormai da tempo a sentirti rilassata, e non avrai mai pausa, e lo sai, e ti uccide, ma in fondo ti piace anche, perchè non essere così significherebbe automaticamente essere come gli altri... che è fuori questione, per una come te. Schizotipia lussuosa, sacerdotessa del narcisismo intellettuale. Let me code it for you...
 
@@ -513,66 +513,66 @@ public class AlchemistUser extends Goddess {
 ```
 
 **VERSACE Crystal Noir**  
-![](/images/image169.png)  
+![](images/image169.png)  
 *6/10*  
 Se devo essere del tutto sincera, baddie. Peccato per la triade machiavellismo, narcisismo, psicopatia. Se lo indossi nella tua vita l'amore lo cerchi sotto forma di sottomissione psichica. La seduzione che vuoi portare sulle spalle è una guerra di logoramento, sei maligna, usi il mistero come arma di distrazione di massa. Gaslight + estrazione risorse fino a sciupare l'altra persona fino all'ultimo respiro.
 
 **GUERLAIN Florabloom Absolu / Aqua Allegoria Florabloom**  
 ![](/images/image170.png)
-![](/images/image171.png)  
+![](images/image171.png)  
 *5/10*  
 Confusa. Regressione infantile. La realtà di essere un'adulta funzionale ti spaventa a morte. Non ti fai toccare veramente da nessuno, sei un oggetto da museo, bella da guardare, poi ti avvicini troppo e suona l'allarme spacca timpani. Ti senti un monarca arabo o un'ereditiera dell'est ma vivi in un bilocale e spendi metà dello stipendio per sembrare opulenta. Hai spesso il timore di passare inosservata.
 
 **DIOR Dior Addict**  
-![](/images/image172.png)  
+![](images/image172.png)  
 *7/10*  
 Borderline ad alto funzionamento. Passi dal "ti amo più della mia vita" (not much anyway) al "non so chi tu sia" nello spazio di una nota di testa di mandarino. Pericolosa perchè autentica nella tua follia. Hai bisogno che l'altro sia completamente devoto a te per sentirti di esistere. Little do you know, *nessuno al mondo ti amerà mai davvero nel modo in cui TU vorresti essere amata*.
 
 **DIOR Joy**  
-![](/images/image173.png)  
+![](images/image173.png)  
 *4/10*  
 Oddio, stammi lontana. Errore di sistema. Fuckass bug nel codice Dior. Talmente generica che se ti guardassi allo specchio vedresti 404. Vuoto esistenziale cronico, non hai inclinazioni, non ti esprimi MAI, non hai nemmeno traumi interessanti, non hai nulla... dai, in punizione! Compensiamo ora quello che doveva fare il paparino anni fa per renderti un minimo interessante.
 
 **MIU MIU Miutine**  
-![](/images/image174.png)  
+![](images/image174.png)  
 *8/10*  
 Ma ciao, Lolita del 2026. Sindrome di Peter Pan al femminile. Usi la tua estetica infantile per farti perdonare ogni genere di bastardata. Sui social sei insopportabile. "Ma io non volevo...", "Ma io non pensavo...", "I'm just a girl" e intanto hai appena distrutto un matrimonio per noia (o per i famosi daddy issues di cui, in questo documento, finiamo spesso a parlare). Soft gaslighter con i fiocchi colorati in testa. Sgranare gli occhi per fare i doe eyes non ti fa sembrare un cerbiatto, sembri più drogata che altro.
 
 **HERMÈS Barénia**  
-![](/images/image175.png)  
+![](images/image175.png)  
 *6/10*  
 Un profumo relativamente nuovo, che però nell'essenza appartiene tipo al 1990. Come te. Vecchia del cazzo. Noiosissimo, monotono, silenzioso ma asfissiante, perchè? Perchè per quanto sei insulsa togli ossigeno inutilmente alle stanze. Mi incuriosisce anche, in realtà, come fragranza, perchè non la porterei MAI, ma ha una composizione interessante, che tu non rispecchi affatto; secco, asciutto. Quello lo rispecchi. Complessa? No, provi a fingere di esserlo. A volte funziona anche. Il problema è che la messa in scena dura poco. Non hai emozioni.
 
 **HERMÈS Twilly d’Hermès**  
-![](/images/image176.png)  
+![](images/image176.png)  
 *5/10*  
 Sei una tipa che cerca di sembrare trasgressiva o, quantomeno, una che "non segue le regole"; non sai minimamente cosa significhi essere indipendente. Da piccola sei stata molto viziata. Fai finta di essere pazza con battute che non fanno ridere quando sei in pubblico. Ti piace molto l'esibizionismo. Ti credi una maga della seduzione, poi finisce che sei una pillow princess a stella marina.
 Comunque questo profumo fa sboccare all'inizio, amarissimo, tremendo, poi migliora perchè i fiori bianchi ingentiliscono ma è per donne di un certo spessore, va interpretato a dovere. Non è un profumo semplice.
 
 **.ODDITY Naked Dance**  
-![](/images/image177.png)  
+![](images/image177.png)  
 *9/10*  
 Hai il serio bisogno che gli altri pensino che tu sia artistica e profonda. Probabilmente fai sesso solo se c'è una telecamera o se puoi scriverci un saggio sopra. Versione intellettuale di chi vuole sentirsi connessa alla terra e non ha mai visto una radice vera in vita sua. Vivi molto nella tua testa, maggior parte del tempo lo passi lì, cosa che non ti piace.
 
 **PENHALIGON The Favourite**  
-![](/images/image178.png)  
+![](images/image178.png)  
 *9/10*  
 So che è impossibile che sia la signature di qualcuna qui, ma è anche impossibile non dedicargli un complimento; uno dei profumi discontinued che più rimpiango di non essermi presa in tempo. Se dovessi incontrare ad oggi una ragazza che lo indossa, potrei non rispondere delle mie azioni in maniera conscia.
 
 **MICHAEL KORS Wonderlust**  
-![](/images/image179.png)  
+![](images/image179.png)  
 *4/10*  
 Versione low cost di una che vorrebbe essere una Goddess (BURBERRY) girl. Hai tantissima ansia da prestazione sociale. Al liceo fingevi gli attacchi di panico per saltare le interrogazioni. Era credibile perchè tanto sembravi già malata di testa (wait, sembravi...?).
 
 **LATTAFA Yara Candy / Yara Tous / Yara Moi**  
-![](/images/image180.png)
-![](/images/image182.png)
-![](/images/image183.png)  
+![](images/image180.png)
+![](images/image182.png)
+![](images/image183.png)  
 *1/10*  
 Innanzitutto, questa linea è uno scherzo della natura. Dozzinali, plasticosi, acidi, alcolici, vergognosamente mediocri, per fortuna costano 3 lire. Se annuso l'aria e sento un profumo di questi quattro devo coprirmi il naso con un fazzoletto (lo stesso che uso per pulire le lacrime delle Miss Dior). Se indossi Yara, siamo ufficialmente nel regno del degrado olfattivo digitalizzato. Un intruglio pacchiano e zuccherino che sa di bagnoschiuma Tesori d'Oriente style. Volgare, come te. Cheap. Praticamente la average Yara user me la immagino che layera l'odore del soffritto di peperoni e cipolle al profumo sul maglione e sulla sciarpa. Vittima dell'effetto Dunning-Kruger della profumeria, talmente ignorante in materia che credi di aver trovato un segreto custodito, compri ancora su Shein, hai le borse contraffatte, le ciglia finte magnetiche... ci siamo capite, no?
 
 **LATTAFA Yara**  
-![](/images/image181.png)  
+![](images/image181.png)  
 *0/10*  
 Con te nello specifico, voglio andare oltre. Ti dedico un teorema della singolarità cheap, che chiameremo il *Modello Matematico della Superficialità Olfattiva*. Spero ti piaccia. Anche perchè per scriverlo mi sono dovuta scaricare 12 PDF di calculus e analisi vettoriale in inglese.
 <p>
@@ -585,49 +585,49 @@ Te lo traduco io, così non devi darlo in pasto a qualche LLM.<br><br>$\sum_{i=1
 Il mio odio per questo profumo nasce da un fastidio che, ahimè, va ben oltre la sua piramide olfattiva, non si parla per forza solo e sempre di crimini alle narici, è un disagio che va elevato, mi permette di tracciare una linea bella netta, rosso fuoco, tra chi sceglie e chi subisce. Perchè ci sono, sfortunatamente, tanti prodotti di input algoritmici. Statistiche di vendita. Ho usato la matematica perchè con lei mi posso ribellare un po' meglio a un mondo che vuole farci puzzare tutti dello stesso discount di Dubai. E poi c'è un piacere quasi divino nel rendere un insulto talmente complesso che la vittima non ha neanche in mente gli strumenti per sentirsi offesa. Se dobbiamo essere cattivi, facciamolo con una precisione tale da rendere almeno l'offesa matematicamente inconfutabile, da rendere la persona il cadavere sul tavolo autoptico... you know? Creiamo teoremi mentre gli altri creano scarti chimici.
 
 **FRAGONARD Fragonard**  
-![](/images/image184.png)  
+![](images/image184.png)  
 *9/10*  
 Che posso dire?! Diva! Sarai una milfona pazzesca! Donnona con le PALLE! Sei una "Diva" nel senso più arcaico e nobile del termine. Probabilmente hai una collezione di gioielli che hanno una storia, un guardaroba fatto di tessuti che la gente comune non sa nemmeno pronunciare e uno sguardo che può incenerire un uomo o farlo rinascere in tre secondi netti. Hai superato la fase delle insicurezze adolescenziali. Non cerchi un "paparino" perché sei tu che decidi chi merita di portarti la borsa. Ti adoro perché sei autentica. Però hai seri problemi di rabbia. Va be, ci sta amore. Non si può essere perfetti, o sbaglio?
 
 **ZADIG & VOLTAIRE Zadig Eau de Parfum**  
-![](/images/image185.png)  
+![](images/image185.png)  
 *6/10*  
 Questo è un profumo bypassabile ai miei occhi. Nel senso, non fa male ma neanche bene. Molto molto persistente, aka ti piace avere gli occhi addosso. Formulazione cheap, per quanto interessante, deludente; in ultima analisi, ti somiglia. Infatti per un breve periodo iniziale, l'idea che dai di te è quasi intrigante. In testa hai una versione di te irraggiungibile in tutto e per tutto che ti prende a pugni, il problema è che i lividi che ti lascia ci sono anche fuori.
 
 **ZADIG & VOLTAIRE Girls Can Do Anything**  
-![](/images/image186.png)  
+![](images/image186.png)  
 *5/10*  
 Hai bisogno di una mano a tirarti su dal letto? I digiuni NON ti faranno perdere peso, non diventerai Candice Swanepoel con 400 kcal al giorno, finirai per somigliare di più ad uno zombie di CODMW3.
 
 **GIORGIO ARMANI Acqua di Gioia**  
-![](/images/image187.png)  
+![](images/image187.png)  
 *2/10*  
 Ti sei arresa anni fa dal voler raggiungere i tuoi obiettivi e speri profondamente di trovare un omone ricco che soddisfi ogni tipo di sogno che hai. Sei molto viziata. Fatichi a stare al passo con i tuoi pensieri. Curi molto l'estetica. Tanto insicura, ti impegni per non fare brutta figura ma sei un po' goffa e, sotto sotto, vorresti tanto che qualcuno ti apprezzasse oltre il mascherone Maybelline x KIKO che ti tiri su ogni mattina.
 
 **GIVENCHY Irresistible / Irresistible Nude Velvet / Irresistible Rose Velvet**  
-![](/images/image190.png)
-![](/images/image191.png) 
-![](/images/image192.png)  
+![](images/image190.png)
+![](images/image191.png) 
+![](images/image192.png)  
 *4/10*  
 Non so come facciano questi profumi ad avere riscosso tutto questo successo, ma proprio per questo motivo, oltre al fatto che mi facilitano il lavoro, li dobbiamo inserire nella lista nera. Comunque, già il nome è una menzogna patologica. Hai l'autostima talmente ai minimi termini che hai bisogno di un'etichetta esterna, sempre, per ricordarti di esistere. Forti tendenze ad una sindrome del main character (fallito), entri in una stanza convinta di sembrare spontanea e frizzante o piena di vita, monitori le reazioni di tutti intorno a te, e se nessuno ti guarda per 30 secondi scatta il protocollo di emergenza. Sotto un profilo clinico direi che hai una paura viscerale del rifiuto e cerchi dunque di seguire un gusto universale, quindi appari dolce, innocua e piacevole. Nascondi sotto a una apparente leggerezza una rigidità ossessiva verso la tua immagine pubblica. Questo profumo è un placebo per l'insicurezza. Talmente Irresistible che la gente ti dimentica appena giri l'angolo. Chiudo il referto.
 
 **DOLCE & GABBANA Light Blue / Light Blue Eau Intense**  
-![](/images/image193.png)
-![](/images/image194.png)  
+![](images/image193.png)
+![](images/image194.png)  
 *6/10*  
 Non amo gli agrumati ma questo è un buon agrumato, molto iconico. Rimane il profumo-divisa perfetto di chi ha smesso di cercare una personalità nel 2004. Sei una che ama il mare e "odia le persone", hai presente, no? Quell'odio performativo per gli umani che ti spinge a repostare le frasi coatte nelle storie tipo "Keep Calm & Don't Talk to Me" o che ne so, "Preferisco i gatti alle persone"? Eccoti, figlia di una misantropia estetica, perchè non odi davvero le persone, ANZI, hai una necessità disperata di approvazione, quella che odi è la fatica che si fa a relazionarsi con chi è più intelligente di te. Vivi molto in una tua zona di comfort che non richiede carattere; fingi di accettare critiche costruttive ma quando te le fanno ti risuonano nel sangue per anni. Ti dichiari uno spirito libero, un'amante della solitudine e quant'altro, ma lo fai per non ammettere che la tua vita sociale è piatta come l'acqua di una piscina comunale. Dici che ami la natura poi vedi una cimice e urli. Regina del "non ho tempo per queste cose" ma passi 4 ore al giorno a stalkerare le tue amichette (di cui sei gelosa marcia, imho). Sei prevedibile, smetti di fingere che il mondo ti faccia schifo, il mondo ti piace, sei TU che non piaci abbastanza al mondo per sentirti al centro dell'attenzione, quindi fai finta di snobbarlo. Classico.
 
 **LA FONTANA Eve**  
-![](/images/image195.png)    
+![](images/image195.png)    
 *7/10*  
 Profumo sottovalutato as fuck. Piuttosto sconosciuto, tralaltro. Tu sei un po' la tipa che cerca di essere seducente e magnetica, però il tuo sguardo non ha quell'effetto, pari un pesce lesso... per il taste nulla da dire, è una perla nascosta. Metafora perfetta, perchè tu sei proprio l'ostrica che la porta.
 
 **SALVATORE FERRAGAMO Signorina**  
-![](/images/image196.png)    
+![](images/image196.png)    
 *2/10*  
 Il nome già è una condanna, ma anyway, l'idea di diventare una donna adulta? L'abbiamo abbandonata completamente assieme al voler avere un briciolo di carisma e responsabilità? E un carboidrato complesso magari? La passività è il tuo tratto distintivo. Hai bisogno sempre di essere guidata in tutto, rassicurata, coccolata, la bambina di 30 anni, praticamente. Faresti di tutto per non scontentare le persone, la realtà del mondo esterno è troppo dura per la tua pelle sottile. Vuoi attenzioni ma non sai come gestirle. Bloccata in un loop di cortesia falsa e asettica.
 
 **SALVATORE FERRAGAMO Fiamma**  
-![](/images/image197.png)    
+![](images/image197.png)    
 *3/10*  
 Sei una di quelle che rompe il cazzo perchè dice di essere nata nell'epoca sbagliata. Bambola, come te lo spiego che nel passato non avresti potuto neanche aprire bocca? Nostalgica patologica con tratti istrionici, ti senti una vamp d'altri tempi, una creatura misteriosa e ardente, pensi veramente che la gente ti ascolti quando ti lamenti del fatto che non ci sono più gli "uomini di una volta"? Pensi d'essere tragica e tormentata, sei solo pesante, e poi come te lo spiego, hai lo stesso odore che si sente quando vai in vacanza a casa della nonna e si è dimenticata di aprire le ante dell'armadio e ti sbanfa in faccia un misto di chiuso, capelli e naftalina, all'incirca.
