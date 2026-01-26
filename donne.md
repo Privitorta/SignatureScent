@@ -518,7 +518,7 @@ public class AlchemistUser extends Goddess {
 Se devo essere del tutto sincera, baddie. Peccato per la triade machiavellismo, narcisismo, psicopatia. Se lo indossi nella tua vita l'amore lo cerchi sotto forma di sottomissione psichica. La seduzione che vuoi portare sulle spalle è una guerra di logoramento, sei maligna, usi il mistero come arma di distrazione di massa. Gaslight + estrazione risorse fino a sciupare l'altra persona fino all'ultimo respiro.
 
 **GUERLAIN Florabloom Absolu / Aqua Allegoria Florabloom**  
-![](/images/image170.png)
+![](images/image170.png)
 ![](images/image171.png)  
 *5/10*  
 Confusa. Regressione infantile. La realtà di essere un'adulta funzionale ti spaventa a morte. Non ti fai toccare veramente da nessuno, sei un oggetto da museo, bella da guardare, poi ti avvicini troppo e suona l'allarme spacca timpani. Ti senti un monarca arabo o un'ereditiera dell'est ma vivi in un bilocale e spendi metà dello stipendio per sembrare opulenta. Hai spesso il timore di passare inosservata.
