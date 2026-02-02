@@ -631,3 +631,17 @@ Il nome già è una condanna, ma anyway, l'idea di diventare una donna adulta? L
 ![](images/image197.png)    
 *3/10*  
 Sei una di quelle che rompe il cazzo perchè dice di essere nata nell'epoca sbagliata. Bambola, come te lo spiego che nel passato non avresti potuto neanche aprire bocca? Nostalgica patologica con tratti istrionici, ti senti una vamp d'altri tempi, una creatura misteriosa e ardente, pensi veramente che la gente ti ascolti quando ti lamenti del fatto che non ci sono più gli "uomini di una volta"? Pensi d'essere tragica e tormentata, sei solo pesante, e poi come te lo spiego, hai lo stesso odore che si sente quando vai in vacanza a casa della nonna e si è dimenticata di aprire le ante dell'armadio e ti sbanfa in faccia un misto di chiuso, capelli e naftalina, all'incirca.
+
+**MONTALE Intense Cafe**  
+![](images/image201.png)    
+*3/10*  
+Bah, allora... innanzitutto, sei convinta di aver selezionato la fragranza di nicchia elite che ti dona un'aura incredibilmente misteriosa, la verità sfortunatamente trapela e si nota appena apri la boccuccia con la lip combo di Deborah Milano; non attira gli uomini come le mosche, attira le mosche e basta perchè sa di merda. Speri vivamente, ogni volta che esci di casa, che qualcuno te lo complimenti questo profumo, anche perchè ci hai speso tutti i soldini tirati su a fare la cameriera (molestata 24/7). Se lo indossi non hai personalità, hai un perimetro di sicurezza... hai una paura fottuta di passare inosservata ma la risposta non la trovi a puzzare di crimine chimico.
+
+**MARC JACOBS Daisy**  
+![](images/image202.png)    
+*2/10*  
+Eh tu sei curiosa, hai un monte di traumi infantili irrisolti che non hai intenzione di portare davanti a una psichiatra, questo profumo sembra sterilizzato in autoclave comunque. Non hai una opinione che ti appartiene tipo dal 2014, anno in cui hai deciso di stabilizzare la tua persona in una estetica della "ragazza della porta accanto" (la porta è quella del manicomio). Sei evitante, ti senti protagonista di un film indie, passi i viaggi a guardare fuori dal finestrino con aria malinconica sperando che qualche anima persa ti trovi esteticamente interessante senza che tu debba effettivamente dire o fare nulla di rilevante. Pickme, dici che non ti trucchi e usi 18 prodotti "nude" (si vede la polverina di cipria ogni volta che ti muovi). La tua capacità di gestire un conflitto è prossima allo zero, sei un loop infinito di "va bene qualsiasi cosa, non importa". Questo profumo è il rifugio di chi non vuole prendersi la responsabilità di avere un impatto, di esistere davvero. Smetti di nasconderti dietro quei petali di gomma, il mondo non ti mangerà se per una volta deciderai di odorare di qualcosa che non sia un bagnoschiuma per neonati.
+
+**GLOSSIER You**  
+![](images/image203.png)    
+*4/10*  

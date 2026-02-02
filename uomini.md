@@ -361,3 +361,9 @@ Vorrei dire delle orribili cose sul tuo conto perchè te le meriti tutte, sei un
 ![](images/image200.png)  
 *9/10*  
 Siamo all'incirca sulla stessa linea dei fratellini, con l'aggiunta che tu sei un pochino più tamarro. Di quelli che alzano il volume della radio a 70 con 4 passeggeri a bordo e una P sul lunotto.
+
+**MONTALE Intense Cafe**  
+![](images/image201.png)    
+*2/10*  
+Segnale di narcisismo vulnerabile mascherato da sensibilità. Quello che vuole sembrare dolce, "edible" (come dicono quei video suggestion di fragranze imbarazzanti), sei un manipolatore pigro. Abbassi le difese delle tue prede fingendo di essere un uomo moderno che non ha paura del suo lato femminile. In verità sei un predatore di attenzioni che non sa gestire un rifiuto. Sei quello che, dopo un appuntamento andato male, manda messaggi passivo-aggressivi perché "non hai apprezzato la mia profondità". Amore è che non apprezzavano il diabete di tipo 2 che gli hai causato stando seduto vicino a loro.
+
