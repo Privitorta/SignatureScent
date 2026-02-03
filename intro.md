@@ -55,6 +55,6 @@ Immagino davanti a me (in un luogo che possa essere un parco, una discoteca, un 
 Detto ció, non ho la minima intenzione di togliermi le responsabilità che derivano dall’aver condiviso questo *cimelio*.   
 Se ti ci rivedi, *ask <u>yourself</u> some questions*, *don’t ask them to <u>me</u>*. 
 
-Diamo il via alle danze.  
+Diamo il via alle danze!  
 
 ---
