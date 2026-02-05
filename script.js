@@ -6,28 +6,14 @@ if ('scrollRestoration' in history) {
     history.scrollRestoration = 'manual';
 }
 
-window.addEventListener('scroll', () => { // odio gli event listener
+function saveScrollPosition() {
     if (!scrollRestoreInProgress) {
         localStorage.setItem('scrollPosition', window.scrollY);
     }
-});
+}
 
-window.addEventListener('beforeunload', () => { // odio gli event listener
-    localStorage.setItem('scrollPosition', window.scrollY);
-});
-
-document.addEventListener('visibilitychange', () => { // odio gli event listener
-    if (document.hidden) {
-        localStorage.setItem('scrollPosition', window.scrollY);
-    }
-});
-
-window.addEventListener('blur', () => { // odio gli event listener
-    localStorage.setItem('scrollPosition', window.scrollY);
-});
-
-window.addEventListener('pagehide', () => { // odio gli event listener
-    localStorage.setItem('scrollPosition', window.scrollY);
+['visibilitychange', 'pagehide'].forEach(event => {
+    window.addEventListener(event, saveScrollPosition);
 });
 
 function removeAccents(str) {
@@ -45,7 +31,6 @@ function search() {
     paragraphsWithCode.forEach(p => {
         p.style.display = query === '' ? '' : 'none';
     });
-    
     perfumeBlocks.forEach(block => {
         const strongElement = block[0].querySelector('strong');
         const perfumeName = strongElement ? removeAccents(strongElement.textContent.toLowerCase()) : '';
@@ -133,8 +118,17 @@ function loadGenderContent(gender, skipScroll = false) {
 </div>
 ${markdown}`;
         const html = marked.parse(markdownWithSearch);
-        document.getElementById('perfume-content').innerHTML = html;
-        renderMathInElement(document.getElementById('perfume-content'), {
+        const content = document.getElementById('perfume-content');
+        content.innerHTML = html;
+        const childNodes = Array.from(content.childNodes);
+        childNodes.forEach(node => {
+            if (node.nodeType === 3 && node.textContent.trim().length > 0) {
+                const p = document.createElement('p');
+                p.textContent = node.textContent;
+                content.replaceChild(p, node);
+            }
+        });
+        renderMathInElement(content, {
             delimiters: [
                 {left: '$$', right: '$$', display: true},
                 {left: '$', right: '$', display: false},
@@ -142,25 +136,27 @@ ${markdown}`;
                 {left: '\\[', right: '\\]', display: true}
             ]
         });
-        const content = document.getElementById('perfume-content');
         let allElements = Array.from(content.querySelectorAll('*'));
         perfumeBlocks = [];
         let currentBlock = [];
         for (let el of allElements) {
-            if (el.tagName === 'PRE' || el.tagName === 'CODE' || el.closest('pre')) {
+            if (el.tagName === 'PRE' || (el.closest('pre'))) {
                 continue;
             }
-            
             if (el.tagName === 'P' && el.querySelector('strong')) {
-                if (!el.querySelector('code')) {
+                // Se è un titolo, inizia un nuovo blocco
+                if (!el.querySelector('code') && !el.querySelector('.katex')) {
                     if (currentBlock.length > 0) {
                         perfumeBlocks.push(currentBlock);
                     }
                     currentBlock = [el];
+                } else {
+                    if (currentBlock.length > 0) currentBlock.push(el);
                 }
-            } else if (currentBlock.length > 0 && (el.tagName === 'P' || el.tagName === 'IMG' || el.tagName === 'BR')) {
+            } 
+            else if (currentBlock.length > 0 && (el.tagName === 'P' || el.tagName === 'IMG' || el.tagName === 'BR' || el.tagName === 'DIV')) {
                 if (el.tagName === 'P' && el.querySelector('code')) {
-                    // salta questo elemento
+                     // salta
                 } else {
                     currentBlock.push(el);
                 }
@@ -204,6 +200,7 @@ ${markdown}`;
         }
     })
     .catch(error => {
+        // console.error(error);
         document.getElementById('perfume-content').innerHTML = '<p>Niente, non si è caricato. Riprova o vai a farti una vita.</p>';
     });
 }

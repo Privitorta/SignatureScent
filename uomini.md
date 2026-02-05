@@ -332,6 +332,11 @@ Molto buono il profumo. Tu sei un rompicoglioni, però. Good news though, nel tu
 *2/10*  
 Questo profumo fa vomitare e tu anche. Innanzitutto, non sai neanche cosa significa trattare bene una ragazza; imiti, ci provi, segui uno stereotipo per fare cose in cui nemmeno credi, perchè non sei in grado di amare genuinamente. Sei orgoglioso (chissà di cosa), narcisista, non ti interessa davvero di niente se non di te stesso; non vuoi nemmeno bene a tua madre, i tuoi genitori molto probabilmente sono separati e tu l'hai sofferta ma non lo ammetti perchè fa character development. Peccato che su di te non abbia portato neanche un briciolo di positivo, l'indipendenza post divorzio dei tuoi. Sei solo cresciuto storto e incapace.
 
+**ADIDAS Chill Zone**  
+![](images/image227.png)  
+*6/10*  
+Sei l'equivalente umano di un bicchiere di cola lasciato sgasare al sole. Privo di sostanza e vitalità una volta passata l'effervescenza chimica. È il profumo di chi ha trasformato la propria igiene personale in una pratica burocratica: "Ho fatto la doccia? Sì. Ho messo qualcosa? Sì." Fine della personalità. Hai talmente paura di essere giudicato per i tuoi gusti che hai deciso di non averne. Sei intrappolato in una zona di comfort che in realtà è una palude di stagnazione emotiva.
+
 **CALVIN KLEIN CK One / CK One Essence**  
 ![](images/image153.png)
 ![](images/image204.png)  
@@ -364,7 +369,32 @@ Vorrei dire delle orribili cose sul tuo conto perchè te le meriti tutte, sei un
 Siamo all'incirca sulla stessa linea dei fratellini, con l'aggiunta che tu sei un pochino più tamarro. Di quelli che alzano il volume della radio a 70 con 4 passeggeri a bordo e una P sul lunotto.
 
 **MONTALE Intense Cafe**  
-![](images/image201.png)    
+![](images/image201.png)  
 *2/10*  
 Segnale di narcisismo vulnerabile mascherato da sensibilità. Quello che vuole sembrare dolce, "edible" (come dicono quei video suggestion di fragranze imbarazzanti), sei un manipolatore pigro. Abbassi le difese delle tue prede fingendo di essere un uomo moderno che non ha paura del suo lato femminile. In verità sei un predatore di attenzioni che non sa gestire un rifiuto. Sei quello che, dopo un appuntamento andato male, manda messaggi passivo-aggressivi perché "non hai apprezzato la mia profondità". Amore è che non apprezzavano il diabete di tipo 2 che gli hai causato stando seduto vicino a loro.
 
+**MANCERA Instant Crush**  
+![](images/image224.png)  
+*10/10*  
+Ti amo. Ma solo dopo che spariscono quelle note di apertura da brividi. Quei primi 3 minuti sono un TSO olfattivo poi, però, arriva la magia ed è lì che diventi pericoloso. Narcisista overt "beast mode". Non spruzzi un profumo, dichiari una guerra coloniale allo spazio vitale altrui. Se entri in una stanza e qualcuno non si gira a guardarti (anche solo per tossire), il tuo intero sistema di credenze crolla. Il tuo è un attaccamento ansioso e disorganizzato mascherato da iper-sicurezza, sotto quella colata di ambra e sandalo si nasconde la paura atavica di essere invisibile. Hai bisogno di schiacciare l'ambiente circostante per sentirti solido.
+
+**MANCERA Tonka Cola**  
+![](images/image225.png)  
+*5/10*  
+L'odore di chi ha sostituito l'autostima con le calorie. Alle feste di compleanno dei tuoi compagni eri quello che stazionava vicino al vassoio delle pizzette, guardando con odio il festeggiato perché i suoi regali erano meglio dei tuoi. Quell'invidia infantile non ti ha mai abbandonato, oggi si è solo trasformata in un bisogno compulsivo di accumulare oggetti inutili per riempire un vuoto che nessuna bevanda gassata potrà mai colmare. 
+
+**ADIDAS Dream Glaze**  
+![](images/image226.png)  
+*6/10*  
+Sei un caso di disturbo da impulso all'acquisto legato a una profonda insicurezza materiale. Non arrivi a fine mese perché spendi in "cavolate" (gadget, dupe di profumi, cibo spazzatura) nel disperato tentativo di comprare la felicità che ti è stata negata (o che pensi ti sia stata negata) nell'infanzia.
+
+**BVLGARI Man In Black**  
+![](images/image228.png)  
+*10/10*  
+Capolavoro di equilibrio tra brutalità e raffinatezza. Ma restiamo con i piedi per terra: lo indossi perché vuoi proiettare l'immagine dell'uomo "vissuto", quello che ha segreti indicibili e un conto in banca a sei cifre (anche se magari sei solo un consulente finanziario che vive ancora coi genitori). Odore di chi sa esattamente dove seppellire un corpo o dove nascondere una ricevuta fiscale sospetta. Forti tratti di machiavellismo e narcisismo grandioso. Ti piace il controllo, vuoi essere un salvatore oscuro del caos del mondo, come se tu fossi simbolo di fermezza; tieni le persone a una distanza che permette di ammirare la tua "profondità" (tra virgolette non casualmente) senza mai vedere le tue crepe emotive. Non sai connetterti bene con gli altri; o almeno non sentimentalmente.
+
+**ADIDAS Full Recharge / Spark Up**  
+![](images/image229.png)
+![](images/image230.png)  
+*2/10*  
+Sei "fresco" come l'aria condizionata di un ufficio postale. Artificiale, deprimente e funzionale solo a non far svenire. Nell'ultima fallisci, per fortuna la nube di questo profumo dura 3 secondi. Comunque, un'acquetta che non dice "sono energico", dice "ho smesso di lottare". Sei il ragazzino che non disturba, non attira e non distoglie lo sguardo.

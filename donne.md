@@ -1,8 +1,11 @@
 
 # DONNE
 
-**VICTORIA'S SECRET (Qualsiasi, anche le acque profumate)**  
-*Non valuto perché qui parlo di ogni profumo VS.*  
+**VICTORIA'S SECRET Bare / Tease / Bombshell**  
+![Bare](images/image3.png)
+![Tease](images/image1.png)
+![Bombshell](images/image2.png)  
+*5/10*  
 Hai 14 anni? Immagino di no. Allora spiegami, senza iniziare la frase con "c'è", perchè odori come lo spogliatoio di una palestra femminile delle medie. Amore, sapere di "*pera e zucchero*" e avere le mutandine VS glitterate che fanno capolino dai light wash mom jeans di PULL&BEAR è un grido d'aiuto a cui nessuno (se non disperati) risponderà.
 
 **PRADA Paradoxe**  
@@ -25,19 +28,19 @@ $$
 Se avessi SOLO l'olfatto come senso funzionante, riconoscerei i daddy issues di una ragazza in 1 secondo grazie a te. Per mainstream budget baddies. Ami le attenzioni, si vede, ma fai finta che non sia vero. Ti piace anche fingere di avere i soldi e quando trovi modo di infilarti in qualche antro che pullula di high-end people, non ti godi niente perchè sei troppo concentrata a controllare con la coda dell'occhio se qualcuno ti caga (bad news: hai degli stivaletti neri 100mm di Pittarello e un blazer di H\&M, NESSUNO tra quella gente ti cagherà).
 
 **YVES SAINT LAURENT Libre Intense / Libre Vanille Couture**  
-![](images/image16.png)
-![](images/image9.png)  
+![Libre Intense](images/image16.png)
+![Libre Vanille Couture](images/image9.png)  
 *10/10*  
 Visto che sono le mie signature, non commenterò molto, anche se ovviamente avrei da parlarne a lungo.   
 In ogni caso, sei me. Il che mi dispiace *molto*. Li metto insieme per comodità e perchè, bene o male, condividono un pubblico di simile fama. Tra i profumi designer meglio riusciti della storia btw, a mani basse. Entrambi prediletti per ragazze con dei daddy issues fuori di testa. *Spero tu sia bionda. Non ce la vedo una mora a usarli.* Fanno un po' da scudo a tutto quello che potrebbe far "saltare la copertura" di quello che in realtà sei. Funziona per chi non ti vede davvero. Chi invece, per tua sventura, ti vede, e ti vede fino alle ossa, vede anche il cantiere di costruzione personalità, e non è un bel panorama.
 
 **YVES SAINT LAURENT Libre Le Parfum**  
-![](images/image71.png)  
+![Libre Le Parfum](images/image71.png)  
 *8/10*  
 Mommy. Adopt me. Una donna con la testa sulle spalle, peccato per gli ex fidanzati. Impara a farti meglio heatless curls / blowouts, scegli se usare oro o argento invece di mixarli come una bambina che sceglie gli charm di Pandora per il 14esimo e sei a posto per la vita.
 
 **GIORGIO ARMANI My Way**  
-![](images/image112.png)  
+![My Way](images/image112.png)  
 *6/10*  
 *Se La Vie Est Belle è l'inferno della banalità, My Way è la sua sala d'attesa con le riviste vecchie di tre anni.*  
 Sei talmente noiosa, conformata e immovibile che ti lascerei senza descrizione, ferma nel tempo a una sufficienza. Sei in punizione, vai nell'angolino a pensare ai tuoi sbagli (ci vorrà un bel po'). Non vivi niente che non sia già stato approvato da un algoritmo. Scrivi "Traveler" nella bio perché ha fatto un weekend a Mykonos e uno a Parigi. Disperato bisogno di essere accettata dalla società borghese. Sei una manipolatrice passiva, nel senso che ottieni quello che vuoi facendo la parte della ragazza perbene, che non dice mai una parola fuori posto, che ha la cameretta arredata tutta in bianco e beige perché i colori ti spaventano quasi quanto l'idea di avere un'opinione originale. Se ti tagliassero uscirebbe acqua tonica sgasata. 
@@ -47,17 +50,17 @@ $$
 *Nota: Il limite tende a zero, circa come l'interesse che susciti in una conversazione che superi i 20 secondi.*
 
 **GIORGIO ARMANI Sì**  
-![](images/image46.png)  
+![Sì](images/image46.png)  
 *1/10*  
 Ma sì cosa? Sì sono ritardata? Sì non ho mai genuinamente compiuto una buona azione nella mia miserabile vita? Sì i miei genitori non sopportano il fatto di avermi messa al mondo? Se il profumo l'hai preso per questo, ok. People pleaser. Traumatizzata. Ti bullizzavano, poi hai iniziato a bullizzare tu, e ora è un misto in cui credi di avere in mano il coltello dalla parte del manico ma in realtà ti perculano tutti e tu cammini col paraocchi.
 
 **GIORGIO ARMANI Sì Passione**  
-![](images/image122.png)  
+![Sì Passione](images/image122.png)  
 *2/10*  
 Se sei davvero, al 100% convinta che questo profumo lasci una scia minimamente seducente dietro di te, non so come convincerti che funzionerebbe meglio una scoreggia proteica. Probabilmente avresti più chance di farti rivolgere la parola dal tipo di uomo che cerchi.
 
 **JULIETTE HAS A GUN  Not a Perfume**  
-![](images/image149.png)  
+![Not a Perfume](images/image149.png)  
 *5/10*  
 Ti credi tanto speciale perché "su di te ogni profumo cambia". Sei l'equivalente umano di un foglio excel vuoto.   
 Bevi solo acqua a temperatura ambiente e il tuo colore preferito è tipo il greige.   
@@ -68,10 +71,12 @@ Minimalista? Tesoro, no, sei *terrorizzata* dall'idea di dare fastidio a qualcun
 *8/10*  
 Hai un tappeto di cristalli in camera e fai yoga tre volte a settimana, poi la notte ti spari 20 gocce di ansiolitico. Spendere 200€ per un profumo che dura quanto un 13enne porn addict è una delle tue red flag principali.
 
-**CHANEL Chance / Chance Eau Fraiche / Chance Eau Vive**  
-![](images/image126.png)
-![](images/image73.png)
-![](images/image145.png)  
+**CHANEL Chance / Chance Eau Fraiche / Chance Eau Vive / Chance Eau Tendre / Chance Eau Splendide**  
+![Chance](images/image126.png)
+![Chance Eau Fraiche](images/image73.png)
+![Chance Eau Vive](images/image145.png)
+![Chance Eau Tendre](images/image209.png)
+![Chance Eau Splendide](images/image208.png)  
 *2/10*  
 Il profumo di chi non ha mai preso una decisione autonoma in vita sua. Lasci che gli altri decidano per te per poi lamentarti passivamente che "non vieni mai ascoltata". Hai paura di osare, ti rifugi in un profumo che sa di pulito e "costoso" sperando che nessuno noti quanto sei anonima. Sei quella che alle cene non propone mai il ristorante perché "va bene tutto".
 
@@ -432,6 +437,13 @@ Di questo ho proprio a casa, qui, di fianco a me la miniatura. Un odore insoppor
 *9/10*  
 Un profumo che trovo buonissimo. Non posso negare nemmeno il fatto che per un periodo medio-lungo ne ho usato un campioncino e mi piace proprio tanto. Se sei una ragazza che lo compra, lo usa abitualmente e lo rende la sua signature NON puoi essere mentalmente presente del tutto. O meglio, sei molto intelligente, ma piena, piena, piena zeppa di problemi. Probabilmente borderline. Sicuro attaccamento evitante. Ti isoli e vuoi che la gente ti rincorra disperatamente (alcuni lo fanno, il problema è che non ti basta). Non vivrai mai la tua favola d'amore che sogni, Principessa, finchè dentro hai un inferno ambulante camuffato con la vaniglia e il gelsomino.
 
+**MARC JACOBS Daisy / Daisy Blush / Daily Bloom**  
+![Daisy](images/image202.png)
+![Daisy Blush](images/image221.png)
+![Daisy Bloom](images/image220.png)  
+*4/10*  
+Eh tu sei curiosa, hai un monte di traumi infantili irrisolti che non hai intenzione di portare davanti a una psichiatra, questo profumo sembra sterilizzato in autoclave comunque. Non hai una opinione che ti appartiene tipo dal 2014, anno in cui hai deciso di stabilizzare la tua persona in una estetica della "ragazza della porta accanto" (la porta è quella del manicomio). Sei evitante, ti senti protagonista di un film indie, passi i viaggi a guardare fuori dal finestrino con aria malinconica sperando che qualche anima persa ti trovi esteticamente interessante senza che tu debba effettivamente dire o fare nulla di rilevante. Pickme, dici che non ti trucchi e usi 18 prodotti "nude" (si vede la polverina di cipria ogni volta che ti muovi). La tua capacità di gestire un conflitto è prossima allo zero, sei un loop infinito di "va bene qualsiasi cosa, non importa". Questo profumo è il rifugio di chi non vuole prendersi la responsabilità di avere un impatto, di esistere davvero. Smetti di nasconderti dietro quei petali di gomma, il mondo non ti mangerà se per una volta deciderai di odorare di qualcosa che non sia un bagnoschiuma per neonati.
+
 **HUGO BOSS Femme**  
 ![](images/image156.png)  
 *2/10*  
@@ -580,7 +592,11 @@ $$
 \mathcal{S}_{yara}(x) = \underbrace{ \frac{\displaystyle \sum_{i=1}^{n} \left( \mathcal{H}_{v} \cdot \mathcal{P}_{\text{synth}} \right)^i }{ \sqrt[\text{IQ}(x)]{ \text{Costo}_{\text{real}} \cdot \mathcal{I}_{\text{real}}(x) } } }_{\text{Componente di Delusione}} + \underbrace{ \oint_{\partial \text{TikTok}(x)} \vec{F}_{\text{hype}} \cdot d\vec{s} }_{\text{Circolazione del Gregge}} + \iint_{\mathcal{R}(x)} \Gamma_{\text{soffritto}} \, dA 
 $$
 </p>
-Te lo traduco io, così non devi darlo in pasto a qualche LLM.<br><br>$\sum_{i=1}^{n} \left( \mathcal{H}_{v} \cdot \mathcal{P}_{\text{synth}} \right)^i$ è l'accumulo esponenziale dell'Hype Visivo ($\mathcal{H}_{v}$) moltiplicato per i Polimeri di Plastica ($\mathcal{P}_{\text{synth}}$), aka più vedi TikTok di gente che agita la boccetta rosa con le unghie finte, più la percezione della realtà ti si plastifica.<br><br>${ \sqrt[\text{IQ}]{ \text{Costo}_{\text{real}} \cdot \mathcal{I}_{\text{real}} } }$ è una radice calcolata in base al Quoziente Intellettivo; più è basso, più il valore della frazione esplode verso infinito (a breve vediamo grazie a chi); il profumo funziona sulle menti non schermate, sai com'è. Al denominatore ho messo il costo reale (una miseria) e l'identità reale ($\mathcal{I}_{\text{real}}$); poichè la tua tende asintoticamente a 0 (visto che sei il ricalco di un algoritmo) il valore totale della superficialità tende all'infinito. Quindi non venite a farmi storie voi del Politecnico per l'indice della radice, che vi smonto.<br><br>${ \oint_{\partial \text{TikTok}} \vec{F}_{\text{hype}} \cdot d\vec{s} }$ è l'integrale di linea del vettore Hype lungo il bordo della tua For You page! Non è meraviglioso? Dimostrare matematicamente che il tuo gusto non ha un'origine, ma è una circolazione chiusa di informazioni spazzatura?<br><br>$\iint_{\mathcal{R}} \Gamma_{\text{soffritto}} \, dA$ è l'integrale doppio sulla superficie del tuo maglioncino Bershka sintetico ($\mathcal{R}$) e calcola la densità del famoso Soffritto ($\Gamma$) di cui parlavamo prima, che persiste nonostante le tue 35 spruzzate di alcol zuccherato. Costante cosmica perchè non ci scappi dalle tue origini cheap.
+Te lo traduco io, così non devi darlo in pasto a qualche LLM.  
+$\sum_{i=1}^{n} \left( \mathcal{H}_{v} \cdot \mathcal{P}_{\text{synth}} \right)^i$ è l'accumulo esponenziale dell'Hype Visivo ($\mathcal{H}_{v}$) moltiplicato per i Polimeri di Plastica ($\mathcal{P}_{\text{synth}}$), aka più vedi TikTok di gente che agita la boccetta rosa con le unghie finte, più la percezione della realtà ti si plastifica.
+${\sqrt[\text{IQ}]{\text{Costo}_{\text{real}}\cdot\mathcal{I}_{\text{real}}}}$ è una radice calcolata in base al Quoziente Intellettivo; più è basso, più il valore della frazione esplode verso infinito (a breve vediamo grazie a chi); il profumo funziona sulle menti non schermate, sai com'è. Al denominatore ho messo il costo reale (una miseria) e l'identità reale ($\mathcal{I}_{\text{real}}$); poichè la tua tende asintoticamente a $0$ (visto che sei il ricalco di un algoritmo) il valore totale della superficialità tende all'infinito. Quindi non venite a farmi storie voi del Politecnico per l'indice della radice, che vi smonto.
+${\oint_{\partial \text{TikTok}} \vec{F}_{\text{hype}} \cdot d\vec{s} }$ è l'integrale di linea del vettore Hype lungo il bordo della tua For You page! Non è meraviglioso? Dimostrare matematicamente che il tuo gusto non ha un'origine, ma è una circolazione chiusa di informazioni spazzatura?
+$\iint_{\mathcal{R}} \Gamma_{\text{soffritto}} \, dA$ è l'integrale doppio sulla superficie del tuo maglioncino Bershka sintetico ($\mathcal{R}$) e calcola la densità del famoso Soffritto ($\Gamma$) di cui parlavamo prima, che persiste nonostante le tue 35 spruzzate di alcol zuccherato. Costante cosmica perchè non ci scappi dalle tue origini cheap.
 
 Il mio odio per questo profumo nasce da un fastidio che, ahimè, va ben oltre la sua piramide olfattiva, non si parla per forza solo e sempre di crimini alle narici, è un disagio che va elevato, mi permette di tracciare una linea bella netta, rosso fuoco, tra chi sceglie e chi subisce. Perchè ci sono, sfortunatamente, tanti prodotti di input algoritmici. Statistiche di vendita. Ho usato la matematica perchè con lei mi posso ribellare un po' meglio a un mondo che vuole farci puzzare tutti dello stesso discount di Dubai. E poi c'è un piacere quasi divino nel rendere un insulto talmente complesso che la vittima non ha neanche in mente gli strumenti per sentirsi offesa. Se dobbiamo essere cattivi, facciamolo con una precisione tale da rendere almeno l'offesa matematicamente inconfutabile, da rendere la persona il cadavere sul tavolo autoptico... you know? Creiamo teoremi mentre gli altri creano scarti chimici.
 
@@ -603,6 +619,13 @@ Hai bisogno di una mano a tirarti su dal letto? I digiuni NON ti faranno perdere
 ![](images/image187.png)  
 *2/10*  
 Ti sei arresa anni fa dal voler raggiungere i tuoi obiettivi e speri profondamente di trovare un omone ricco che soddisfi ogni tipo di sogno che hai. Sei molto viziata. Fatichi a stare al passo con i tuoi pensieri. Curi molto l'estetica. Tanto insicura, ti impegni per non fare brutta figura ma sei un po' goffa e, sotto sotto, vorresti tanto che qualcuno ti apprezzasse oltre il mascherone Maybelline x KIKO che ti tiri su ogni mattina.
+
+**MARC JACOBS Daisy Pop / Daisy Wild / Daisy Black Edition**  
+![Daisy Pop](images/image213.png)
+![Daisy Wild](images/image210.png)
+![Daisy Black Edition](images/image218.png)  
+*3/10*  
+Questi sono i Daisy per chi vuole sentirsi moderna senza però rischiare di odorare davvero di qualcosa di complesso. La tua ribellione scade alle 22:00 perché devi tornare a casa dai tuoi. Mancanza di un Sé solido. Sei un camaleonte sociale. Provi a segnalare una profondità che non hai. È il profumo di chi compra dischi in vinile e reposta il video su Instagram mettendoli su un giradischi di plastica di Amazon da 15 euro.
 
 **GIVENCHY Irresistible / Irresistible Nude Velvet / Irresistible Rose Velvet**  
 ![](images/image190.png)
@@ -637,13 +660,44 @@ Sei una di quelle che rompe il cazzo perchè dice di essere nata nell'epoca sbag
 *3/10*  
 Bah, allora... innanzitutto, sei convinta di aver selezionato la fragranza di nicchia elite che ti dona un'aura incredibilmente misteriosa, la verità sfortunatamente trapela e si nota appena apri la boccuccia con la lip combo di Deborah Milano; non attira gli uomini come le mosche, attira le mosche e basta perchè sa di merda. Speri vivamente, ogni volta che esci di casa, che qualcuno te lo complimenti questo profumo, anche perchè ci hai speso tutti i soldini tirati su a fare la cameriera (molestata 24/7). Se lo indossi non hai personalità, hai un perimetro di sicurezza... hai una paura fottuta di passare inosservata ma la risposta non la trovi a puzzare di crimine chimico.
 
-**MARC JACOBS Daisy**  
-![](images/image202.png)    
-*2/10*  
-Eh tu sei curiosa, hai un monte di traumi infantili irrisolti che non hai intenzione di portare davanti a una psichiatra, questo profumo sembra sterilizzato in autoclave comunque. Non hai una opinione che ti appartiene tipo dal 2014, anno in cui hai deciso di stabilizzare la tua persona in una estetica della "ragazza della porta accanto" (la porta è quella del manicomio). Sei evitante, ti senti protagonista di un film indie, passi i viaggi a guardare fuori dal finestrino con aria malinconica sperando che qualche anima persa ti trovi esteticamente interessante senza che tu debba effettivamente dire o fare nulla di rilevante. Pickme, dici che non ti trucchi e usi 18 prodotti "nude" (si vede la polverina di cipria ogni volta che ti muovi). La tua capacità di gestire un conflitto è prossima allo zero, sei un loop infinito di "va bene qualsiasi cosa, non importa". Questo profumo è il rifugio di chi non vuole prendersi la responsabilità di avere un impatto, di esistere davvero. Smetti di nasconderti dietro quei petali di gomma, il mondo non ti mangerà se per una volta deciderai di odorare di qualcosa che non sia un bagnoschiuma per neonati.
+**MARC JACOBS Daisy Sunshine / Daisy Delight / Daisy Twinkle / Daisy Skies / Daisy Spring**  
+![Daisy Sunshine](images/image215.png)
+![Daisy Delight](images/image216.png)
+![Daisy Twinkle](images/image214.png)
+![Daisy Skies](images/image222.png)
+![Daisy Spring](images/image223.png)  
+*1/10*  
+Vivi in una bolla di sapone. Personalità dipendente con regressione infantile. "Non voglio crescere e fuori fa freddo". Soffri di una fissazione alla fase orale/narcisistica Primaria. Cerchi il conforto di un odore pulito, floreale e leggermente zuccherino che funga da copertina di Linus. Deficit cronico di ossitocina. Cerchi nel profumo quella scarica di affetto familiare sintetico per placare un cortisolo costantemente alto.
 
 **GLOSSIER You**  
 ![](images/image203.png)    
 *4/10*  
 Sei molto convinta di essere unica. Ovviamente non è così. Vittima dell'ondata dei trend skincare sia del 2020 che attuale. Compri migliaia di prodotti per la cura personale. Sei ordinata, probabilmente disturbo ossessivo compulsivo, slightly autistic. Non sei fondamentalmente cattiva, però ti diverti a offendere le persone, ragebait generale. Comunque in una folla di persone ti confondi e non risalti mai davvero, e questa cosa ti fa male perchè lo sai perfettamente.
+
+**MUGLER Alien Goddess**  
+![](images/image205.png)    
+*7/10*  
+L'Alien originale è un sovraccarico di glutammato che genera ansia, la versione Goddess è un ansiolitico olfattivo. Mugler user comunque $\implies$ problematica. Questo profumo funge da surrogato all'abbraccio materno che probabilmente ti è mancato o che è stato condizionato dalla tua performance. Soffri di deficit di serotonina che cerch di compensare con picchi di dopamina a breve termine. Dunque... oso un borderline. Un discreto e rispettabile narcisismo. Passi tanto tempo a scrollare. Vuoi essere adorata e hai bisogno di approvazione, temi di essere terribilmente ordinaria, sei complessa in modalità lite, fai la pazza spesso e volentieri. Hai voragini emotive immense. 
+
+**LANCÔME La Vie Est Belle Vanille Nude**  
+![](images/image206.png)    
+*5/10*  
+Bambinetta. Vittima di una ansia sociale atroce. Ecco come il tuo cervello processa questo profumaccio per evitare crolli psicotici:
+<p>
+$$
+\Phi_{LVEBVN} = \frac{\int_{t_0}^{t} (\text{Amigdala}_{\text{hyper}} \cdot e^{-\lambda \text{Vaniglia}}) \, dt}{\sqrt{\text{Validazione}_{\text{Esterna}}} + \sigma_{\text{Dissociazione}}}
+$$
+</p>
+Dove $\text{Amigdala}_{\text{hyper}}$ è il tuo stato di animo di perenne allerta e ansia sociale, $e^{-\lambda \text{Vaniglia}}$ è il fattore di smorzamento chimico perchè la vaniglia è il tuo Lexotan, sopprime le risposte di attacco/fuga del tuo vuoto interiore e $\sigma_{\text{Dissociazione}}$ è la costante di deviazione dalla realtà perchè più ti senti davvero quello che credi di dimostrare, più ti allontani dalla tua vera sofferenza neurobiologica. Ora che la formula è codificata, il trauma è ufficialmente quantificabile. È molto più difficile negare un problema quando è espresso in una frazione con un integrale di linea, non trovi?
+
+**TOM FORD Tobacco Vanille**  
+![](images/image207.png)    
+*8/10*  
+Sei stata quasi sicuramente una golden child, dovevi sempre brillare, in tutto ciò che facevi, essere costantemente perfetta e non dare problemi, sorridendo oltre ogni cazzo per mantenere l'equilibrio familiare. Invisibile da piccola. Eri amata per quello che facevi e non per chi eri. Quindi,  ora sei incline a un narcisismo vulnerabile con ovvi tratti istrionici, proietti tutta la tua identità in una immagine "divina" perchè il tuo io è sepolto sotto strati spessissimi di aspettative. Nessuno vedrà la cenere che hai dentro, right baby?
+
+**MARC JACOBS Daisy Garland / Daisy Kiss**  
+![Daisy Garland](images/image219.png)
+![Daisy Kiss](images/image212.png)   
+*3/10*  
+Apoteosi dell'inutilità. Sei il nulla cosmico. Soffri di anedonia sociale, non hai passioni, non hai guizzi, non hai nemmeno un colore preferito, sei una comparsa che ha paura di avere un odore, quindi scegli cosa ne ha meno di tutti. La tua regressione si tinge di un romanticismo delirante. La tua vita adulta è un deserto affettivo. Sei innamorata dell'idea dell'amore.
 
