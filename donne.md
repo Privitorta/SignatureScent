@@ -645,3 +645,5 @@ Eh tu sei curiosa, hai un monte di traumi infantili irrisolti che non hai intenz
 **GLOSSIER You**  
 ![](images/image203.png)    
 *4/10*  
+Sei molto convinta di essere unica. Ovviamente non è così. Vittima dell'ondata dei trend skincare sia del 2020 che attuale. Compri migliaia di prodotti per la cura personale. Sei ordinata, probabilmente disturbo ossessivo compulsivo, slightly autistic. Non sei fondamentalmente cattiva, però ti diverti a offendere le persone, ragebait generale. Comunque in una folla di persone ti confondi e non risalti mai davvero, e questa cosa ti fa male perchè lo sai perfettamente.
+

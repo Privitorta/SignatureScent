@@ -332,8 +332,9 @@ Molto buono il profumo. Tu sei un rompicoglioni, però. Good news though, nel tu
 *2/10*  
 Questo profumo fa vomitare e tu anche. Innanzitutto, non sai neanche cosa significa trattare bene una ragazza; imiti, ci provi, segui uno stereotipo per fare cose in cui nemmeno credi, perchè non sei in grado di amare genuinamente. Sei orgoglioso (chissà di cosa), narcisista, non ti interessa davvero di niente se non di te stesso; non vuoi nemmeno bene a tua madre, i tuoi genitori molto probabilmente sono separati e tu l'hai sofferta ma non lo ammetti perchè fa character development. Peccato che su di te non abbia portato neanche un briciolo di positivo, l'indipendenza post divorzio dei tuoi. Sei solo cresciuto storto e incapace.
 
-**CALVIN KLEIN CK One**  
-![](images/image153.png)  
+**CALVIN KLEIN CK One / CK One Essence**  
+![](images/image153.png)
+![](images/image204.png)  
 *2/10*  
 Il classico profumo che ti regalano a Natale quando non sanno cosa darti e sanno solo che nelle mutande hai il pacco. Se indossi CK One con consapevolezza, però, io non sarei così sicura nemmeno di quello. Forse qualche tempo fa eri anche tentato di cliccare sugli annunci che vendono le pillole per ingrandirlo. Prendi qualche kg, vai in palestra, e capisci che non PUOI fisicamente fare il figo se nel mentre odori di pozzanghera acida.
 
