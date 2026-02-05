@@ -213,8 +213,9 @@ Di nuovo, le mie parole, per questo profumo, non sarebbero bastate.
 L'edgy dei poveri. Il "finto depresso" che ha fatto della tristezza la sua intera personalità perché non ha nient'altro da offrire. Vuoi disperatamente sembrare un "artista tormentato". Sei un manipolatore affettivo che usa la sua presunta malinconia come esca per attirare donne con la sindrome della crocerossina.   
 Sei quello che "Scusa se non ti ho risposto, mi ero perso guardando il cielo", poi si scopre che stavi rankando su LOL. Sei pesante, lugubre. Un trauma noioso e evitabile, non sei da curriculum.
 
-**YSL Y**  
-![](images/image52.png)  
+**YSL Y / Y Eau de Parfum**  
+![](images/image52.png)
+![](images/image244.png)  
 *7/10*  
 Sei il tipo che pensa che la mascolinità si misuri in base a quante volte riesci a interrompere una donna mentre parla. Usi la forza, il rumore e l'intimidazione per ottenere quello che vuoi. Hai problemi a gestire la rabbia se qualcuno ti sorpassa in autostrada.
 
@@ -477,6 +478,11 @@ Per giustificare quel 0.5, dobbiamo applicare il Principio di Esclusione di Yogu
 
 Dove abbiamo che $\epsilon$ è una costante infinitesimale che rappresenta la probabilità che tu abbia letto almeno il manuale delle istruzioni della creatina e $e^\text{{Cocco}}$ il fattore di crescita esponenziale dell'illusione di essere attraente; quindi più profumo indossi più la tua percezione della realtà si distorce.
 
+**YVES SAINT LAURENT MYSLF L'Absolu**  
+![](images/image243.png)    
+*2/10*  
+Stammi alla larga tu sei spaventoso e pericoloso e NON ti sopporto.
+
 **JEAN PAUL GAULTIER Scandal Pour Homme**  
 ![](images/image240.png)    
 *8/10*  
@@ -486,3 +492,18 @@ Il re del "Guardatemi o muoio", "Ti prego, dimmi che valgo qualcosa". Mettere un
 ![](images/image241.png)    
 *3/10*  
 Boscaiolo peloso che sa di conifera, come fai a non amarlo? Però il profumo fa SBOCCARE. Almost certainly a blind buy di un fan del bagnoschiuma. In generale, un pino pungentissimo, mentolato, fortissimo, troppo intenso; mi ricorda un papà. Icona italica. Ma poi, avete idea di quanti flanker abbia generato questo pilastro?
+
+**YVES SAINT LAURENT MYSLF Le Parfum**  
+![](images/image242.png)    
+*10/10*  
+Non ti bastava quello normale? Il fatto che tu debba 'intensificare' è la prova che senti il tuo io svanire. Se l'hai fatto di proposito, hai dei seri, seri problemi di autostima, però ti senti anche Dio. Segui il calcio e ti piace allenarti. Sei molto bello, ma è una bellezza tragica, una facciata barocca costruita su fondamenta di fango. Tendi a provarci per primo con le donne solo perché questo profumo agisce come un esoscheletro psicologico: ti dà l'illusione di un coraggio che non possiedi. Senza quella scia, torni a essere un guscio vuoto, un "nessuno" che evita lo sguardo altrui perché ha paura che la gente scopra il vuoto che nascondi sotto la camicia stretta. La tua sicurezza è una variabile esterna, non è generata dal tuo io, viene spruzzata ogni mattina. Sei come un'auto di lusso senza motore, bellissima da vedere, ma se qualcuno prova a metterti in moto, si sente solo il rumore di una bomboletta spray. Sei un 10/10 visivo ma la tua anima è un errore di compilazione che non verrà mai risolto.
+
+**VERSACE Eros Flame**  
+![Eros Flame](images/image245.png)  
+*4/10*  
+L'odore di chi confonde il bruciore di stomaco con la passione travolgente. Sei la versione "spicy" del tamarro di periferia. Non ti accontenti di essere fastidioso, vuoi essere urticante. Il tuo profumo urla "ho problemi di gestione della rabbia ma cerco di nasconderli dietro un'estetica da amante latino". Sei quello che pensa che discutere animatamente sia "metterci il cuore", quando in realtà stai solo mettendo alla prova la pazienza (e i timpani) di chiunque ti circondi. Sei il re del gaslighting, dai fuoco alla relazione e poi ti lamenti che fa troppo caldo. Il tuo sistema nervoso è un corto circuito perenne tra l'ipotalamo e la tua totale assenza di autocontrollo. Ami intensamente per tre giorni poi diventi un incubo di gelosia e controllo, giustificando tutto con "sono fatto così, sono passionale". No. Sei un incendio in una fabbrica di plastica. Tossico, difficile da spegnere e lasci solo macerie. Altro che "Flame", sei caldo come una stufa difettosa che sta per saltare in aria.
+
+**BYREDO Bal d'Afrique**  
+![](images/image246.png)  
+*7/10*  
+Mi stai sul cazzo in una maniera credo allucinante. Ti credi il re della simpatia, ci fosse mezza volta che fai ridere con una battuta che non colpisca una minoranza. Il problema? Alle donne piaci pure. Forse è il profumo, il responsabile. Hai soldi, te ne intendi di fragranze, sai come camuffarti il personaggio per fittare in vari posti di ranghi diversi; solito camaleonte manipolatore. Non vale la pena usare il tempo per te, perchè tutto ciò che fai è frutto di un passato insicuro tremendamente profondo che ti ha segnato e tuttora descrive lo schifo che hai e che nascondi in modo fallimentare. Io lo vedo.
