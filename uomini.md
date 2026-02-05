@@ -398,3 +398,91 @@ Capolavoro di equilibrio tra brutalità e raffinatezza. Ma restiamo con i piedi 
 ![](images/image230.png)  
 *2/10*  
 Sei "fresco" come l'aria condizionata di un ufficio postale. Artificiale, deprimente e funzionale solo a non far svenire. Nell'ultima fallisci, per fortuna la nube di questo profumo dura 3 secondi. Comunque, un'acquetta che non dice "sono energico", dice "ho smesso di lottare". Sei il ragazzino che non disturba, non attira e non distoglie lo sguardo.
+
+**DIOR Sauvage Elixir**  
+![](images/image231.png)  
+*9/10*  
+Se il Sauvage originale è il paziente zero, tu sei la variante Delta potenziata in laboratorio. Sei il boss finale della manipolazione. Non ti accontenti di dare fastidio, tu vuoi dominare la chimica cerebrale di chiunque entri nel tuo raggio d'azione. In teoria sei un uomo di potere, o almeno, hai imparato a simularlo così bene che ormai ci credi anche tu. Sei freddo, calcolatore, e probabilmente hai un piano quinquennale anche per decidere cosa mangiare a colazione. La tua è una tossicità d'élite, non urli, sussurri minacce velate dietro un muro radioattivo. Sei quello che non chiede scusa perché "i leader non si spiegano". Sei un dittatore letale come un virus.
+
+**TOM FORD Tobacco Vanille**  
+![](images/image207.png)    
+*8/10*  
+Old Money fan eh?. Sei convinto di odorare come un club privato londinese degli anni '20 ma per il 90% delle persone, di quelle che hai intorno TU, odori di pacchetto di sigarette dimenticato in un cassetto unto. Compri libri di filosofia che non leggi e guardi film in lingua originale senza sottotitoli solo per poterlo dire a cena. Ovviamente poi non sai spiegarli e ti inventi le parole che hai letto a caso su un commento di Letterboxd. Usi la tua "raffinatezza" come un'arma per far sentire gli altri inadeguati. In realtà, sei un insicuro che ha bisogno di un marchio costoso per sentirsi autorizzato a parlare.
+
+**JEAN PAUL GAULTIER Ultra Male**  
+![](images/image232.png)    
+*8/10*  
+Il predatore da discoteca in perenne arresto di crescita. Sei un uomo di 30 anni intrappolato nel corpo di un ragazzino di 17 (o viceversa!) che ha appena scoperto che può rimorchiare offrendo shot di tequila scadente. Odori di un mix che urla "non ho intenzione di prendermi cura di te, ma voglio che tu ti prenda cura del mio ego per le prossime due ore". Sei quello che fa i TikTok in palestra. La tua maturità emotiva è paragonabile a quella di un tamagotchi abbandonato.
+
+**XERJOFF Torino21**  
+![](images/image233.png)    
+*4/10*  
+Sei il riflesso biondo platino del narcisismo. Pensi che spendere 250€ per un profumo ti renda automaticamente un semidio mediterraneo. Sei quel tipo di manipolatore che ti riempie di attenzioni per farsi dire quanto è bravo, bello e speciale. Se qualcuno non apprezza la tua "aura" lo cancelli dalla tua vita con la stessa velocità con cui carichi un post su Instagram per far vedere che sei in un posto esclusivo.
+
+**LATTAFA Asad / Asad Bourbon / Asad Zanzibar**  
+![](images/image234.png)
+![](images/image235.png)
+![](images/image236.png)  
+*2/10*  
+Se hai letto le recensioni delle donne per i profumi LATTAFA, avrai sicuramente notato una vaga somiglianza nella bottiglietta della linea Yara. Infatti si merita lo stesso trattamento. Vuoi essere un predatore ma hai il budget di un tirocinante non pagato, l'incarnazione del "vorrei ma non posso", un mediocre che cerca di spacciarsi per qualcuno di importante usando una copia carbone, il tipo che parla di "mindset da milionario" mentre controlla se ha abbastanza soldi sulla PostePay (carta non casuale) per il kebab. La tua intera identità è un dupe di qualcosa di reale.
+
+**JEAN PAUL GAULTIER Le Beau Paradise Garden**  
+![](images/image237.png)    
+*5/10*  
+Sei talmente convinto di essere rilevante che quasi mi dispiace rovinarti i vestiti, ma tanto non arriverai a leggere la fine di questo paragrafo: la tua soglia di attenzione è stata incenerita dai reel sulle "strategie di investimento" di ragazzini in Dubai e dai video di calcio con la musica trap in sottofondo. Sei il manifesto del bimbo di legno tropicale. A volte, in un raro guizzo di lucidità, pensi di voler diventare padre; è l'unico momento in cui il tuo cervello processa un dato reale, perché realizzi che la tua intera utilità biologica si riduce alla funzione di un mero distributore automatico di materiale genetico. Il tuo sistema nervoso è tarato su stimoli di 15 secondi; oltre quel limite, subentra il vuoto pneumatico. Cerchi una connessione ma non hai gli strumenti cognitivi per sostenerla, quindi ti rifugi in un odore di cocco e menta che urla "sono fresco e disponibile", sperando che nessuno ti ponga mai una domanda su quello che fingi di sapere.
+
+**JEAN PAUL GAULTIER Le Male**  
+![](images/image238.png)    
+*6/10*  
+Sei l'odore del primo ex di qualcuno, quello che ha lasciato un trauma ma che oggi fa solo tenerezza. Sei prevedibile, rassicurante e profondamente noioso. Usi la lavanda come un sedativo per la tua crisi esistenziale. 
+
+**JEAN PAUL GAULTIER Le Beau**  
+![](images/image239.png)    
+*8/10*  
+Ho VERAMENTE TANTO da dire a te. Il narcisista delle "Good Vibes" che pensa che una foglia di fico sul pacco (della boccetta e basta, spero) sia un manifesto filosofico. Sei convinto che basti odorare di buono per essere considerato un Adamo nel paradiso terrestre ma sei un ragazzetto che va in palestra 3 volte a settimana e passa il resto del tempo a editare le foto dei suoi bicipiti per qualche scema con la Iqos. Sei la versione tarda di Le Beau Paradise Garden, almeno tu non fingi di essere un investitore di Dubai, sei un failed gym rat che sogna Formentera tutto l'anno. Esisti solo attraverso lo specchio. Se non ci fosse Instagram, la tua autostima evaporerebbe più velocemente delle note di testa di questo profumo. Un corpo scolpito che ospita "un'anima" con la complessità di un sasso. Forse il sasso è più complesso anzi, per tutta quella retorica che forse se lo tocchi si indurisce... hai presente? Facciamo un `leBeau_kernel_patch.c`.
+
+```
+void protocol(user *u) {
+    u->shirtless = TRUE;
+    u->cognitive_load = 0.01; // risparmio energetico per i bicipiti
+    u->personality_depth = 0.5f; // floating point per gestire l'infinitesimo
+    while (u->is_observed || u->at_gym) {
+        // ciclo infinito di auto-validazione
+        check_abs_in_mirror();
+        // la dose deve essere tossica per l'ambiente circostante
+        apply(LE_BEAU, DOSAGE_MAX);
+        if (girl_looks_away) {
+            u->ego_crisis = TRUE;
+            flex();
+            // fallback se il flex non funziona, qui si passa ai social
+            post_to_instagram_story(u->abs, "Focus. #Grindset"); 
+        } else {
+            // se ti guardano (strano?) rovini tutto con le tattiche fallimentari
+            u->smirk_intensity = 100;
+            cringe_eyecontact(); // quello sguardo TROPPO lungo che ammazza qualsiasi cosa
+        }
+    }
+}
+```
+Quel `while(u->gym)` è la prigione dorata. Non uscirai mai da quel loop, perché fuori dal riflesso di uno specchio, il tuo intero file di sistema restituisce un `NULL POINTER EXCEPTION`. E per la cronaca, ho usato un valore di 0.01 per `cognitive_load` e matematicamente è corretto ma informaticamente quel valore è troppo alto per l'hardware a disposizione quindi dovrebbe essere un unsigned char castato a zero perché la memoria volatile di un utente Le Beau non ha spazio per i decimali. Poi, per fare ancora più i precisini, la condizione di uscita dal while non ha un break perchè se il poveretto si vede nel riflesso flexa finchè non schiatta. It's a feature, not a bug! Una patch 1.1 avrebbe la gestione della donzella con la Iqos:
+
+```
+if (target_has_iqos && u->smirk_intensity == 100) {
+    u->perceived_charisma = (float)rand() % 2; // Valore random tra 0 e 1, solitamente 0
+    execute_failed_pickup_line("Ma è al gusto menta?");
+}
+```
+
+Per giustificare quel 0.5, dobbiamo applicare il Principio di Esclusione di Yogurt (io): due pensieri intelligenti non possono occupare lo stesso cervello se è già presente una nota di cocco sintetico di Gaultier. $$ \Psi_{LeBeau} = \lim_{\text{IQ} \to 0} \left( \frac{\text{Volume Bicipiti} \cdot \text{Storie IG}}{\sqrt{\text{Libri Letti} + \epsilon}} \right) \cdot e^{\text{Cocco}} $$
+
+Dove abbiamo che $\epsilon$ è una costante infinitesimale che rappresenta la probabilità che tu abbia letto almeno il manuale delle istruzioni della creatina e $e^\text{{Cocco}}$ il fattore di crescita esponenziale dell'illusione di essere attraente; quindi più profumo indossi più la tua percezione della realtà si distorce.
+
+**JEAN PAUL GAULTIER Scandal Pour Homme**  
+![](images/image240.png)    
+*8/10*  
+Il re del "Guardatemi o muoio", "Ti prego, dimmi che valgo qualcosa". Mettere una corona su una boccetta di profumo al caramello salato è la mossa di marketing definitiva per attirare i soggetti con deliri di grandezza. Sei molesto, rumoroso e la tua presenza satura l'aria. Sei proprio come un pugno in faccia. E ti senti anche tu stesso un pugile sul ring della vita, ma l'unico scontro che hai vinto ultimamente è stato quello con il tuo buon gusto, finito per K.O. tecnico al primo round. La dolcezza eccessiva serve a nascondere un'amarezza interiore dovuta al fatto che, fuori dalla tua bolla di fumo e caramello, sei solo una persona comune che non sa gestire il silenzio.
+
+**PINO SILVESTRE Pino Silvestre Original**  
+![](images/image241.png)    
+*3/10*  
+Boscaiolo peloso che sa di conifera, come fai a non amarlo? Però il profumo fa SBOCCARE. Almost certainly a blind buy di un fan del bagnoschiuma. In generale, un pino pungentissimo, mentolato, fortissimo, troppo intenso; mi ricorda un papà. Icona italica. Ma poi, avete idea di quanti flanker abbia generato questo pilastro?

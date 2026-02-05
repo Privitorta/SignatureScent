@@ -17,9 +17,7 @@ Insicura come la merda, hai tanti, ma TANTI amici falsi. Ovviamente anche tu lo 
 ![Angel](images/image140.png)  
 *4/10*  
 Regina della dissonanza cognitiva. Vuoi disperatamente proiettare un'immagine di te che non ti appartiene e non ti apparterrà MAI. Vuoi che la gente ti veda come una bambolina innocua, una soft girl un po' svampita che ha bisogno di essere protetta. Brava a mentire. *Da piccolina ti è successo qualcosa di brutto brutto, eh?* 
-$$
-\{X \in Angel \iff 50 < BodyCount(X) \leq 100\}
-$$  
+$$ \{X \in Angel \iff 50 < BodyCount(X) \leq 100\} $$  
 
 **YVES SAINT LAURENT Libre**  
 ![Libre](images/image65.png)  
@@ -44,9 +42,7 @@ Mommy. Adopt me. Una donna con la testa sulle spalle, peccato per gli ex fidanza
 *6/10*  
 *Se La Vie Est Belle è l'inferno della banalità, My Way è la sua sala d'attesa con le riviste vecchie di tre anni.*  
 Sei talmente noiosa, conformata e immovibile che ti lascerei senza descrizione, ferma nel tempo a una sufficienza. Sei in punizione, vai nell'angolino a pensare ai tuoi sbagli (ci vorrà un bel po'). Non vivi niente che non sia già stato approvato da un algoritmo. Scrivi "Traveler" nella bio perché ha fatto un weekend a Mykonos e uno a Parigi. Disperato bisogno di essere accettata dalla società borghese. Sei una manipolatrice passiva, nel senso che ottieni quello che vuoi facendo la parte della ragazza perbene, che non dice mai una parola fuori posto, che ha la cameretta arredata tutta in bianco e beige perché i colori ti spaventano quasi quanto l'idea di avere un'opinione originale. Se ti tagliassero uscirebbe acqua tonica sgasata. 
-$$
-X \in MyWay \Rightarrow Personality(X) = \lim_{t \to \infty} \frac{1}{TikTokTrend(t)}
-$$
+$$ X \in MyWay \Rightarrow Personality(X) = \lim_{t \to \infty} \frac{1}{TikTokTrend(t)} $$
 *Nota: Il limite tende a zero, circa come l'interesse che susciti in una conversazione che superi i 20 secondi.*
 
 **GIORGIO ARMANI Sì**  
@@ -287,9 +283,7 @@ Roba seria. Ti stimo, non posso fare altro. La "Mean Girl" definitiva. Sei quell
 ![](images/image79.png)![](images/image93.png)  
 *5/10*  
 Ti piace l'idea di essere "indimenticabile". Lasci segni difficili da cancellare nella mente degli altri, si… a libera interpretazione. Non sai scopare. Tabula rasa emotiva. Stupida come un sasso. Preda preferita di ogni narcisista tossico perché non hai abbastanza neuroni per opporre resistenza. Usi questo profumo perché speri di sembrare "innocente ma sexy", ma l'unica cosa che proietti è una disponibilità disperata e una totale assenza di spina dorsale. Sei quella che si fa ghostare dopo due settimane e continua a mandare messaggi "perché abbiamo una connessione". No, hai un profumo che sa di ammorbidente e un pessimo rispetto per il tuo corpo. Ah e
-$$
-X \in (ForHer) \cap (Bella) \Rightarrow BodyCount \in (20, 50)
-$$
+$$ X \in (ForHer) \cap (Bella) \Rightarrow BodyCount \in (20, 50) $$
 
 **NARCISO RODRIGUEZ All of Me / All of Me Intense**  
 ![](images/image53.png)
@@ -684,9 +678,7 @@ L'Alien originale è un sovraccarico di glutammato che genera ansia, la versione
 *5/10*  
 Bambinetta. Vittima di una ansia sociale atroce. Ecco come il tuo cervello processa questo profumaccio per evitare crolli psicotici:
 <p>
-$$
-\Phi_{LVEBVN} = \frac{\int_{t_0}^{t} (\text{Amigdala}_{\text{hyper}} \cdot e^{-\lambda \text{Vaniglia}}) \, dt}{\sqrt{\text{Validazione}_{\text{Esterna}}} + \sigma_{\text{Dissociazione}}}
-$$
+$$ \Phi_{LVEBVN} = \frac{\int_{t_0}^{t} (\text{Amigdala}_{\text{hyper}} \cdot e^{-\lambda \text{Vaniglia}}) \, dt}{\sqrt{\text{Validazione}_{\text{Esterna}}} + \sigma_{\text{Dissociazione}}} $$
 </p>
 Dove $\text{Amigdala}_{\text{hyper}}$ è il tuo stato di animo di perenne allerta e ansia sociale, $e^{-\lambda \text{Vaniglia}}$ è il fattore di smorzamento chimico perchè la vaniglia è il tuo Lexotan, sopprime le risposte di attacco/fuga del tuo vuoto interiore e $\sigma_{\text{Dissociazione}}$ è la costante di deviazione dalla realtà perchè più ti senti davvero quello che credi di dimostrare, più ti allontani dalla tua vera sofferenza neurobiologica. Ora che la formula è codificata, il trauma è ufficialmente quantificabile. È molto più difficile negare un problema quando è espresso in una frazione con un integrale di linea, non trovi?
 
