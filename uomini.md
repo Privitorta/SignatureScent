@@ -507,3 +507,14 @@ L'odore di chi confonde il bruciore di stomaco con la passione travolgente. Sei 
 ![](images/image246.png)  
 *7/10*  
 Mi stai sul cazzo in una maniera credo allucinante. Ti credi il re della simpatia, ci fosse mezza volta che fai ridere con una battuta che non colpisca una minoranza. Il problema? Alle donne piaci pure. Forse è il profumo, il responsabile. Hai soldi, te ne intendi di fragranze, sai come camuffarti il personaggio per fittare in vari posti di ranghi diversi; solito camaleonte manipolatore. Non vale la pena usare il tempo per te, perchè tutto ciò che fai è frutto di un passato insicuro tremendamente profondo che ti ha segnato e tuttora descrive lo schifo che hai e che nascondi in modo fallimentare. Io lo vedo.
+
+**NASOMATTO Pardon**  
+![](images/image247.png)  
+*10/10*  
+Mi terrorizzano i ragazzi che ne sanno di profumi di nicchia, perchè vuol dire che oltre a essere narcisisti, sanno anche come attirare le prede. Mi fanno troppa paura. Se hanno i social ancora di più. Altrimenti, uomo dei miei sogni. Poi NASOMATTO è da ricconi quindi... baby come to mama.
+
+**MERCEDES-BENZ Mercedes Benz Club Black Eau de Parfum / Eau de Toilette**  
+![](images/image248.png)
+![](images/image249.png)  
+*7/10*  
+Oddio ma sai che? Dopo 20 spruzzate diventi il fidanzato ideale. Un vero peccato per l'esplora Instagram che pullula di OnlyFanser e per la stempia precoce. Stavi ore su Twitch/YouTube a seguire le live di gente che guadagna il triplo di te e rimanevi pure attivo in chat per sentire il tuo nome chiamato dallo sfigato che streamma, però venivi moderato per spam.
