@@ -32,8 +32,14 @@ function search() {
         p.style.display = query === '' ? '' : 'none';
     });
     perfumeBlocks.forEach(block => {
-        const strongElement = block[0].querySelector('strong');
-        const perfumeName = strongElement ? removeAccents(strongElement.textContent.toLowerCase()) : '';
+        let perfumeName = '';
+        for (let el of block) {
+            const strongElement = el.querySelector('strong');
+            if (strongElement) {
+                perfumeName = removeAccents(strongElement.textContent.toLowerCase());
+                break;
+            }
+        }
         const visible = query === '' || perfumeName.includes(query);
         block.forEach(el => {
             el.style.display = visible ? '' : 'none';
@@ -46,7 +52,7 @@ function loadIntro() {
     .then(response => response.text())
     .then(markdown => {
         const lines = markdown.split('\n');
-        const intro = lines.slice(0, 60).join('\n');
+        const intro = lines.slice(0, 65).join('\n');
         const html = marked.parse(intro);
         document.getElementById('intro-content').innerHTML = html;
         renderMathInElement(document.getElementById('intro-content'), {
@@ -136,23 +142,21 @@ ${markdown}`;
                 {left: '\\[', right: '\\]', display: true}
             ]
         });
-        let allElements = Array.from(content.querySelectorAll('*'));
+        let allElements = Array.from(content.children);
         perfumeBlocks = [];
         let currentBlock = [];
         for (let el of allElements) {
-            if (el.tagName === 'PRE' || (el.closest('pre'))) {
+            if (el.classList && el.classList.contains('search-container')) {
+                continue;
+            }
+            if (el.tagName === 'PRE') {
                 continue;
             }
             if (el.tagName === 'P' && el.querySelector('strong')) {
-                // Se è un titolo, inizia un nuovo blocco
-                if (!el.querySelector('code') && !el.querySelector('.katex')) {
-                    if (currentBlock.length > 0) {
-                        perfumeBlocks.push(currentBlock);
-                    }
-                    currentBlock = [el];
-                } else {
-                    if (currentBlock.length > 0) currentBlock.push(el);
+                if (currentBlock.length > 0) {
+                    perfumeBlocks.push(currentBlock);
                 }
+                currentBlock = [el];
             } 
             else if (currentBlock.length > 0 && (el.tagName === 'P' || el.tagName === 'IMG' || el.tagName === 'BR' || el.tagName === 'DIV')) {
                 if (el.tagName === 'P' && el.querySelector('code')) {

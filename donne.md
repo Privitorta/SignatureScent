@@ -654,14 +654,18 @@ Sei una di quelle che rompe il cazzo perchè dice di essere nata nell'epoca sbag
 *3/10*  
 Bah, allora... innanzitutto, sei convinta di aver selezionato la fragranza di nicchia elite che ti dona un'aura incredibilmente misteriosa, la verità sfortunatamente trapela e si nota appena apri la boccuccia con la lip combo di Deborah Milano; non attira gli uomini come le mosche, attira le mosche e basta perchè sa di merda. Speri vivamente, ogni volta che esci di casa, che qualcuno te lo complimenti questo profumo, anche perchè ci hai speso tutti i soldini tirati su a fare la cameriera (molestata 24/7). Se lo indossi non hai personalità, hai un perimetro di sicurezza... hai una paura fottuta di passare inosservata ma la risposta non la trovi a puzzare di crimine chimico.
 
-**MARC JACOBS Daisy Sunshine / Daisy Delight / Daisy Twinkle / Daisy Skies / Daisy Spring**  
+**MARC JACOBS Daisy Sunshine / Daisy Twinkle / Daisy Skies / Daisy Spring**  
 ![Daisy Sunshine](images/image215.png)
-![Daisy Delight](images/image216.png)
 ![Daisy Twinkle](images/image214.png)
 ![Daisy Skies](images/image222.png)
 ![Daisy Spring](images/image223.png)  
 *1/10*  
 Vivi in una bolla di sapone. Personalità dipendente con regressione infantile. "Non voglio crescere e fuori fa freddo". Soffri di una fissazione alla fase orale/narcisistica Primaria. Cerchi il conforto di un odore pulito, floreale e leggermente zuccherino che funga da copertina di Linus. Deficit cronico di ossitocina. Cerchi nel profumo quella scarica di affetto familiare sintetico per placare un cortisolo costantemente alto.
+
+**DOLCE & GABBANA Dolce Garden**  
+![](images/image250.png)  
+*7/10*  
+Overdose dolce di cocco e frangipani che praticamente funziona come oppioide olfattivo. Objective? Sedarel'amigdala di chi non sopporta i lunedì mattina in ufficio? Hai una vaga convinzione di essere una donna esotica, diversa, forse intrigante. Vuoi essere mangiata perchè non hai nulla da dire. Sei vittima del marketing del comfort food e usi il profumo come regressione alla fase orale.
 
 **GLOSSIER You**  
 ![](images/image203.png)    
@@ -671,7 +675,12 @@ Sei molto convinta di essere unica. Ovviamente non è così. Vittima dell'ondata
 **MUGLER Alien Goddess**  
 ![](images/image205.png)    
 *7/10*  
-L'Alien originale è un sovraccarico di glutammato che genera ansia, la versione Goddess è un ansiolitico olfattivo. Mugler user comunque $\implies$ problematica. Questo profumo funge da surrogato all'abbraccio materno che probabilmente ti è mancato o che è stato condizionato dalla tua performance. Soffri di deficit di serotonina che cerch di compensare con picchi di dopamina a breve termine. Dunque... oso un borderline. Un discreto e rispettabile narcisismo. Passi tanto tempo a scrollare. Vuoi essere adorata e hai bisogno di approvazione, temi di essere terribilmente ordinaria, sei complessa in modalità lite, fai la pazza spesso e volentieri. Hai voragini emotive immense. 
+L'Alien originale è un sovraccarico di glutammato che genera ansia, la versione Goddess è un ansiolitico olfattivo. Mugler user comunque $\implies$ problematica. Questo profumo funge da surrogato all'abbraccio materno che probabilmente ti è mancato o che è stato condizionato dalla tua performance. Soffri di deficit di serotonina che cerch di compensare con picchi di dopamina a breve termine. Dunque... oso un borderline. Un discreto e rispettabile narcisismo. Passi tanto tempo a scrollare. Vuoi essere adorata e hai bisogno di approvazione, temi di essere terribilmente ordinaria, sei complessa in modalità lite, fai la pazza spesso e volentieri. Hai voragini emotive immense.
+
+**DOLCE & GABBANA Dolce Peony**  
+![](images/image255.png)  
+*4/10*  
+L'insostenibile leggerezza dell'essere... nessuno. La peonia è il fiore della timidezza, generalmente. Qui diventa il fiore della vigliaccheria sociale. Un acquerello sbiadito mollato sotto litri di pioggia. Cerchi di proiettare costantemente una sorta di immagine di femminilità delicata e frizzante per nascondere il fatto che la tua personalità ha la stessa consistenza del polistirolo.
 
 **LANCÔME La Vie Est Belle Vanille Nude**  
 ![](images/image206.png)    
@@ -682,14 +691,57 @@ $$ \Phi_{LVEBVN} = \frac{\int_{t_0}^{t} (\text{Amigdala}_{\text{hyper}} \cdot e^
 </p>
 Dove $\text{Amigdala}_{\text{hyper}}$ è il tuo stato di animo di perenne allerta e ansia sociale, $e^{-\lambda \text{Vaniglia}}$ è il fattore di smorzamento chimico perchè la vaniglia è il tuo Lexotan, sopprime le risposte di attacco/fuga del tuo vuoto interiore e $\sigma_{\text{Dissociazione}}$ è la costante di deviazione dalla realtà perchè più ti senti davvero quello che credi di dimostrare, più ti allontani dalla tua vera sofferenza neurobiologica. Ora che la formula è codificata, il trauma è ufficialmente quantificabile. È molto più difficile negare un problema quando è espresso in una frazione con un integrale di linea, non trovi?
 
+**DOLCE & GABBANA Dolce Shine**  
+![](images/image253.png)  
+*3/10*  
+Ma cosa ti è successo esattamente di così terribile tra i 4 e i 6 anni? No perchè, è complesso stilare una diagnosi sperimentale quando manifesti sintomi di una dozzina di malattie mentali.
+
 **TOM FORD Tobacco Vanille**  
 ![](images/image207.png)    
 *8/10*  
 Sei stata quasi sicuramente una golden child, dovevi sempre brillare, in tutto ciò che facevi, essere costantemente perfetta e non dare problemi, sorridendo oltre ogni cazzo per mantenere l'equilibrio familiare. Invisibile da piccola. Eri amata per quello che facevi e non per chi eri. Quindi,  ora sei incline a un narcisismo vulnerabile con ovvi tratti istrionici, proietti tutta la tua identità in una immagine "divina" perchè il tuo io è sepolto sotto strati spessissimi di aspettative. Nessuno vedrà la cenere che hai dentro, right baby?
 
-**MARC JACOBS Daisy Garland / Daisy Kiss**  
+**MARC JACOBS Daisy Garland / Daisy Delight / Daisy Kiss**  
 ![Daisy Garland](images/image219.png)
+![Daisy Delight](images/image216.png)
 ![Daisy Kiss](images/image212.png)   
 *3/10*  
 Apoteosi dell'inutilità. Sei il nulla cosmico. Soffri di anedonia sociale, non hai passioni, non hai guizzi, non hai nemmeno un colore preferito, sei una comparsa che ha paura di avere un odore, quindi scegli cosa ne ha meno di tutti. La tua regressione si tinge di un romanticismo delirante. La tua vita adulta è un deserto affettivo. Sei innamorata dell'idea dell'amore.
 
+**DOLCE & GABBANA Dolce**  
+![](images/image251.png)  
+*5/10*  
+Sei una ragazza brava. Non hai mai preso una nota, chiedi sempre scusa, riconosci quando sbagli. Sei come un vino bianco annacquato a un matrimonio. Non vivi troppi drammi, in realtà, la maggior parte te li crei. Temi spesso di essere di troppo ma la verità è che non occupi lo spazio che dovresti. Sei sempre ordinata e carina e non vivi davvero niente. Sei un accessorio di te stessa. Risulti asettica. Non sei mai trasparente con le tue emozioni, ti rintani nell'ansia. Fai capire alle persone che hai una pulsazione cardiaca, ogni tanto.
+
+**BYREDO Bal d'Afrique**  
+![](images/image246.png)  
+*9/10*  
+Sei quel tipo di intelligente che mette in soggezione le persone. A primo impatto sembri sempre stronza. Ovviamente lo sei, ma sei talmente brava a nasconderlo che fai venire i brividi. E la gente ci crede, e non lo nota. Hai sofferto tanto, si, è vero, ma hai imparato tanto; hai fatto e fai tuttora moltissimi sbagli soprattutto quando c'è di mezzo l'emotività. Rimani Donna con la D maiuscola.
+
+**DOLCE & GABBANA Dolce Blue Jasmine**  
+![](images/image252.png)  
+*4/10*  
+Se il nulla avesse un odore, sarebbe questo gelsomino ozonico e sterile. Non prendi posizioni, mai. Non sai finire un discorso e a malapena iniziarlo. Il massimo di profondità che trasmetti sono i trend che copi da Instagram, tipo quelli in cui scrivono "4 foto della tua Estate o muori domani". Probabilmente anni fa bullizzavi e poi hai perso coraggio e carattere e ora fingi di essere stata bullizzata tu, perchè va di moda fare le vittime indifese. I tuoi livelli di noradrenalina sono così bassi che potresti essere clinicamente morta e non accorgertene.
+
+**XERJOFF XJ 1861**  
+![](images/image91.png)  
+*10/10*  
+Sei geniale, splendida, e fai anche molto ridere, ma sempre con classe, non so come sia possibile. Poi quando sei a tuo agio diventi uno scaricatore di porto (bellissima). Fatichi a stare al passo con le aspettative che, per giunta, ti poni da sola; ma entrambe sappiamo chi le ha poste alla base.
+
+**LATTAFA Nebras**  
+![](images/image258.png)  
+*5/10*  
+Forse sarebbe meglio se il profumo non si aprisse con lo stesso odore di una cripta. Non sei niente di che, semplice, mediocre, senza peculiarità. Non entusiasmi nessuno, nemmeno te stessa, vorresti che le persone ti dessero più credito per quello che fai.
+
+**DOLCE & GABBANA Dolce Violet / Dolce Lily / Dolce Rose**  
+![](images/image254.png)
+![](images/image257.png)
+![](images/image256.png)  
+*5/10*  
+Il trio della lobotomia floreale. Convinta di essere una persona pura, manipoli qualsiasi uomo (ma sei più brava a farlo a distanza). Piangi spesso e ti fai le foto col mascara colato. Hai iniziato a truccarti prestissimo e ora è fuori questione uscire senza il mascherone (il fondotinta rigorosamente del tono sbagliato). L'ultimo libro letto è il menu Starbucks. Sei un mazzo di fiori di plastica in un vaso di cristallo, da lontano bellissima, poi più ti avvicini... più ti interessi... e più capisci che è tutta plastica (non chirurgia, proprio  identità). Dovresti provare a sporcarti di più le mani.
+
+**PENHALIGON The World According to Arthur / The Tragedy of Lord George**  
+![](images/image271.png)
+![](images/image273.png)  
+*10/10*  
+Io credo sia ormai impossibile trovare profumi così evocativi e formulati così bene. Ho poco da dire, veramente, li metto solo per un gran rispetto. Li amo da morire. Buonissimi. E amo anche te at this point! Take ME!

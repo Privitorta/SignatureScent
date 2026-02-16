@@ -13,7 +13,7 @@ Andiamo assieme a vivere in una casa, in montagna, senza internet, dimmi come ti
 
 **VERSACE Eros**  
 ![Eros](images/image89.png)  
-*5/10*  
+*6/10*  
 Alle medie mi piaceva. Poi ho avuto a che fare col tipo di cliente, *per fortuna non romanticamente*. TAMARRO 100%  
 Classico ragazzo con lo spray all'acqua di mare che si tocca il ciuffo ogni 4 secondi, HAI ROTTO IL CAZZO, sei un roito lo stesso. Insopportabile. Re dei breadcrumber, dai quel tanto che basta per tenere una ragazza legata e quando si gira ti trasformi nel predatore più viscido su cui si sia mai posato il peccato umano. La tua massima aspirazione è farti fare un video mentre guidi una macchina che non è tua, con la trap a palla e il braccio fuori dal finestrino. Se una donna ti frequenta è perché ha un trauma irrisolto e tu ne sei la perfetta incarnazione aggiornata, e non è un complimento; devi crescere. Immaturità clinica.
 
@@ -68,7 +68,7 @@ Ma non è che ti andrebbe di tirar su famiglia? Se non sei pronto posso aspettar
 *10/10*  
 Classe pura. Boozy. Whiskey. Sei un uomo della madonna. Peccato davvero per la hairline che ti ha salutato a 17 anni dopo le delusioni d'amore. Arriva l'ora di farsi pelati, chiedi aiuto su r/bald. Anyway, molto, molto affine all'uomo che usa Dior Homme Intense. Siete simili. Ma con più eleganza, quasi femminile (quindi niente di male).
 
-**PRADA L'Homme / YSL L'Homme**  
+**PRADA L'Homme / YVES SAINT LAURENT L'Homme**  
 ![L'Homme](images/image45.png)
 ![L'Homme](images/image102.png)  
 *6/10*  
@@ -76,14 +76,14 @@ L'uomo "pulito". Quello che odora di sapone costoso e ufficio climatizzato. Semb
 
 **CHANEL Allure Homme Sport**  
 ![Allure Homme Sport](images/image147.png)  
-*5/10*  
+*4/10*  
 Chanel è l'unico brand di lusso che il tuo cervello limitato riesce a riconoscere e hai scelto la versione "Sport" perché vuoi proiettare l'immagine dell'uomo dinamico, fresco, che "ha la situazione in pugno", in pugno hai solo il tuo cazzo minuscolo. Sei un tipo tremendamente noioso che non rischia mai, che sceglie sempre la via più sicura, un groviglio di mediocrità e conformismo. Investimento sicuro per una vita piatta.
 
 **PACO RABANNE Invictus**  
 ![Invictus](images/image57.png)  
 *4/10*  
 Un trofeo di plastica per una dignità di cartone.  
-Con una media campionaria di 16,25 bugie al giorno, tu sei un bastardo e Invictus si aggiudica quasi il podio nella classifica dei profumi per uomini bugiardi. Sei un ragazzetto che vive in una perenne fase di negazione della realtà. La boccetta a forma di trofeo è l'unica coppa che vedrai mai nella tua vita. "Gymbro" che passa più tempo a guardarsi le vene dell'avambraccio che ad allenarsi davvero. Odori di schiuma da barba economica, urli "voglio essere notato ma non ho nulla di interessante da dire". Sei un manipolatore di basso livello, usi l'aggressività e il rumore per nascondere che, tolto il profumo e la maglietta attillata di due taglie più piccola, rimani un pirla che ha paura degli insetti. Sei quello che commenta "alfa" sotto i video motivazionali di gente che è finita in prigione.
+Con una media campionaria di 16,25 bugie al giorno, tu sei un bastardo e Invictus si aggiudica quasi il podio nella classifica dei profumi per uomini bugiardi. Sei un ragazzetto che vive in una perenne fase di negazione della realtà. La boccetta a forma di trofeo è l'unica coppa che vedrai mai nella tua vita. "Gymbro" che passa più tempo a guardarsi le vene dell'avambraccio che ad allenarsi davvero. Odori di schiuma da barba economica, urli "voglio essere notato ma non ho nulla di interessante da dire". Sei un manipolatore di basso livello, usi l'aggressività e il rumore per nascondere che, tolto il profumo e la maglietta attillata di due taglie più piccola, rimani un pirla che ha paura degli insetti. Sei quello che commenta "alpha" sotto i video motivazionali di gente che è finita in prigione.
 
 **GIORGIO ARMANI Stronger With You Intensely**  
 ![Stronger With You Intensely](images/image90.png)  
@@ -167,7 +167,7 @@ Sei manipolatore nel senso più autoritario del termine. Pensi che la tua opinio
 **PACO RABANNE 1 Million / 1 Million Elixir**  
 ![1 Million](images/image110.png)
 ![1 Million Elixir](images/image143.png)  
-*6/10*  
+*5/10*  
 Sei un coglione totale. Cafone e rumoroso. Tamarro come pochi. Hai un debito con la findomestic per le rate della macchina usata che guidi come se fossi in Fast & Furious. Ti prego togli l'highlight "me" dal profilo e cambia scarpe, hai le stesse AF1 da un decennio.
 
 **PACO RABANNE Phantom**  
@@ -180,7 +180,7 @@ Non hai un singolo pensiero originale. Sei manipolabile da chiunque abbia un min
 *10/10*  
 Fai di me ciò che vuoi\!
 
-**DIOR Homme Intense 2011 / Dior Homme Intense 2025**  
+**DIOR Homme Intense 2011 / Homme Intense 2025**  
 ![](images/image77.png)
 ![](images/image61.png)  
 *10/10*  
@@ -213,7 +213,7 @@ Di nuovo, le mie parole, per questo profumo, non sarebbero bastate.
 L'edgy dei poveri. Il "finto depresso" che ha fatto della tristezza la sua intera personalità perché non ha nient'altro da offrire. Vuoi disperatamente sembrare un "artista tormentato". Sei un manipolatore affettivo che usa la sua presunta malinconia come esca per attirare donne con la sindrome della crocerossina.   
 Sei quello che "Scusa se non ti ho risposto, mi ero perso guardando il cielo", poi si scopre che stavi rankando su LOL. Sei pesante, lugubre. Un trauma noioso e evitabile, non sei da curriculum.
 
-**YSL Y / Y Eau de Parfum**  
+**YVES SAINT LAURENT Y / Y Eau de Parfum**  
 ![](images/image52.png)
 ![](images/image244.png)  
 *7/10*  
@@ -226,7 +226,7 @@ Il dittatore. Chi indossa questo profumo non cerca consensi, cerca sudditi.
 Egocentrico di proporzioni bibliche che vuole letteralmente asfissiare chiunque si trovi nel raggio di 10 metri.   
 Vuoi che tutto ruoti intorno a te, alle tue regole e ai tuoi ritmi. Non accetti critiche, non accetti compromessi. Delirio di onnipotenza fatto a profumo.
 
-**YSL MYSLF**  
+**YVES SAINT LAURENT MYVES SAINT LAURENTF**  
 ![](images/image117.png)  
 *9/10*  
 A me questo profumo tristemente piace da matti. So che è per i manipolatori nabbi ma mi piace. E sono confident nel dire che se lo usi sei anche un solid 8/10 ALMENO\!
@@ -391,7 +391,7 @@ Sei un caso di disturbo da impulso all'acquisto legato a una profonda insicurezz
 
 **BVLGARI Man In Black**  
 ![](images/image228.png)  
-*10/10*  
+*9/10*  
 Capolavoro di equilibrio tra brutalità e raffinatezza. Ma restiamo con i piedi per terra: lo indossi perché vuoi proiettare l'immagine dell'uomo "vissuto", quello che ha segreti indicibili e un conto in banca a sei cifre (anche se magari sei solo un consulente finanziario che vive ancora coi genitori). Odore di chi sa esattamente dove seppellire un corpo o dove nascondere una ricevuta fiscale sospetta. Forti tratti di machiavellismo e narcisismo grandioso. Ti piace il controllo, vuoi essere un salvatore oscuro del caos del mondo, come se tu fossi simbolo di fermezza; tieni le persone a una distanza che permette di ammirare la tua "profondità" (tra virgolette non casualmente) senza mai vedere le tue crepe emotive. Non sai connetterti bene con gli altri; o almeno non sentimentalmente.
 
 **ADIDAS Full Recharge / Spark Up**  
@@ -402,7 +402,7 @@ Sei "fresco" come l'aria condizionata di un ufficio postale. Artificiale, deprim
 
 **DIOR Sauvage Elixir**  
 ![](images/image231.png)  
-*9/10*  
+*8/10*  
 Se il Sauvage originale è il paziente zero, tu sei la variante Delta potenziata in laboratorio. Sei il boss finale della manipolazione. Non ti accontenti di dare fastidio, tu vuoi dominare la chimica cerebrale di chiunque entri nel tuo raggio d'azione. In teoria sei un uomo di potere, o almeno, hai imparato a simularlo così bene che ormai ci credi anche tu. Sei freddo, calcolatore, e probabilmente hai un piano quinquennale anche per decidere cosa mangiare a colazione. La tua è una tossicità d'élite, non urli, sussurri minacce velate dietro un muro radioattivo. Sei quello che non chiede scusa perché "i leader non si spiegano". Sei un dittatore letale come un virus.
 
 **TOM FORD Tobacco Vanille**  
@@ -412,12 +412,12 @@ Old Money fan eh?. Sei convinto di odorare come un club privato londinese degli 
 
 **JEAN PAUL GAULTIER Ultra Male**  
 ![](images/image232.png)    
-*8/10*  
+*7/10*  
 Il predatore da discoteca in perenne arresto di crescita. Sei un uomo di 30 anni intrappolato nel corpo di un ragazzino di 17 (o viceversa!) che ha appena scoperto che può rimorchiare offrendo shot di tequila scadente. Odori di un mix che urla "non ho intenzione di prendermi cura di te, ma voglio che tu ti prenda cura del mio ego per le prossime due ore". Sei quello che fa i TikTok in palestra. La tua maturità emotiva è paragonabile a quella di un tamagotchi abbandonato.
 
 **XERJOFF Torino21**  
 ![](images/image233.png)    
-*4/10*  
+*6/10*  
 Sei il riflesso biondo platino del narcisismo. Pensi che spendere 250€ per un profumo ti renda automaticamente un semidio mediterraneo. Sei quel tipo di manipolatore che ti riempie di attenzioni per farsi dire quanto è bravo, bello e speciale. Se qualcuno non apprezza la tua "aura" lo cancelli dalla tua vita con la stessa velocità con cui carichi un post su Instagram per far vedere che sei in un posto esclusivo.
 
 **LATTAFA Asad / Asad Bourbon / Asad Zanzibar**  
@@ -439,7 +439,7 @@ Sei l'odore del primo ex di qualcuno, quello che ha lasciato un trauma ma che og
 
 **JEAN PAUL GAULTIER Le Beau**  
 ![](images/image239.png)    
-*8/10*  
+*7/10*  
 Ho VERAMENTE TANTO da dire a te. Il narcisista delle "Good Vibes" che pensa che una foglia di fico sul pacco (della boccetta e basta, spero) sia un manifesto filosofico. Sei convinto che basti odorare di buono per essere considerato un Adamo nel paradiso terrestre ma sei un ragazzetto che va in palestra 3 volte a settimana e passa il resto del tempo a editare le foto dei suoi bicipiti per qualche scema con la Iqos. Sei la versione tarda di Le Beau Paradise Garden, almeno tu non fingi di essere un investitore di Dubai, sei un failed gym rat che sogna Formentera tutto l'anno. Esisti solo attraverso lo specchio. Se non ci fosse Instagram, la tua autostima evaporerebbe più velocemente delle note di testa di questo profumo. Un corpo scolpito che ospita "un'anima" con la complessità di un sasso. Forse il sasso è più complesso anzi, per tutta quella retorica che forse se lo tocchi si indurisce... hai presente? Facciamo un `leBeau_kernel_patch.c`.
 
 ```
@@ -478,7 +478,7 @@ Per giustificare quel 0.5, dobbiamo applicare il Principio di Esclusione di Yogu
 
 Dove abbiamo che $\epsilon$ è una costante infinitesimale che rappresenta la probabilità che tu abbia letto almeno il manuale delle istruzioni della creatina e $e^\text{{Cocco}}$ il fattore di crescita esponenziale dell'illusione di essere attraente; quindi più profumo indossi più la tua percezione della realtà si distorce.
 
-**YVES SAINT LAURENT MYSLF L'Absolu**  
+**YVES SAINT LAURENT MYVES SAINT LAURENTF L'Absolu**  
 ![](images/image243.png)    
 *2/10*  
 Stammi alla larga tu sei spaventoso e pericoloso e NON ti sopporto.
@@ -493,19 +493,19 @@ Il re del "Guardatemi o muoio", "Ti prego, dimmi che valgo qualcosa". Mettere un
 *3/10*  
 Boscaiolo peloso che sa di conifera, come fai a non amarlo? Però il profumo fa SBOCCARE. Almost certainly a blind buy di un fan del bagnoschiuma. In generale, un pino pungentissimo, mentolato, fortissimo, troppo intenso; mi ricorda un papà. Icona italica. Ma poi, avete idea di quanti flanker abbia generato questo pilastro?
 
-**YVES SAINT LAURENT MYSLF Le Parfum**  
+**YVES SAINT LAURENT MYVES SAINT LAURENTF Le Parfum**  
 ![](images/image242.png)    
 *10/10*  
 Non ti bastava quello normale? Il fatto che tu debba 'intensificare' è la prova che senti il tuo io svanire. Se l'hai fatto di proposito, hai dei seri, seri problemi di autostima, però ti senti anche Dio. Segui il calcio e ti piace allenarti. Sei molto bello, ma è una bellezza tragica, una facciata barocca costruita su fondamenta di fango. Tendi a provarci per primo con le donne solo perché questo profumo agisce come un esoscheletro psicologico: ti dà l'illusione di un coraggio che non possiedi. Senza quella scia, torni a essere un guscio vuoto, un "nessuno" che evita lo sguardo altrui perché ha paura che la gente scopra il vuoto che nascondi sotto la camicia stretta. La tua sicurezza è una variabile esterna, non è generata dal tuo io, viene spruzzata ogni mattina. Sei come un'auto di lusso senza motore, bellissima da vedere, ma se qualcuno prova a metterti in moto, si sente solo il rumore di una bomboletta spray. Sei un 10/10 visivo ma la tua anima è un errore di compilazione che non verrà mai risolto.
 
 **VERSACE Eros Flame**  
 ![Eros Flame](images/image245.png)  
-*4/10*  
+*5/10*  
 L'odore di chi confonde il bruciore di stomaco con la passione travolgente. Sei la versione "spicy" del tamarro di periferia. Non ti accontenti di essere fastidioso, vuoi essere urticante. Il tuo profumo urla "ho problemi di gestione della rabbia ma cerco di nasconderli dietro un'estetica da amante latino". Sei quello che pensa che discutere animatamente sia "metterci il cuore", quando in realtà stai solo mettendo alla prova la pazienza (e i timpani) di chiunque ti circondi. Sei il re del gaslighting, dai fuoco alla relazione e poi ti lamenti che fa troppo caldo. Il tuo sistema nervoso è un corto circuito perenne tra l'ipotalamo e la tua totale assenza di autocontrollo. Ami intensamente per tre giorni poi diventi un incubo di gelosia e controllo, giustificando tutto con "sono fatto così, sono passionale". No. Sei un incendio in una fabbrica di plastica. Tossico, difficile da spegnere e lasci solo macerie. Altro che "Flame", sei caldo come una stufa difettosa che sta per saltare in aria.
 
 **BYREDO Bal d'Afrique**  
 ![](images/image246.png)  
-*7/10*  
+*9/10*  
 Mi stai sul cazzo in una maniera credo allucinante. Ti credi il re della simpatia, ci fosse mezza volta che fai ridere con una battuta che non colpisca una minoranza. Il problema? Alle donne piaci pure. Forse è il profumo, il responsabile. Hai soldi, te ne intendi di fragranze, sai come camuffarti il personaggio per fittare in vari posti di ranghi diversi; solito camaleonte manipolatore. Non vale la pena usare il tempo per te, perchè tutto ciò che fai è frutto di un passato insicuro tremendamente profondo che ti ha segnato e tuttora descrive lo schifo che hai e che nascondi in modo fallimentare. Io lo vedo.
 
 **NASOMATTO Pardon**  
@@ -513,8 +513,69 @@ Mi stai sul cazzo in una maniera credo allucinante. Ti credi il re della simpati
 *10/10*  
 Mi terrorizzano i ragazzi che ne sanno di profumi di nicchia, perchè vuol dire che oltre a essere narcisisti, sanno anche come attirare le prede. Mi fanno troppa paura. Se hanno i social ancora di più. Altrimenti, uomo dei miei sogni. Poi NASOMATTO è da ricconi quindi... baby come to mama.
 
-**MERCEDES-BENZ Mercedes Benz Club Black Eau de Parfum / Eau de Toilette**  
-![](images/image248.png)
+**MERCEDES-BENZ Mercedes Benz Club Black**  
+![](images/image248.png)  
+*6/10*  
+Oddio ma sai che? Dopo 20 spruzzate diventi il fidanzato ideale. Un vero peccato per l'esplora Instagram che pullula di OnlyFanser e per la stempia precoce. Stavi ore su Twitch/YouTube a seguire le live di gente che guadagna il triplo di te e rimanevi pure attivo in chat per sentire il tuo nome chiamato dallo sfigato che streamma, però venivi moderato per spam.
+
+**LATTAFA Nebras**  
+![](images/image258.png)  
+*5/10*  
+Sei quella persona che vuole sembrare "di nicchia" o alla moda scaricando la responsabilità della propria aura su un algoritmo di duplicazione mediorientale, quella che indossi con fierezza inspiegabile è una vaniglia diabetica che non accarezza e ti prende a schiaffi con la sua sinteticità fino a farti venire il voltastomaco. Quelli come te sono la prova finale che il capitalismo ha vinto in tutto e per tutto, perchè il desiderio di bellezza è diventato una catena di montaggio di cloni appiccicosi. Fai una doccia, lava via questo Nesquik di plastica, e prova a capire chi sei. Possibilmente dopo aver spento l'Oppo che hai in tasca.
+
+**DIOR Homme Parfum / Homme Parfum (2025)**  
+![](images/image266.png)
+![](images/image265.png)  
+*10/10*  
+Come potrei dare meno di 10/10? E poi, una revisitazione di Kurkdjian!? Comunque sia, quasi ovviamente sei la copy-paste dell'uomo che indossa Dior Homme Intense (2011/2025) con l'aggiunta che ti fai il BAGNO nel profumo ogni volta che esci e che hai una filosofia importante con le donne: sempre brutte; le vuoi controllare meglio, quindi sacrifichi il lato estetico pur di avere in mano il loro intero mondo (ah e ovviamente le tradisci).
+
+**PRADA Luna Rossa Carbon / Luna Rossa**  
+![](images/image259.png)
+![](images/image262.png)  
+*6/10*  
+Il Sauvage per chi ha fatto il liceo classico. Predatore che ha sostituito l'assault rifle con un MacBook Pro. Profumo di chi vuole dominare ma con "educazione", o semplicemente non sei capace e sei naturalmente sottomesso, o di chi corregge la grammatica altrui durante un litigio per sentirsi superiore. Tecnocratico, vuoi proiettare un'immagine di efficienza ingegneristica ma la tua solidità è volatile, se non inesistente. Sei convinto che una vita all'insegna dell'estetica del minimal-tech possa riempire il vuoto di rapporti veri, genuini e spontanei (che non hai mai avuto). Se vai in discoteca, sei uno di quelli che ci va in t-shirt monocolore e jeans semi-stretto a cavallo basso.
+
+**PRADA Luna Rossa Ocean / Luna Rossa Eau de Parfum / Luna Rossa Ocean Le Parfum**  
+![](images/image260.png)
+![](images/image263.png)
 ![](images/image249.png)  
 *7/10*  
-Oddio ma sai che? Dopo 20 spruzzate diventi il fidanzato ideale. Un vero peccato per l'esplora Instagram che pullula di OnlyFanser e per la stempia precoce. Stavi ore su Twitch/YouTube a seguire le live di gente che guadagna il triplo di te e rimanevi pure attivo in chat per sentire il tuo nome chiamato dallo sfigato che streamma, però venivi moderato per spam.
+In questo profumo cerchi quello che ti manca nella vita quotidiana monotona e triste. Vorresti dare un tono intellettuale e sportivo alla tua presenza e cerchi di abbindolare chi confonde il silenzio per saggezza. Non sei mai soddisfatto di ciò che hai e sei convinto di essere molto profondo e "maturo", misterioso e inesplorato... ai miei occhi sei un tizio qualsiasi relativamente pulito e mediocre che reposta troppi reel calcistici sui social. Ah e sei basso, accettalo. Per favore. Ti rendi solo ridicolo a cercare di smentire gli altri.
+
+**PRADA Luna Rossa Black**  
+![](images/image261.png)  
+*8/10*  
+Tu ti senti in Matrix e ti senti di aver preso la pillola rossa, l'unica rivolta che hai guidato non so quale potrebbe essere... quella di scuotere la macchinetta che non ti fa scendere le croccantelle al bacon? Profumo ottimo. Sexy as fuck. Urbano. Misterioso. Tu il "misterioso" lo rendi irresponsabilità sentimentale. Non vuoi davvero essere al centro dell'attenzione, preferisci essere quello che tutti osservano dall'angolo della stanza; speri che qualcuno proietti su di te la personalità che non hai avuto il coraggio di impersonare o costruire; il nero, che è anche il colore più presente nel tuo armadio e che c'è su questo profumo, è l'unico colore che non ti costringe a dichiarare chi e cosa sei. Cosa rimane, piuttosto, di te, quando togli la camicetta stirata?
+
+**PENHALIGON Halfeti**  
+![](images/image272.png)  
+*10/10*  
+Il mio amore per Penhaligon mi vieta di mettere voti più bassi del 10 a quanto pare in tutto questo sito?! Comunque, mi piaci tanto. Cioè mi piace il tuo profumo poi c'è da capire se tu sei un malato manipolatore impazzito (probabile, perchè un uomo che sceglie così bene un profumo mi spaventa). Both cases, I' fuck.
+
+**DIOR Homme (2020)**  
+![](images/image264.png)  
+*8/10*  
+Alpha corporate mf much? Qui non c'è l'iris, punto importante di svolta per la personalità del profumo; viene sostituito da cosa? Da legno e l'Iso-E Super. Quindi è stata tolta la poesia per metterci efficienza. Il senso si avvicina all'individuo; l'uomo tutto d'un pezzo che in realtà è un puzzle di merda. Non hai mai cercato l'amore come lo intendono tutti, cerchi validazione del tuo status. La fiducia che hai di te stesso confina con la sociopatia. Loop di cortisolo e dopamina da KPI. Irraggiungibile emotivamente.
+
+**DIOR Homme L'Original**  
+![](images/image267.png)  
+*9/10*  
+Icona. Il "Bello e dannato" per eccellenza. Sei sofisticato ma puzzi di complesso di Edipo irrisolto. Vuoi sembrare artistico e, similmente a Homme Intense, abbassi le difese della vittima e ti riveli freddo e metodico solo quando la hai in pugno (il che accade, tralaltro, piuttosto in fretta). Attiri chi cerca la complessità, e questo aiuta la tua convinzione di essere protagonista di un film d'autore francese... bad luck, la tua trasgressione massima è stata tentare di ordinare un cocktail fuori menu. Estrema vittima della mascolinità tossica, infatti il profumo che sa di rossetto te lo spruzzi come un vero alpha (se no diventa gay).
+
+**DIOR Homme Sport (2021)**  
+![](images/image268.png)  
+*7/10*  
+Dei nostri amati Dior Homme questo non ha niente, quindi ci spostiamo proprio su un'altra dimensione rispetto a quelli già visti. Cercando di ignorare la mia generale idea su qualsiasi profumo che contenga "Sport" nel nome, noi qui siamo davanti a un uomo che scappa ogni secondo dalle sue responsabilità emotive. Vuoi sembrare dinamico, diverso, sfortunatamente trapela la tua paura fottuta di invecchiare o risultare irrilevante. Fai sempre qualcosa perchè se ti fermi un attimino a pensare, devi fare i conti con il vuoto abissale che sei dentro. Restare fermo significa essere scoperto. Stai sempre, sempre, sempre a performare, per un pubblico reale o immaginario (il massimo sforzo mentale che riesci a fare è proprio quello di creare questo pubblico). La trilogia di Dior Homme è la storia di un uomo che si sta smontando: l'Original cercava di essere un artista, il 2020 ha deciso di essere un dirigente e lo Sport sta cercando di scappare da entrambi.
+
+**MANCERA Red Tobacco / Red Tobacco Intense**  
+![](images/image269.png)
+![](images/image270.png)  
+*10/10*  
+Not even a guillotine could stop the head I'd give you.  
+Le alternative, però, sono due: un bono colossale, manipolatore, alto 3 metri, 20cm di cazzo, pieno di soldi oppure un cesso che fa pietà e usa i soldi riciclati, lavora sotto il padre e ha 8 ore giornaliere sugli YouTube shorts. Quindi bisogna valutare...
+
+**PENHALIGON The World According to Arthur / The Tragedy of Lord George**  
+![](images/image271.png)
+![](images/image273.png)  
+*10/10*  
+Io credo sia ormai impossibile trovare profumi così evocativi e formulati così bene. Ho poco da dire, veramente, li metto solo per un gran rispetto. Li amo da morire. Buonissimi. E amo anche te at this point! Take ME!

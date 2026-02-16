@@ -18,12 +18,17 @@
 **Alcune cose importanti da tenere a mente *prima*, *durante* e *post* lettura:**
 
 * non voglio in alcun modo fare frecciatine a persone, conoscenti, amici, fidanzati, madri, figli, sorelle, nessuno.
-* per i profumi unisex, in base alla sezione in cui sono posti, sto ponendo il giudizio solo al sesso di quest'ultima; solo se presente in entrambi vale per ambedue i sessi.
+* per i profumi unisex, la valutazione è in base alla sezione in cui sono posti, quindi sto ponendo il giudizio solo a quel genere; se presente in entrambi vale per ambedue i sessi.
 * tutti i profumi che ho messo sono profumi che ho sentito almeno una volta dal vivo, non ci sono blind reviews.  
 * il mio giudizio si rifà a *stereotipi* e idee *personali* basate sulla piramide olfattiva e sull’esperienza.  
 * sotto ad una plateale ironia, si cela un *pizzico* di vero (come sempre).  
-* tanti profumi sono nella mia stessa collezione, non specifico sempre quali. *mi metto al vostro livello ;)*  
-* se usi il dupe del profumo che descrivo, il giudizio *perde* di valore, in quanto considero *anche* il fattore economico.
+* tanti profumi sono nella mia stessa collezione, non specifico sempre quali. *mi metto al vostro livello*
+
+Il giudizio *perde* di valore se:  
+* se usi il dupe del profumo che descrivo, in quanto considero *anche* il fattore economico.
+* se il profumo ti è stato regalato, in quanto non è stato spontaneamente scelto e comprato.
+* se ne usi solo un campioncino gratuito.
+* se non ti appartiene, in quanto lo usi con poca coscienza.
 
 Se **non hai** una signature scent ma vuoi comunque trovare i tuoi profumi in questo documento, tieni a mente che le critiche **non** sono pensate per essere *cumulabili*. Il giudizio è stato studiato su misura con l’idea che il profumo in questione sia la tua **signature**, e cercare più profumi che possiedi per farti un’idea che *somma* le critiche tra loro **non** è l’ideale.   
 Ovvio che il fatto che non sia ideale non implichi necessariamente che sia tutto errato, ma l’uso non è stato originariamente pensato così, dunque è giusto specificarlo.
