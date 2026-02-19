@@ -226,7 +226,7 @@ Il dittatore. Chi indossa questo profumo non cerca consensi, cerca sudditi.
 Egocentrico di proporzioni bibliche che vuole letteralmente asfissiare chiunque si trovi nel raggio di 10 metri.   
 Vuoi che tutto ruoti intorno a te, alle tue regole e ai tuoi ritmi. Non accetti critiche, non accetti compromessi. Delirio di onnipotenza fatto a profumo.
 
-**YVES SAINT LAURENT MYVES SAINT LAURENTF**  
+**YVES SAINT LAURENT MYSLF**  
 ![](images/image117.png)  
 *9/10*  
 A me questo profumo tristemente piace da matti. So che è per i manipolatori nabbi ma mi piace. E sono confident nel dire che se lo usi sei anche un solid 8/10 ALMENO\!
@@ -238,18 +238,18 @@ Whatever you say, handsome.
 
 **TOM FORD Oud Wood**  
 ![](images/image109.png)  
-*5/10*  
+*6/10*  
 L'aspirante magnate che vive di apparenze. Pensi davvero che questo profumo basti a darti un'aura di potere e autorità?   
 Usi il gergo aziendale anche a letto e valuti le persone in base al loro potenziale di utilità. Sei ossessionato dallo status e dal controllo, ma sotto quella coltre di sintetico sei un uomo terrorizzato dal fallimento e dal giudizio altrui. Sei quello che compra i libri di crescita personale per lasciarli sul comodino e farsi vedere acculturato. Sei freddo, calcolatore. Sei un mobile di design scomodo, bello da vedere (forse… ho dubbi anche lì), incubo da avere in casa. Capitalismo olfattivo.
 
 **GIORGIO ARMANI Acqua di Giò**  
 ![](images/image58.png)  
-*6/10*  
+*7/10*  
 Il profumo di tuo (e mio) padre, o di un uomo che ha smesso di evolversi quando è caduto il Muro di Berlino. Sei l'uomo sicuro, quello noioso. Manipoli per le circostanze, ti piace fare il trattamento del silenzio, ma spesso e volentieri ti limiti a esistere, sperando che qualche crocerossina ti scelga per la tua "stabilità" che, spoiler, non ESISTE. Sei l'antisesso.
 
 **TOM FORD Ombré Leather**  
 ![](images/image139.png)  
-*7/10*  
+*8/10*  
 Bombo.  
 Peccato che lo indossano solo ragazzetti che sono terrorizzati all'idea di sporcarsi le mani con le uova e la farina insieme. Un uomo rude, tutto cuoio e mistero??? Cazzata, sei un insicuro che ha bisogno di un odore da duro per nascondere che piangi se ripensi alla friendzone delle medie. Forse sei pure fregno, ma dopo dieci minuti di conversazione si capisce che il cuoio è l'unica cosa profonda che hai.
 
@@ -295,7 +295,7 @@ Mi vergogno a dire che mi piace, però si, mi piace. Quanto a te sei problematic
 
 **ORTO PARISI Megamare**  
 ![](images/image18.png)  
-*6/10*  
+*7/10*  
 Non siamo nemmeno più di fronte a un profumo, ci stiamo proprio sedendo davanti ad un disturbo antisociale di personalità liquido. Direi uno che gode nel dominare lo spazio fisico degli altri senza permesso, la versione olfattiva di un predatore che marca il territorio col piscio, ma lo fai con una molecola che non va via neanche con l'acido solforico. Hai bisogno di urlare per esistere. Hai pochi modi di entrare nelle vite degli altri e questo profumo è una di quelle. Sei tossico nel midollo, hai bisogno di una perizia psichiatrica prima di una signature scent.
 
 **M. MICALLEF Notorious XO**  
@@ -315,12 +315,12 @@ Egoista travestito da monaco. Il manipolatore "Zen" (o presunto tale). Vuoi proi
 
 **VIKTOR & ROLF Spicebomb**  
 ![](images/image66.png)  
-*7/10*   
+*6/10*   
 "Guardatemi, esisto!". Che ridere, se ti avessi davanti a tutti i tuoi mansplaining risponderei come si risponde ai bambini che dicono cazzate. Sei rumoroso, caotico e profondamente invadente. Non hai il minimo concetto di spazio vitale altrui: tu entri in un posto e devi saturarlo, come se stessi marchiando il territorio. Ottieni attenzione facendo confusione, provocando reazioni forti perché non sai come generare interesse reale. Sei il tipo che fa battute fuori luogo, che ride troppo forte e che pensa che "essere un personaggio" sia un sostituto della personalità.
 
 **VIKTOR & ROLF Spicebomb Extreme**  
 ![](images/image97.png)  
-*8/10*  
+*7/10*  
 Uguale a Spicebomb, meno l'incapacità di gestire situazioni e relazioni sociali. Hai i tuoi limiti, ma sei comunque invadente a modo tuo; fai double texting a quelle che non ti rispondono e non caghi le poverette che ti vanno dietro da 3 anni (dipendenza affettiva data da traumi, tranquillo, non è merito tuo o del tuo fascino).
 
 **XERJOFF XJ 1861**  
@@ -335,7 +335,7 @@ Questo profumo fa vomitare e tu anche. Innanzitutto, non sai neanche cosa signif
 
 **ADIDAS Chill Zone**  
 ![](images/image227.png)  
-*6/10*  
+*3/10*  
 Sei l'equivalente umano di un bicchiere di cola lasciato sgasare al sole. Privo di sostanza e vitalità una volta passata l'effervescenza chimica. È il profumo di chi ha trasformato la propria igiene personale in una pratica burocratica: "Ho fatto la doccia? Sì. Ho messo qualcosa? Sì." Fine della personalità. Hai talmente paura di essere giudicato per i tuoi gusti che hai deciso di non averne. Sei intrappolato in una zona di comfort che in realtà è una palude di stagnazione emotiva.
 
 **CALVIN KLEIN CK One / CK One Essence**  
@@ -386,7 +386,7 @@ L'odore di chi ha sostituito l'autostima con le calorie. Alle feste di compleann
 
 **ADIDAS Dream Glaze**  
 ![](images/image226.png)  
-*6/10*  
+*5/10*  
 Sei un caso di disturbo da impulso all'acquisto legato a una profonda insicurezza materiale. Non arrivi a fine mese perché spendi in "cavolate" (gadget, dupe di profumi, cibo spazzatura) nel disperato tentativo di comprare la felicità che ti è stata negata (o che pensi ti sia stata negata) nell'infanzia.
 
 **BVLGARI Man In Black**  
@@ -478,7 +478,7 @@ Per giustificare quel 0.5, dobbiamo applicare il Principio di Esclusione di Yogu
 
 Dove abbiamo che $\epsilon$ è una costante infinitesimale che rappresenta la probabilità che tu abbia letto almeno il manuale delle istruzioni della creatina e $e^\text{{Cocco}}$ il fattore di crescita esponenziale dell'illusione di essere attraente; quindi più profumo indossi più la tua percezione della realtà si distorce.
 
-**YVES SAINT LAURENT MYVES SAINT LAURENTF L'Absolu**  
+**YVES SAINT LAURENT MYSLF L'Absolu**  
 ![](images/image243.png)    
 *2/10*  
 Stammi alla larga tu sei spaventoso e pericoloso e NON ti sopporto.
@@ -493,7 +493,7 @@ Il re del "Guardatemi o muoio", "Ti prego, dimmi che valgo qualcosa". Mettere un
 *3/10*  
 Boscaiolo peloso che sa di conifera, come fai a non amarlo? Però il profumo fa SBOCCARE. Almost certainly a blind buy di un fan del bagnoschiuma. In generale, un pino pungentissimo, mentolato, fortissimo, troppo intenso; mi ricorda un papà. Icona italica. Ma poi, avete idea di quanti flanker abbia generato questo pilastro?
 
-**YVES SAINT LAURENT MYVES SAINT LAURENTF Le Parfum**  
+**YVES SAINT LAURENT MYSLF Le Parfum**  
 ![](images/image242.png)    
 *10/10*  
 Non ti bastava quello normale? Il fatto che tu debba 'intensificare' è la prova che senti il tuo io svanire. Se l'hai fatto di proposito, hai dei seri, seri problemi di autostima, però ti senti anche Dio. Segui il calcio e ti piace allenarti. Sei molto bello, ma è una bellezza tragica, una facciata barocca costruita su fondamenta di fango. Tendi a provarci per primo con le donne solo perché questo profumo agisce come un esoscheletro psicologico: ti dà l'illusione di un coraggio che non possiedi. Senza quella scia, torni a essere un guscio vuoto, un "nessuno" che evita lo sguardo altrui perché ha paura che la gente scopra il vuoto che nascondi sotto la camicia stretta. La tua sicurezza è una variabile esterna, non è generata dal tuo io, viene spruzzata ogni mattina. Sei come un'auto di lusso senza motore, bellissima da vedere, ma se qualcuno prova a metterti in moto, si sente solo il rumore di una bomboletta spray. Sei un 10/10 visivo ma la tua anima è un errore di compilazione che non verrà mai risolto.
@@ -527,7 +527,7 @@ Sei quella persona che vuole sembrare "di nicchia" o alla moda scaricando la res
 ![](images/image266.png)
 ![](images/image265.png)  
 *10/10*  
-Come potrei dare meno di 10/10? E poi, una revisitazione di Kurkdjian!? Comunque sia, quasi ovviamente sei la copy-paste dell'uomo che indossa Dior Homme Intense (2011/2025) con l'aggiunta che ti fai il BAGNO nel profumo ogni volta che esci e che hai una filosofia importante con le donne: sempre brutte; le vuoi controllare meglio, quindi sacrifichi il lato estetico pur di avere in mano il loro intero mondo (ah e ovviamente le tradisci).
+Come potrei dare meno di 10/10? E poi, a una revisitazione di Kurkdjian!? Comunque sia, quasi ovviamente sei la copy-paste dell'uomo che indossa Dior Homme Intense (2011/2025) con l'aggiunta che ti fai il BAGNO nel profumo ogni volta che esci e che hai una filosofia importante con le donne: sempre brutte; le vuoi controllare meglio, quindi sacrifichi il lato estetico pur di avere in mano il loro intero mondo (ah e ovviamente le tradisci).
 
 **PRADA Luna Rossa Carbon / Luna Rossa**  
 ![](images/image259.png)
@@ -550,7 +550,7 @@ Tu ti senti in Matrix e ti senti di aver preso la pillola rossa, l'unica rivolta
 **PENHALIGON Halfeti**  
 ![](images/image272.png)  
 *10/10*  
-Il mio amore per Penhaligon mi vieta di mettere voti più bassi del 10 a quanto pare in tutto questo sito?! Comunque, mi piaci tanto. Cioè mi piace il tuo profumo poi c'è da capire se tu sei un malato manipolatore impazzito (probabile, perchè un uomo che sceglie così bene un profumo mi spaventa). Both cases, I' fuck.
+Il mio amore per Penhaligon mi vieta di mettere voti più bassi del 10 a quanto pare in tutto questo sito?! Comunque, mi piaci tanto. Cioè mi piace il tuo profumo poi c'è da capire se tu sei un malato manipolatore impazzito (probabile, perchè un uomo che sceglie così bene un profumo mi spaventa). Both cases, I'd fuck.
 
 **DIOR Homme (2020)**  
 ![](images/image264.png)  
