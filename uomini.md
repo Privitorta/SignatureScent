@@ -579,3 +579,15 @@ Le alternative, però, sono due: un bono colossale, manipolatore, alto 3 metri, 
 ![](images/image273.png)  
 *10/10*  
 Io credo sia ormai impossibile trovare profumi così evocativi e formulati così bene. Ho poco da dire, veramente, li metto solo per un gran rispetto. Li amo da morire. Buonissimi. E amo anche te at this point! Take ME!
+
+**DOLCE & GABBANA K / K Eau de Parfum**  
+![](images/image279.png)
+![](images/image278.png)  
+*6/10*
+A primo impatto io dico che sei un uomo insignificante, del tipo, uno che non si nota, non si fa notare e non ha intenzione di trovare un modo per farsi valere. Hai l'odore di chi segue le regole non perché ci crede ma perché ha troppa paura delle conseguenze del non farlo. Sei il "Re" del salotto mentre guardi le partite ma fuori da lì sei solo un altro ingranaggio della macchina sociale. Cronica mancanza di carisma. Sei prevedibile, affidabile e assolutamente incapace di generare un brivido. Fai tutto "come si deve" sperando che qualcuno ti premi con una pacca sulla spalla, che è l'unica forma di incoronazione che riceverai mai. Validation craving at its peak.
+
+**DOLCE & GABBANA K Eau de Parfum Intense / K Parfum**  
+![](images/image280.png)
+![](images/image277.png)  
+*8/10*  
+Hai deciso che la tua insignificanza meritava una narrazione più oscura. Hai aggiunto il cuoio, lo zafferano e una nota boozy per convincerti di essere un uomo di potere che prende decisioni difficili in stanze fumose. In realtà l'unica decisione difficile che hai preso oggi è stata quale filtro usare per la foto del tuo orologio sul volante dell'auto in leasing. Sei più interessante? Si. Sei più pericoloso? No, sei solo un manipolatore che ha imparato a usare un tono di voce più basso. Ti senti Dio perché la tua scia è più pesante ma sotto quella colata di fichi e cuoio il kernel del tuo sistema operativo restituisce ancora un `identity_not_found_exception`.

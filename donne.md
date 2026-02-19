@@ -745,3 +745,14 @@ Il trio della lobotomia floreale. Convinta di essere una persona pura, manipoli 
 ![](images/image273.png)  
 *10/10*  
 Io credo sia ormai impossibile trovare profumi così evocativi e formulati così bene. Ho poco da dire, veramente, li metto solo per un gran rispetto. Li amo da morire. Buonissimi. E amo anche te at this point! Take ME!
+
+**DOLCE & GABBANA Q  / Q Intense**  
+![](images/image274.png)
+![](images/image276.png)  
+*6/10*   
+Non sai studiare, vuoi fare la mantenuta, odi le responsabilità, parli sempre male del mondo intero, non sai guidare, prendi 30 euro al mese e li spendi tutti in unghie più lunghe della speranza di vita che ha il tuo malessere. Il profumo non è cattivo, è solo dannatamente mediocre, agrumato/fruttato un po' talcato e leggermente femme fatale che cerca di emulare una donna misteriosa e invece somiglia di più all'ortofrutta del mercato.
+
+**DOLCE & GABBANA Q Parfum**  
+![](images/image275.png)  
+*8/10*  
+Oh wait, la reginetta ha deciso di alzare la posta. Ha una ciliegia più scura ed è qui che la manipolazione diventa raffinata. Non sei più solo la ragazzina svogliata; ora sei quella che usa il proprio malessere come un'arma di distorsione della realtà. Sei più affascinante, ma meno tossica? No. Mai. Sei solamente passata dal lamentarti del mondo al cercare di dominarlo attraverso una seduzione pigra e diabetica. È l'odore di chi ha capito che la bellezza può coprire un'anima con la densità dello zucchero filato.
