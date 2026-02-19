@@ -480,7 +480,7 @@ Dove abbiamo che $\epsilon$ è una costante infinitesimale che rappresenta la pr
 
 **YVES SAINT LAURENT MYSLF L'Absolu**  
 ![](images/image243.png)    
-*2/10*  
+*5/10*  
 Stammi alla larga tu sei spaventoso e pericoloso e NON ti sopporto.
 
 **JEAN PAUL GAULTIER Scandal Pour Homme**  
